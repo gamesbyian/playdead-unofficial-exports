@@ -1,0 +1,699 @@
+==============================================================
+Guild: Playdead Unofficial
+Channel: ARG / tldr
+Topic: Start your research here: https://steamcommunity.com/app/304430/discussions/0/359543951720753445/
+
+Then when the Printer icon is discovered on Playdead's website, the conversation moved to this Discord Server.
+
+This is a summary of the Discord findings:
+https://wiki.gamedetectives.net/index.php?title=Inside_ARG
+
+ARG Documentation here:
+https://github.com/twinysam/INSIDE-ARG/
+==============================================================
+
+[6/30/2018 12:18 PM] Deleted User
+@Dodo0303  has discovered that, on iPhone, the printer outputs an entirely new type of string.
+
+
+[6/30/2018 12:18 PM] Deleted User
+https://www.youtube.com/watch?v=xgGshg7gyjE
+
+{Embed}
+AsinoEsel
+https://www.youtube.com/watch?v=xgGshg7gyjE
+inside iphone morse (all credit to dodo0303)
+rotated and zoomed in
+https://images-ext-1.discordapp.net/external/Le67Xf75XmFwOpHjdknVj0p4-5tVF1OsGe06gJ6plLA/https/i.ytimg.com/vi/xgGshg7gyjE/hqdefault.jpg
+
+{Reactions}
+👀 (3)
+
+[6/30/2018 12:19 PM] Deleted User
+These strings appear to consist of black squares and empty pages
+
+
+[6/30/2018 3:29 PM] Deleted User (pinned)
+```--------------------------------------------------------------------```
+For reference, the Google Docs Page with all important information regarding the printer and its strings can be found here:
+https://docs.google.com/document/d/1vlpah0LdCRpJe-OfhnkaiBIcmepGXust5BMbaFJGGt8/edit?usp=sharing
+```--------------------------------------------------------------------```
+
+{Embed}
+https://docs.google.com/document/d/1vlpah0LdCRpJe-OfhnkaiBIcmepGXust5BMbaFJGGt8/edit?usp=sharing
+INSIDE PRINTER SECRET
+INSIDE - PRINTER SECRET (and some other stuff.) INTRODUCTION.  Hi! Currently, we have collected a total of 88 unique strings consisting of morse characters.  41 from PC (video), and another 47 from the Xbox release.  Strings are numbered like so: [0##] - PC Strings [1##] - Xb...
+https://images-ext-1.discordapp.net/external/EUy6bzb1T_LpOizO2C_EzHrUjcWiG4cilOlpnX2Od-k/https/lh3.googleusercontent.com/4lrILIoqz-homSg4u18X3BIt0rxBuZ65jWMolyjfWHmkLaty3vbmhiyC_QZKphMHdoBs6w%3Dw1200-h630-p
+
+
+[6/30/2018 8:03 PM] Deleted User
+We have colour coded the 35 unique Xbox Strings (the long ones), and this is the result
+
+
+[6/30/2018 8:04 PM] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/462755376236986408/shape_correct1.PNG?ex=6abaf287&is=6ab9a107&hm=528f8c0ab203b12afcc8b76bfdfdfacc9f04c10f751291308f205da46af996a4&
+
+
+[6/30/2018 8:05 PM] Deleted User
+Blue = Dash
+
+
+[6/30/2018 8:05 PM] Deleted User
+Red = Slash
+
+
+[6/30/2018 8:05 PM] Deleted User
+Orange = Dot
+
+
+[6/30/2018 8:05 PM] Deleted User
+The current hypothesis is that we have to rearrange the lines in a way that reveals a hidden message within the "bell" shape, as I like to call it.
+
+
+[6/30/2018 8:07 PM] Deleted User
+to keep things short, we believe the bell shape to be in part responsible for keeping the order of the lines somewhat consistent
+
+
+[6/30/2018 8:07 PM] Deleted User
+i went more in depth in the section at the bottom of the Google Docs page (linked above in the previous message) titled "Testing Grounds"
+
+
+[6/30/2018 10:54 PM] elronodelp
+The morse strings on iOS are time based: for each hour a different morse string will pop out (they are a combination of blank and black pages, not dots, slashes and dashes). The entire list can be found on the google doc
+
+
+[6/30/2018 10:59 PM] dodo0303
+https://cdn.discordapp.com/attachments/461275582970462209/462798455300161537/iphonestrings8.PNG kindly offered by @Dodo0303  and @Deleted User 😛
+
+{Embed}
+https://cdn.discordapp.com/attachments/461275582970462209/462798455300161537/iphonestrings8.PNG
+https://media.discordapp.net/attachments/461275582970462209/462798455300161537/iphonestrings8.PNG?ex=6abb1aa6&is=6ab9c926&hm=50ecbc65dab423e27e30218049b50f6cff41593acb5684554348c83fc30577d8&
+
+{Reactions}
+👌 (7) GWfroggyPoggers (8) insideboy (9)
+
+[6/30/2018 11:04 PM] dodo0303
+My original thought was that it was not randomly chosen from a pool, it was scripted in some way, since it would be statistically impossible to achieve a 9 in a row as I did. Then I thought that this script could have been linked to time. I checked some of these sequences at different times in the same hour, the sequence didn’t change as soon as the hour changed. I honestly don’t know if a different date is changing anything, but it’s almost certain that this hour rule is true. More experimenting is needed, especially with dates.
+
+
+[6/30/2018 11:04 PM] dodo0303
+@Deleted User did all the sorting, what a genius
+
+
+[6/30/2018 11:05 PM] dodo0303
+Talking about the order, we thought of Greenwich or Danish time zones (Playdead is Danish). However, patterns don’t seem to emerge
+
+
+[6/30/2018 11:06 PM] dodo0303
+@Deleted User, could you post the ordered sequences here?
+
+
+[6/30/2018 11:12 PM] Deleted User
+image above is UTC+2 (local time)
+
+
+[6/30/2018 11:12 PM] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/462802681409306644/iphonestrings10.PNG?ex=6abb1e95&is=6ab9cd15&hm=901ed62652f15e5b31b37bba3498158274a81e3954a6fd6e5731d4951e759c29&
+
+
+[6/30/2018 11:12 PM] Deleted User
+this one is UTC+0. (universal time)
+
+
+[7/1/2018 1:02 AM] Deleted User
+someone got footage of the printer on the Switch port. this one is an unprecedented 107 character long string of black boxes and blank pages. this almost confirms that the switch represents a fourth pool of platform specific printer codes
+
+
+[7/1/2018 9:42 AM] Deleted User
+the Switch code has been decoded (tentatively). It's simple morse and it reads "CTRL CON DISCON". It remains to be seen if we can coax any other codes out of the printer on Switch. However this has yet to give us a solution, so something is missing or this translation is accidental.
+
+
+[7/1/2018 11:03 AM] Deleted User
+We found what appears to be the intended ordering of the XBOX codes. We are one step closer to solving it.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/462981510174212097/firefox_2018-07-01_09-41-37.png?ex=6abb1c61&is=6ab9cae1&hm=c9193f5b0b0caeb87f554ee7b06d02b9757f738dd5aae1da1c1710eedbc188c5&
+
+
+[7/1/2018 6:36 PM] Deleted User
+breachlog has been updated, and there are three new pages now: printreqstatus_004 thru printreqstatus_006
+
+
+[7/2/2018 1:16 AM] Deleted User
+PitchBright solved the iOS puzzle. Turns out each 25-character line was actually an 5-by-5 ascii letter of the alphabet sliced into 5 pieces stuck end on end. Reading these in order of the hour of the day they appear on happens to produce the string "MULTIPLEPROBESDISPATCHED" which is the answer! When this was entered into the Playdead website, it appears to have directly triggered the pages "printreqstatus_005.html"  to appear, and "printreqstatus_006.html" shortly after
+
+{Reactions}
+insideboy (3)
+
+[7/2/2018 1:42 AM] Deleted User
+entering this correctly also causes this to print
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/463202910956683264/AcroRd32_2018-07-02_00-42-04.png?ex=6abb41d3&is=6ab9f053&hm=67db1240b63c75c86757ddc696e31e427fdfad218fc7fc83bbcee225b015995b&
+
+
+[7/2/2018 6:00 PM] Deleted User
+if you enter "MULTIPLEPROBESDISPATCHED", then stay on the page and try another incorrect code, you'll still get the above page in the end of your printout after the usual "incorrect message received"
+
+
+[7/3/2018 4:31 PM] Deleted User
+This is everything that happened before what's covered in this channel# https://www.reddit.com/r/PlaydeadsInside/comments/8urx3h/major_ongoing_arg_we_need_help_figuring_this_out/
+
+{Embed}
+https://www.reddit.com/r/PlaydeadsInside/comments/8urx3h/major_ongoing_arg_we_need_help_figuring_this_out/
+Major Ongoing ARG: We need help figuring this out • r/PlaydeadsI...
+Here's a summary of the main points of everything that's happened. >**Printer:** Shortly after the release of Inside on June 29th 2016, after...
+https://images-ext-1.discordapp.net/external/0B4f7PHNbPoMIHqRHW0HuWdVoOz8uKazzfjjbwkwR-8/%3Fw%3D320%26s%3Dbfa2641434c662ad4272442013281358/https/i.redditmedia.com/JZoh5qi8pm4d_F9mXUJmb1ydaNHyrQxDmnPaSr07HyI.jpg
+
+
+[7/3/2018 4:42 PM] Deleted User
+well, almost everything... for prehistory, see this steam discussion and the imgur album on it https://steamcommunity.com/app/304430/discussions/0/359543951720753445/?ctp=58
+
+{Embed}
+https://steamcommunity.com/app/304430/discussions/0/359543951720753445/?ctp=58
+A Compilation of Secrets and Mysteries (Spoilers) - UPDATED :: INS...
+https://images-ext-1.discordapp.net/external/u4PpOGi4mm0cJaOlSe-fCbTnR3UTs1VZfa96wCDB6e0/https/steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304430/330a1902986716b0ab8947c8571687403bb99d6e.jpg
+
+
+[7/4/2018 12:15 AM] Deleted User
+user @___mh___. managed to find a message hidden in the image that prints after entering the correct input on the playdead website, encoded in binary in the blue and green columns (interspersed by regular red columns at every 9th place, with green being 1 and blue being 0). It reads "warning |factor 1 security passed| - |[] factors remaining| warning"
+
+
+[7/4/2018 3:41 PM] thingy1637
+https://docs.google.com/document/d/1V9TsI8D-NG191aNplbQxnteboUc_TYl0IViFtkwDKWA/edit
+
+{Embed}
+https://docs.google.com/document/d/1V9TsI8D-NG191aNplbQxnteboUc_TYl0IViFtkwDKWA/edit
+terminal41.link journal
+June 29th 2018 This website has undergone several updates since it was first found, but I will try to detail everything that happened so far:   When it was first discovered, the base page terminal41.link led to a redirect trail that eventually landed you on [this page.](http:...
+https://images-ext-1.discordapp.net/external/8UNruExRgJeqSzSPGFOc2lf42E0xLhPOHno3mtmhlBs/https/lh5.googleusercontent.com/jSvDRZ2AoYJhaG9wByAQRr4Pr-b4Zn_MrJZht515syPGrQMAOntYLZfhC835MntGWRBxBQ%3Dw1200-h630-p
+
+
+[7/5/2018 2:47 PM] Deleted User (pinned)
+required reading: https://wiki.gamedetectives.net/index.php?title=Inside_ARG
+
+{Embed}
+https://wiki.gamedetectives.net/index.php?title=Inside_ARG
+Index.php?title=Inside ARG
+INSIDE is a puzzle platforming game created by Playdead.  After the game launched on June 29th, 2016, players noticed a printer in the background of one of the game areas.  This printer was quite notable - on PC, the printer prints sequences of characters that are referred to...
+https://images-ext-1.discordapp.net/external/dJy7UPuBVJsoBivpYCWtlOT5eHHhTDahfx8GP0sn0BQ/https/wiki.gamedetectives.net/images/b/b2/Inside_logo.png
+
+
+[7/5/2018 2:47 PM] Deleted User
+Pinned a message.
+
+
+[7/6/2018 7:00 AM] Deleted User
+https://youtu.be/qWvlzS_G7Wc
+
+{Embed}
+ShadowlessDeath47
+https://youtu.be/qWvlzS_G7Wc
+Inside ARG - Switch Printer Sequence Update
+https://images-ext-1.discordapp.net/external/lM3RpQW8LeaulRKHO5lm33bD0wovHPED_SdpVJpaFco/https/i.ytimg.com/vi/qWvlzS_G7Wc/maxresdefault.jpg
+
+
+[7/6/2018 10:25 AM] Deleted User
+Switch players needed, please contact me if you have INSIDE on switch. We have found 3 out of 6 possible codes, and we have no idea what criteria can cause different codes. If you have green, yellow or pink Joy Cons, that  will be particularly useful. We are so close.
+
+
+[7/7/2018 8:50 AM] Deleted User
+We seemingly figured out the Switch puzzle. After waiting until the morse message "CTRL CON DISCON" finishes and the printer goes back to printing only grey pages, you then have to disconnect and connect your left and right controllers in the particular sequence RRLRLL. As you're doing this you will get responses from the printer indicating that you are following the correct sequence (consecutive white pages) or that you broke the sequence and you have to start again (black page). Once you finish this, the printer will then print more morse, which appears to be a string of two codes, each corresponding to the color of the controllers you have. Entering all these codes into the playdead website caused more printreqstatus pages to appear. At this point the switch puzzle seems nearly solved, but it seems to be suggesting that we have to solve the other two puzzles first.
+
+
+[7/7/2018 8:50 AM] Deleted User
+```Blue   Red    Grey   Pink   Green  Yellow
+R2G2B6 R3G1B1 R3G3B3 R5G1B5 R1G4B1 R3G3B0```
+
+
+[7/7/2018 6:19 PM] Deleted User
+XBOX puzzle is apparently solved. When the strings are assembled in the correct way to produce a circle, the dashes overlaid upon the circle form braille, if oriented properly. In the image above, all legible braille characters (roughly) spell out the phrase NEWPLANETDISCOVERED. Entering this code into the playdead website, then entering the iOS code MULTIPLEPROBESDISPATCHED causes a whole new printout to appear. This printout has a message encoded in blue green and red pixels which reads as the message "warning |factor 2 security passed| | [error] factors remaining| warning"
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/465265521382916107/Gale_2018-07-07_17-15-25.png?ex=6abad9c8&is=6ab98848&hm=3d3990277e2d33a49829af823fd539a2deab5d864c62d25634628514e3b13d20&
+
+
+[7/7/2018 9:47 PM] Deleted User
+addendum: for a slightly more in-depth explanation of the Xbox puzzle solution, see here https://docs.google.com/document/d/1vlpah0LdCRpJe-OfhnkaiBIcmepGXust5BMbaFJGGt8/edit?usp=sharing#heading=h.ud0zjcq2l0hb
+
+{Embed}
+https://docs.google.com/document/d/1vlpah0LdCRpJe-OfhnkaiBIcmepGXust5BMbaFJGGt8/edit?usp=sharing
+INSIDE PRINTER SECRET
+INSIDE - PRINTER SECRET CURRENT PROGRESS. Hi! Our current progress is as follows. We have collected a total of 120 unique strings consisting of either morse characters or binary values (black / white pages), from the following platforms: 1. 41 (32 long, 9 short) strings from ...
+https://images-ext-1.discordapp.net/external/EUy6bzb1T_LpOizO2C_EzHrUjcWiG4cilOlpnX2Od-k/https/lh3.googleusercontent.com/4lrILIoqz-homSg4u18X3BIt0rxBuZ65jWMolyjfWHmkLaty3vbmhiyC_QZKphMHdoBs6w%3Dw1200-h630-p
+
+
+[7/11/2018 10:07 AM] Deleted User
+Whoops, turns out nobody made a tldr post about this.
+Rearranging the PC long strings into a particular order reveals the shape of an acorn, as well as the number "41".
+
+
+[7/11/2018 10:07 AM] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/466591435706073118/nutt.png?ex=6abb0f63&is=6ab9bde3&hm=35770c2a1ddc46c530a563e33e90da713143804c501ade88ae5f3bd0c00e7592&
+
+{Reactions}
+41 (43) acorn (44)
+
+[7/11/2018 10:08 AM] Deleted User
+(red = slash, orange = dash, yellow = dot)
+
+
+[4/13/2019 2:15 PM] thingy1637
+PC puzzle seems to have been solved by sheer luck
+Typing "LIFEDETECTED" in the playdead website triggered a new breach log
+After entering the xbox / ios / supposed pc code and in no particular order, one after the other, you get a printout with this image https://cdn.discordapp.com/attachments/461275582970462209/566462927163621417/playdead.jpg
+https://cdn.discordapp.com/attachments/461275582970462209/566476924461776916/image_3.png
+After cropping and inverting the image we get this https://cdn.discordapp.com/attachments/461275582970462209/566672597186641926/cropped.png
+Using this tool <https://photosounder.com/> we get the following audio https://youtu.be/5I6pNl1M7RI
+
+{Embed}
+https://cdn.discordapp.com/attachments/461275582970462209/566462927163621417/playdead.jpg
+https://media.discordapp.net/attachments/461275582970462209/566462927163621417/playdead.jpg?ex=6abb2eb6&is=6ab9dd36&hm=fcc42c098216e860b9a8f8d90cd929076e54386891f8fee7e6d7ce2ab95b908c&
+
+{Embed}
+https://cdn.discordapp.com/attachments/461275582970462209/566476924461776916/image_3.png
+https://media.discordapp.net/attachments/461275582970462209/566476924461776916/image_3.png?ex=6abb3bbf&is=6ab9ea3f&hm=7720446cbb081bf620901da63404182c56c57d99fd052ea8c7f97e13fbb8cbc0&
+
+{Embed}
+https://cdn.discordapp.com/attachments/461275582970462209/566672597186641926/cropped.png
+https://media.discordapp.net/attachments/461275582970462209/566672597186641926/cropped.png?ex=6abb493b&is=6ab9f7bb&hm=a57ac844eba1db7fd8891e45526c261ae5e4f17fa214a2707af25a49bc0598f5&
+
+{Embed}
+Do Re Meme
+https://youtu.be/5I6pNl1M7RI
+New Terminal41 audio
+Thank you to Rory#7403 for assembling this audio through PhotoSounder, and thank you to the Playdead community. We are strong to have made it this far. Thank...
+https://images-ext-1.discordapp.net/external/wEELXhD4GjJnbxIBu5QaQ5nNi3prm9hm8IyL1elcvIQ/https/i.ytimg.com/vi/5I6pNl1M7RI/maxresdefault.jpg
+
+{Reactions}
+❤ (11) boy_dab (9) acorn (8)
+
+[4/13/2019 2:17 PM] thingy1637
+Scroll up for tldr;
+* We still don't know how the PC/PS4 code translates to "LIFEDETECTED", or if it does at all
+* In the latest breach log <http://terminal41.link/sys/printreqstatus_015.html> we still have ```[BREACH RESIST][SECURITY REMAIN]....................[schem[1]]```
+this may imply that we are not done with the PC code yet.
+
+
+[4/13/2019 11:02 PM] thingy1637
+final code was entered: LIFEDETECTED
+revealed new art with hidden spectrogram in the alpha channel
+cropping and putting in PhotoSounder revealed the URL http://www.terminal41.link/comms/gate/98/connect.html
+this URL contained a huge image, made from many colors
+using the switch strings as colors, isolating each color revealed parts of a circle symbol, and letters
+by lining up the parts of the circle, the letters formed a string pointing to the URL http://terminal41.link/sys/activate_shutdown_protocol/PROT6y723g90ty9r80234.html
+at the bottom of this page is a url leading to http://terminal41.link/sys/activate_shutdown_protocol/opts/confirm_shutdown_routine.html
+which in turn takes you to http://terminal41.link/sys/activate_shutdown_protocol/PROT6y723g90ty9r80234_confirmed_0385729128474.html
+
+
+[4/14/2019 6:07 PM] Deleted User
+the http://www.terminal41.link/comms/gate/98/connect.html page has a gigantic image, 2048x4096
+Isolating the all pixels containing the exact RGB value #000000 reveals a series of pixels spaced at intervals of 16 pixels each in the top left. This is the image with those pixels isolated and set to white, with all other pixels set to black:
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567093505265238054/000000.png?ex=6abad6fb&is=6ab9857b&hm=69b301c43a7f9323884089cb9643b5af69984e90dde6ee0364ca992c2afd8044&
+
+{Reactions}
+parrotconga (5)
+
+[4/14/2019 6:09 PM] Deleted User
+I wrote a neat program to condense the image into a 128x256 image, by only capturing the pixels at those regular intervals of 16:
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567094079784222772/000000.png?ex=6abad784&is=6ab98604&hm=200b9e00a2a8ffedc9f615747708856cdbfc5128e39039f1fc70ba58d329a3e5&
+
+
+[4/14/2019 6:11 PM] Deleted User
+now doing the same with the six rgb values (for example R3G1B1 = #030101. all of these are near-blacks) from the switch puzzle gives us 6 other images hidden throughout. These are those images:
+
+
+[4/14/2019 6:12 PM] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567094768828547123/000303.png?ex=6abad829&is=6ab986a9&hm=90321bcfe8ae5f3b71a1ba0e991cf9a4f1f5a10202f577c544379c61aa42d5d4&
+
+
+[4/14/2019 6:12 PM] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567094781310664741/010103.png?ex=6abad82b&is=6ab986ab&hm=3cc2750ab1e424b84addce28b1b5f250fa27a3aa0a1211db42a0ec6eaa3ba70e&
+
+
+[4/14/2019 6:12 PM] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567094788810342400/010401.png?ex=6abad82d&is=6ab986ad&hm=97acfd9476ade7711a9028730f1cc9bf0ac27cd400ba7957e02de73c6831b9f6&
+
+
+[4/14/2019 6:12 PM] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567094792836612156/030303.png?ex=6abad82e&is=6ab986ae&hm=db150c770e1cd906292027882baadcb25c6c9f8979a3903094128494737dac52&
+
+
+[4/14/2019 6:12 PM] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567094796179472394/050105.png?ex=6abad82f&is=6ab986af&hm=23408cae5d8ca65e01ad89ddfd938a7db6fc6fa7413cce28d7f08f8738baeaf6&
+
+
+[4/14/2019 6:12 PM] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567094799065153577/060202.png?ex=6abad830&is=6ab986b0&hm=91ec0ef0e1a5aa78769900490cffa6d83f89e5f5873276b0129e0825517135ed&
+
+
+[4/14/2019 6:13 PM] Deleted User
+(all of these, I multiplied the RGB values by 30 to make them visible)
+
+
+[4/14/2019 6:15 PM] Deleted User
+overlapping those 6 different images produces this 48x48 image, with no pixels colliding. It looks like a scan of a planet
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567095660801818632/Gale_2019-04-14_07-18-00.png?ex=6abad8fd&is=6ab9877d&hm=3a0bb709366b9194620c1f8ce3fee4ad41b99d1e89c0f7ed82e79cb67b04ca7d&
+
+{Reactions}
+😍 (40) 🌎 (15) acorn (15) 10 (15) 41 (16) boy_dab (24) doggo (9) 😨 (7)
+
+[4/14/2019 6:22 PM] Deleted User
+which is cool, but more importantly, isolating each of those rgb values also gave us these snippets of text as seen here in #000303
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567097353274785802/i_view64_2019-04-14_04-41-41.png?ex=6abada91&is=6ab98911&hm=2119fdf575e4cc35cac563676e7be5a995bfc8c9f0fb7833d7f1dd597fd318d9&
+
+{Reactions}
+🍝 (2)
+
+[4/14/2019 6:27 PM] Deleted User
+all six snippets of text fit into each other like this, done shakily here by hand by pitchbrighthttps://cdn.discordapp.com/attachments/461275582970462209/566920219696562176/Screen_Shot_2019-04-14_at_5.37.24_AM.png
+
+{Embed}
+https://cdn.discordapp.com/attachments/461275582970462209/566920219696562176/Screen_Shot_2019-04-14_at_5.37.24_AM.png
+https://media.discordapp.net/attachments/461275582970462209/566920219696562176/Screen_Shot_2019-04-14_at_5.37.24_AM.png?ex=6abade59&is=6ab98cd9&hm=230683846d99151f8c671f53ff5a48bc12615051e53ce50ca71b40b48fcf9cf2&
+
+
+[4/14/2019 6:30 PM] Deleted User
+that leads us to http://terminal41.link/sys/activate_shutdown_protocol/PROT6y723g90ty9r80234.html
+
+
+[4/14/2019 6:31 PM] Deleted User
+which leads to http://terminal41.link/sys/activate_shutdown_protocol/opts/confirm_shutdown_routine.html
+
+
+[4/14/2019 6:32 PM] Deleted User
+at the end of that redirect chain, is this number :10:
+
+{Reactions}
+10 (27)
+
+[4/14/2019 6:32 PM] Deleted User
+or it was [10] when we found it. It's now [9] (the day after). so it's counting down days
+
+
+[4/14/2019 6:33 PM] Deleted User
+expect something april 23rd (or earlier!?)
+
+
+[4/14/2019 6:34 PM] Deleted User
+meanwhile, http://terminal41.link/dat/breachlog.html now lists a printreqqstatus_SD page
+
+
+[4/14/2019 6:35 PM] Deleted User
+(there's also a http://www.terminal41.link/sys/printreqstatus_016.html, but it's not listed on the breachlog)
+
+
+[4/14/2019 6:36 PM] Deleted User
+at the bottom of the sys/printreqstatus_SD page is `[SD safety data collection(y)]..............[col] saf_dat_col.loc//repo[/dat/saf_dat_col]//..[open] `
+
+
+[4/14/2019 6:36 PM] Deleted User
+which leads to http://terminal41.link/dat/saf_dat_col.html
+
+
+[4/14/2019 6:38 PM] Deleted User
+buried in the junk data is this string  / / / / / / / / []repo/dat/breach_contribution_reg[] / / / / / / / /
+
+
+[4/14/2019 6:40 PM] Deleted User
+which brings us to http://terminal41.link/dat/breach_contribution_reg.html, which is a giant list of SHA256 hashes of people's names! Including mine and many others. We still haven't identified them all
+
+
+[4/14/2019 6:43 PM] Deleted User
+There is a section in the http://terminal41.link/dat/saf_dat_col.html junk text that looks like it might be possible to convert into a bmp image. Some of us are trying to figure that out.
+
+{Reactions}
+41 (11) acorn42 (11)
+
+[4/15/2019 4:38 PM] Deleted User
+315B4E2197086194A40F704420ED11442C880B400A384509DF78AC3F1FF1F9FF
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567433528170643466/firefox_2019-04-15_15-19-24.png?ex=6abb6ae7&is=6aba1967&hm=404086a10bd91717ae520ce35c21816434aed3eabbc7df199f1ffccc09238441&
+
+
+[4/15/2019 4:38 PM] Deleted User
+If anybody figures out what that hash is, or if it's you, please let me know!
+
+
+[4/15/2019 4:41 PM] Deleted User
+We managed to convert the text in the saf_dat_col page into a bmp. It is a grayscale 42x42 image, with many glitched pixels that needed to be fixed by hand with a hex editor. Here those pixels are colored blue. It is an image of an acorn, with the number 42, with a dots pattern similar to the one in the old acorn puzzle which we haven't solved yet
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567434450510807050/Gale_2019-04-15_14-44-31.png?ex=6abb6bc3&is=6aba1a43&hm=c831af2863577fe7fa96924661bb10959387f41a263ac5771110c6278ce364fb&
+
+
+[4/15/2019 4:44 PM] Deleted User
+We noticed some light white pixels with the value 245,245,245. Here we colored those pixels red, and the aforementioned glitched pixels light green. The pure black pixels have been colored purple. This brings out the words `F O R _   C I P H E R`
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/567435008017563666/Gale_2019-04-15_02-12-04.png?ex=6abb6c48&is=6aba1ac8&hm=6c4bde18cfed6069119e9b557e837362b6d193b5baec26fcdaebbe80b504c638&
+
+
+[4/15/2019 4:45 PM] Deleted User
+we are 80% sure it says FORD CIPHER
+
+
+[4/15/2019 5:06 PM] Deleted User
+for background on what "ford cipher" refers to, see item 3 in this imgur album: https://imgur.com/a/TnMsM
+
+{Embed}
+https://imgur.com/a/TnMsM
+Playdead's INSIDE - A Compilation of Secrets and Mysteries
+https://images-ext-1.discordapp.net/external/PS1NM4nxxwuJPK8KXIxkj8vqnpPDM3AOy6QCg55DvtM/https/i.imgur.com/X9TvmRu.gif
+
+
+[4/17/2019 4:09 PM] Deleted User
+As many of you already know, the countdown mentioned by sean last sunday (April 14th) ended up counting down every 8 hours instead of daily as previously assumed
+
+
+[4/17/2019 4:10 PM] Deleted User
+When the countdown was supposed to reach [00] at 4pm CEST (9am EST), all terminal41 pages ("modules") except for the contributors' page went offline, displaying [all systems hibernating]
+
+{Reactions}
+😪 (24) 🍆 (10) 🇧 (12) 🇴 (12) 🇮 (12) boy_dab (7) limbro_drink (5) 🇫 (6) 🇺 (6) 🇨 (6) 🇰 (6)
+
+[4/17/2019 4:10 PM] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/568151429064425489/allsystemshibernating.PNG?ex=6abb6480&is=6aba1300&hm=6b0140424346056c0cc5f6342c7e1c6defc14c6738380e20590e55ed71df0828&
+
+
+[1/5/2020 1:52 PM] pitch_bright
+We believe the Collector's Edition contains a new series of "morse" characters. Possibly each edition containing a unique character & number. The morse/number can be found on the white sticker that seals the black wrapping paper containing the game. Here is a list of known CE's and their owners.
+
+https://docs.google.com/document/d/1ccgEU722Kz5kDrq0wmA5pd6Du05qAaWNN7kRaTlG9jU/edit
+
+{Embed}
+https://docs.google.com/document/d/1ccgEU722Kz5kDrq0wmA5pd6Du05qAaWNN7kRaTlG9jU/edit
+Inside Collector's Edition Numbers
+CODE	PLAT	NAME /059	DC	Transplantkid#6004 •095	DC	Zet#7106 /221	YT	https://www.youtube.com/watch?v=Mhxynz-LoAI /245	DC	EthanAndrew#2662    UNKNOWN CODES								CONTACT STATUS DC User: Its Electric Shock!#7779						Awaiting Reply https://www.youtube.com/watch?v=gqlQaHgRaHg +...
+https://images-ext-1.discordapp.net/external/HzxAzdQLoxFEuY0N5w7xkbYc9kDNEuVsWhIkhPgj6KM/https/lh6.googleusercontent.com/6DeYqA4kDu94PkpeRtwA9Mko597mpjlp7gcQtTsGfU8BJc7dwMepq_szxit8YjgsxsFPdw%3Dw1200-h630-p
+
+{Reactions}
+boy_dab (7) limbro_dab (7) limboboy (7) insideboy (7) dancing_limbro (7) dancing_limbrotoo (7) limbro_drink (7) limbro_drinktoo (7) sentry (7) submarine (7) huddle (7) limbro_weee (7)
+
+[3/20/2020 12:54 AM] elronodelp
+The stickers in the Collector's Edition with a morse/number had some kind of relief with dots and symbols printed. Taking high resolution images from the stickers, and looking at their numbers, we found that they could be categorized into nine groups (A, B, C, D, E, F, G, H, I) where each contained the same hidden symbols, but could contain different main character (/, - and •). Gathering a picture of a sticker from each category and a bit of image processing gave as a result the image attached. It's a picture of another perspective of the initial morse printer, with the main characters and underlying symbols
+
+
+[3/20/2020 12:54 AM] elronodelp
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/690408012069732362/unknown.png?ex=6abb3691&is=6ab9e511&hm=231f6316c19dd57d59c564b0b56e43f5bfece519ef5ed71ab4450d29a0bc91d5&
+
+{Reactions}
+morseprinter (8)
+
+[3/20/2020 12:56 AM] dragonslayer875
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/690408276441038879/unknown-2.png?ex=6abb36d0&is=6ab9e550&hm=0ffbeb3586437e3566a18cfe780ea89284a2a7aba5c1f83b044eaea77f270f94&
+
+{Reactions}
+morseprinter (7)
+
+[3/27/2020 6:38 AM] pitch_bright
+iam8bit Tweeted that there is a clue in the reversible cover of the Special Edition (limited to 2000 copies). We believe the Collector's Edition contains the Special Edition, as noted by the Contents card included with the CE. The original tweet is difficult to find, the attached screenshot shows a Google search result referencing it.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/693031072241287188/Screen_Shot_2020-03-27_at_5.06.09_AM.png?ex=6abade3b&is=6ab98cbb&hm=63c93c26a505179ad7327a507303dbdcf1759e00ce1b9d74b18436a097c95fc4&
+
+{Reactions}
+sentry (9)
+
+[3/28/2020 2:55 PM] pitch_bright
+March 26, 2020 Playdead removes the Printer Icon from their website, shortly after a few users were digging through the JS. Not sure if that's a coincidence, or their way of telling us there's nothing left for us to do.
+
+
+[3/28/2020 2:57 PM] pitch_bright
+March 26, 2020 Playdead Artist Mikkel Gjoel tweets a video titled #glitch. It's reminiscent of the Anthony YT Picture. Scrambled video seemingly contains frames with characters & glyphs.
+
+https://twitter.com/pixelmager/status/1243154786901467136
+
+{Embed}
+Mikkel Gjoel (@pixelmager)
+https://twitter.com/pixelmager/status/1243154786901467136
+#glitch https://t.co/GiGq4B9kTd
+https://images-ext-1.discordapp.net/external/c9cHkx_101c3cxeE3_PKkazwVjPs_luYVe4hkL0nmUs/https/pbs.twimg.com/ext_tw_video_thumb/1243151321483620353/pu/img/QKqWM-JakvEfHe21.jpg
+Twitter
+
+
+[3/28/2020 2:57 PM] pitch_bright
+Link to each frame of the video here: https://imgur.com/a/3JuP5Jw
+
+
+[3/28/2020 3:05 PM] pitch_bright
+This Glitch Video stuff is probably nothing important. Gjoel later tweeted:
+https://twitter.com/pixelmager/status/1243277631149219840?s=20
+
+{Embed}
+Mikkel Gjoel (@pixelmager)
+https://twitter.com/pixelmager/status/1243277631149219840?s=20
+Shader for the glitchy goodness
+(wip, not optimized or pretty, @Shadertoy was just the best tool for the job... or maybe just the most fun one :) ) https://t.co/EdazNIllji https://t.co/XNgQiRVSvc
+Twitter
+
+
+[4/21/2020 11:30 AM] pitch_bright
+1) Conor reads indexes and see there's a URL we never noticed http://terminal41.link/dat/534brn9653f9j8mmd/
+2) that URL matches the URL we have on our Stickers 
+3) The URL leads to a bunch of random code on a page https://docs.google.com/document/d/1NLwy0T4pvNRrR08oZsBzVNqmQyL4qhSrHvIHhCANwLw/edit?usp=sharing
+4) There is another URL at the bottom of that page http://terminal41.link/sys/terminate_terminal/41/
+5) Somebody puts that URL in browser and is given a Y/N choice
+6) Somebody enters "Y"
+7) That choice leads back to http://terminal41.link/sys/terminateall.html
+
+{Embed}
+https://docs.google.com/document/d/1NLwy0T4pvNRrR08oZsBzVNqmQyL4qhSrHvIHhCANwLw/edit?usp=sharing
+Inside ARG Picture Code
+[]  ���� JFIF  ` ` ��Exif MM *  ;   J�i   d��  2 ��   > �  AnSet �   ��   ƒ�  35 ��  35 �   � �  2016:08:09 14:12:24 2016:08:09 14:12:24 AnSet ��,/ 2016-12-16T14:12:24.351AnSet �� C   '!%"."%()+,+ /3/*2'*+*�� C ***************************************************��  � �" ��...
+https://images-ext-1.discordapp.net/external/OaVuhPyTgoWV0HLwlV0YAqWaBZM4xyqfpEEzyMpS0OE/https/lh5.googleusercontent.com/emOrhfNJVUvj6ywputIKM_0wP1-22VAYvsl9scMP20h9uP3XMjH02oaMyuSfdpALFMbTbzZ6-Q%3Dw1200-h630-p
+
+
+[4/28/2020 3:54 PM] pitch_bright
+The Sticker Puzzle Solution
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/704767641633554482/StickerSolution.png?ex=6abb60c3&is=6aba0f43&hm=4dce319a38ceccddef3cb2eae078e1e21246b015de8bbfabd2c92541cb366bf6&
+
+{Reactions}
+❤️ (18)
+
+[5/2/2020 4:05 AM] santiface
+Here is a copy of the HTML page from the now defunct URL http://terminal41.link/dat/534brn9653f9j8mmd/ (and here a version uploaded by us, for easy access: http://534brn9653f9j8mmd.surge.sh/)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/706038766376058990/534brn9653f9j8mmd.html?ex=6abb6357&is=6aba11d7&hm=62d048875532810d0c1300462248184ecdd7882837998a3913ec196768c3c076&
+
+{Reactions}
+boy_dab (5)
+
+[5/15/2020 6:54 PM] santiface
+**Update on the JPG puzzle:** We've had an expert weigh in, and according to them it's not possible to recover the image.
+`"Long story short, having lost about 60% of the data, the JPG itself is completely irrecoverable."` (source: https://discordapp.com/channels/460626942190813184/461275582970462209/710664186774028356)
+The error was server side and not client side (so none of us is to blame, yay!): `"It appears there is nothing you could have done to save that image."` (source: https://discordapp.com/channels/460626942190813184/461275582970462209/710697078749265932)
+
+{Reactions}
+boy_dab (9)
+
+[5/15/2020 6:58 PM] santiface
+The JPG in question could potentially be `8255px x 8255px` in size, or `529px x 259px` (source: https://discordapp.com/channels/460626942190813184/461275582970462209/710714878482186310)
+
+
+[6/24/2020 5:33 PM] santiface
+**On June 23rd, 2020, INSIDE was released for MacOS** (https://apps.apple.com/app/inside/id886561127) and it apparently has brand new printer codes. Users started posting them here:  https://discordapp.com/channels/460626942190813184/461275582970462209/725227325750378506.
+
+User @shikshake is uploading videos of the MacOS printer here: https://drive.google.com/drive/folders/1aiIOzx_Rs3VAh-wgZt2mUQfHIozmJThk?usp=sharing (Discord Link: https://discordapp.com/channels/460626942190813184/461275582970462209/725421086036197417)
+
+To check against previous codes, you can check this Google Doc: https://docs.google.com/document/d/1vlpah0LdCRpJe-OfhnkaiBIcmepGXust5BMbaFJGGt8/ and the Game Detectives Wiki: https://wiki.gamedetectives.net/index.php?title=Inside_ARG
+
+
+[6/25/2020 5:53 PM] santiface
+Shikshake, Raezores and Aperson1 have transcribed all unique lines of code, and have found a total of 16 strings: https://discordapp.com/channels/460626942190813184/461275582970462209/725501557579317268
+
+Here is the spreadsheet used: https://docs.google.com/spreadsheets/d/1u2oKEjKQybt5VbzBqC-D1J9fKxgo2O5gUPaFGGXQAmE/
+(updated txt file below)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/725815907703849030/macos_printer_codes.txt?ex=6abad3bd&is=6ab9823d&hm=0c7e0a3752c693a14ac17f2bf32b776450c0e636056aeb520805289b26d08d09&
+
+
+[6/25/2020 9:18 PM] santiface
+**The MacOS printer code has been solved!** 
+EitherOr suggested overlaying a text on the dashes and dots, so that the dots correspond to certain letters, and thus unlock a hidden message. (Discord link: https://discordapp.com/channels/460626942190813184/461275582970462209/725840196490494042)
+
+Mykonos suggested the E. E. Cummings poem which is referenced in INSIDE, and along with shikshake they realized that it lined up perfectly.
+
+The message revealed is: `hibernation in progress reboot pending`
+
+{Attachments}
+https://cdn.discordapp.com/attachments/462637922944811028/725867583890391050/arg.PNG?ex=6abb03dd&is=6ab9b25d&hm=a258e416a9da81e94fa033e04d1df24359ff6d5fb97d117c30bd999a1ad7e390&
+
+{Reactions}
+boy_dab (8)
+
+[6/25/2021 12:26 AM] santiface
+**The PC printer code has been solved! (at last)**
+
+The PC code `LIFEDETECTED` was simply guessed based on what the other two codes then were. So people have since been trying to backwards engineer the solution to the so called "running man" code and solve the puzzle properly.
+
+On June 10th, 2021 user 4987372 dropped by to tell us the solution they found on their own. Discord link: https://discord.com/channels/460626942190813184/461275582970462209/852612048482336788
+
+
+[6/25/2021 12:27 AM] santiface
+The connection with *Conway's Game of Life* and the ARG had been made as early as 2018, but 4987372 was apparently the first one to realize that there is an **acorn seed** in Game of Life, using the generation 41 and overlaying it on the running man gives us the solution: `LIFE DETECTED` Video by 4987372: https://cdn.discordapp.com/attachments/461275582970462209/857907060334919700/acorn.mp4
+
+{Embed}
+https://cdn.discordapp.com/attachments/461275582970462209/857907060334919700/acorn.mp4
+
+
+[6/25/2021 12:27 AM] santiface
+Generation 42 can also be used on the acorn 42 puzzle and it reinforces the already known `FORD CIPHER`
+
+We can finally put to rest the mystery of what the :acorn: was all about.
+
+{Reactions}
+acorn (61) 41 (51)
+
+==============================================================
+Exported 100 message(s)
+==============================================================
