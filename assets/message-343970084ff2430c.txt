@@ -1,0 +1,870 @@
+using System;
+using UnityEngine;
+
+// Token: 0x020001EA RID: 490
+public class SecretJoystick : Device, IPreAwake
+{
+	// Token: 0x06000EC0 RID: 3776 RVA: 0x0008BB6C File Offset: 0x00089D6C
+	[LateProcessBuild(0)]
+	private void OnPreProcess()
+	{
+		if (this.preProcessed)
+		{
+			return;
+		}
+		this.preProcessed = true;
+		AkGameObj akGameObj = AudioUtils.EnsureAkGameObj(base.gameObject, null);
+		this.audioGrab = new AudioEventSimpleLocal(this.audioPrefix + "_joystick_grab", akGameObj);
+		this.audioRelease = new AudioEventSimpleLocal(this.audioPrefix + "_joystick_release", akGameObj);
+		this.audioLeft = new AudioEventSimpleLocal(this.audioPrefix + "_joystick_left", akGameObj);
+		this.audioRight = new AudioEventSimpleLocal(this.audioPrefix + "_joystick_right", akGameObj);
+		this.audioUp = new AudioEventSimpleLocal(this.audioPrefix + "_joystick_up", akGameObj);
+		this.audioMiddle = new AudioEventSimpleLocal(this.audioPrefix + "_joystick_middle", akGameObj);
+		this.audioResponseLeft = new AudioEventSimpleLocal(this.audioPrefix + "_joystick_responseLeft", akGameObj);
+		this.audioResponseRight = new AudioEventSimpleLocal(this.audioPrefix + "_joystick_responseRight", akGameObj);
+		this.audioResponseUp = new AudioEventSimpleLocal(this.audioPrefix + "_joystick_responseUp", akGameObj);
+	}
+
+	// Token: 0x06000EC1 RID: 3777 RVA: 0x0008BC98 File Offset: 0x00089E98
+	public bool PreAwake(int callcount)
+	{
+		this.animDeviceRaiseState = this.animDevice[this.animDeviceRaise.name];
+		this.passwordLength = this.password.Length;
+		this.inputHistory = new SecretJoystick.PullDir[this.passwordLength];
+		this.screenTextureProperty = this.screen.GetTextureProperty("_MainTex");
+		this.screenTextureIllumProperty = this.screen.GetTextureProperty("_IllumTex");
+		for (int i = 0; i < this.passwordLength; i++)
+		{
+			this.inputHistory[i] = SecretJoystick.PullDir.None;
+		}
+		this.activated = SignalOut.Create("activated", base.gameObject);
+		this.left = SignalOut.Create("left", base.gameObject);
+		this.up = SignalOut.Create("up", base.gameObject);
+		this.right = SignalOut.Create("right", base.gameObject);
+		this.complete = SignalOut.Create("complete", base.gameObject);
+		if (this.lightBefore)
+		{
+			this.lightBefore.SetActive(true);
+		}
+		if (this.lightAfter)
+		{
+			this.lightAfter.SetActive(false);
+		}
+		this.customAnimIdle = this.boyIdle.GetComponent<BoyCustomAnim>();
+		this.customAnimUp = this.boyPullUp.GetComponent<BoyCustomAnim>();
+		this.customAnimRight = this.boyPullRight.GetComponent<BoyCustomAnim>();
+		this.customAnimLeft = this.boyPullLeft.GetComponent<BoyCustomAnim>();
+		return true;
+	}
+
+	// Token: 0x06000EC2 RID: 3778 RVA: 0x0008BE18 File Offset: 0x0008A018
+	protected override void Start()
+	{
+		this.OnPreProcess();
+		base.Start();
+		if (WristSecret.instance.isActive)
+		{
+			if (this.lightBefore)
+			{
+				this.lightBefore.SetActive(false);
+			}
+			if (this.lightAfter)
+			{
+				this.lightAfter.SetActive(true);
+			}
+		}
+		this.devicePos = base.transform.position;
+		this.SetIdleState();
+	}
+
+	// Token: 0x06000EC3 RID: 3779 RVA: 0x0008BE90 File Offset: 0x0008A090
+	private void SetLoweredState()
+	{
+		this.screen.gameObject.SetActive(false);
+		this.animDevice.Play(this.animDeviceLowered.name);
+		this.state = SecretJoystick.State.Lowered;
+	}
+
+	// Token: 0x06000EC4 RID: 3780 RVA: 0x0008BECC File Offset: 0x0008A0CC
+	private void LoweredState()
+	{
+		if (WristSecret.instance.isActive || CheatManager.cheatsEnabled)
+		{
+			Vector3 pos = ScriptGlobals.boy.pos3;
+			if (this.devicePos.x - pos.x < 4f && pos.y - this.devicePos.y < 3f)
+			{
+				this.SetRaiseState();
+			}
+		}
+	}
+
+	// Token: 0x06000EC5 RID: 3781 RVA: 0x0008BF40 File Offset: 0x0008A140
+	private void SetRaiseState()
+	{
+		this.screen.gameObject.SetActive(true);
+		this.animDevice.Play(this.animDeviceRaise.name);
+		this.activated.Signal();
+		this.raiseTimer = 3.1f;
+		this.state = SecretJoystick.State.Raise;
+	}
+
+	// Token: 0x06000EC6 RID: 3782 RVA: 0x0008BF94 File Offset: 0x0008A194
+	private void RaiseState()
+	{
+		if (this.raiseTimer > 0f)
+		{
+			this.raiseTimer -= Time.deltaTime;
+		}
+		else if (Device.GrabCheck(ScriptGlobals.boy, true) || this.animDeviceRaiseState.normalizedTime >= 1f)
+		{
+			this.SetIdleState();
+		}
+	}
+
+	// Token: 0x06000EC7 RID: 3783 RVA: 0x0008BFF4 File Offset: 0x0008A1F4
+	private void SetIdleState()
+	{
+		this.animDevice.CrossFade(this.animDeviceIdle.name, 0.2f);
+		if (this.state == SecretJoystick.State.Pull)
+		{
+			this.audioMiddleTimer = 0.2f;
+		}
+		this.state = SecretJoystick.State.Idle;
+	}
+
+	// Token: 0x06000EC8 RID: 3784 RVA: 0x0008C030 File Offset: 0x0008A230
+	private void IdleState()
+	{
+		this.UpdateScreenNeutral();
+		if (this.audioMiddleTimer > 0f)
+		{
+			this.audioMiddleTimer -= Time.deltaTime;
+			if (this.audioMiddleTimer < 0f)
+			{
+				this.audioMiddle.PostFast();
+			}
+		}
+		if (this.releaseTimer > 0f)
+		{
+			this.releaseTimer -= Time.deltaTime;
+			return;
+		}
+		for (int i = 0; i < this.boysInside.Count; i++)
+		{
+			Boy boy = this.boysInside[i];
+			if (Device.GrabCheck(boy, true))
+			{
+				this.SetGrabState(boy);
+				break;
+			}
+		}
+	}
+
+	// Token: 0x06000EC9 RID: 3785 RVA: 0x0008C0E8 File Offset: 0x0008A2E8
+	private void SetGrabState(Boy boy)
+	{
+		this.boyGrabbing = boy;
+		if (boy.pos3.x > this.devicePos.x)
+		{
+			this.grabTimer = this.grabDelayLong;
+			this.currentGrabAnim = this.boyGrabRight;
+		}
+		else
+		{
+			this.grabTimer = this.grabDelay;
+			this.currentGrabAnim = this.boyGrabLeft;
+		}
+		BoyUtils.StartCustomAnim(this.boyGrabbing, this.currentGrabAnim, null, 0f, Boy.AffectMode.Default, EffectMaterial.Material.None);
+		this.grabStunTimer = this.grabStunDelay;
+		this.grabAudioTimer = this.grabAudioDelay;
+		this.pullCache = SecretJoystick.PullDir.None;
+		this.initialGrab = true;
+		Device.SetVoicePassive();
+		this.state = SecretJoystick.State.Grab;
+	}
+
+	// Token: 0x06000ECA RID: 3786 RVA: 0x0008C19C File Offset: 0x0008A39C
+	private void SetGrabStateNoTransition()
+	{
+		this.customAnimIdle.blendDuration = 0.1f;
+		BoyUtils.StartCustomAnim(this.boyGrabbing, this.boyIdle, null, 0f, Boy.AffectMode.Default, EffectMaterial.Material.None);
+		this.animDevice.CrossFade(this.animDeviceIdle.name, 0.12f);
+		this.grabTimer = this.grabDelayTransition;
+		this.pullCache = SecretJoystick.PullDir.None;
+		this.initialGrab = false;
+		this.state = SecretJoystick.State.Grab;
+	}
+
+	// Token: 0x06000ECB RID: 3787 RVA: 0x0008C210 File Offset: 0x0008A410
+	private void GrabState()
+	{
+		this.UpdateScreenNeutral();
+		if (this.audioMiddleTimer > 0f)
+		{
+			this.audioMiddleTimer -= Time.deltaTime;
+			if (this.audioMiddleTimer < 0f)
+			{
+				this.audioMiddle.PostFast();
+			}
+		}
+		if (this.grabStunTimer > 0f)
+		{
+			this.grabStunTimer -= Time.deltaTime;
+			if (this.boyGrabbing.input.jump)
+			{
+				this.grabStunTimer = 0f;
+			}
+		}
+		if ((!this.boyGrabbing.input.rawAction && this.grabStunTimer <= 0f) || this.boyGrabbing.isDead)
+		{
+			this.Release();
+			return;
+		}
+		if (this.currentGrabAnim)
+		{
+			BoyCustomAnimState boyCustomAnimState = this.boyGrabbing.state as BoyCustomAnimState;
+			if (boyCustomAnimState)
+			{
+				AnimClipNode animClipNode = boyCustomAnimState.anim as AnimClipNode;
+				if (animClipNode.frame / animClipNode.numFrames > 0.9f)
+				{
+					this.customAnimIdle.blendDuration = 0.2f;
+					BoyUtils.StartCustomAnim(this.boyGrabbing, this.boyIdle, null, 0f, Boy.AffectMode.Default, EffectMaterial.Material.None);
+					this.currentGrabAnim = null;
+				}
+			}
+		}
+		if (this.grabAudioTimer > 0f)
+		{
+			this.grabAudioTimer -= Time.deltaTime;
+			if (this.grabAudioTimer <= 0f)
+			{
+				this.audioGrab.PostFast();
+			}
+		}
+		SecretJoystick.PullDir pullDirection = this.GetPullDirection();
+		if (this.grabTimer > 0f)
+		{
+			this.grabTimer -= Time.deltaTime;
+			if ((this.previousPullDir == SecretJoystick.PullDir.Right && pullDirection == SecretJoystick.PullDir.Left) || (this.previousPullDir == SecretJoystick.PullDir.Left && pullDirection == SecretJoystick.PullDir.Right))
+			{
+				float screenResetDelay = Mathf.Max(this.screenToNeutralTimer - 0.14f, 0.01f);
+				this.SetPullState(pullDirection, 0.08f, 0.12f, screenResetDelay);
+			}
+			else if (!this.initialGrab)
+			{
+				if (this.grabTimer < this.pullCacheDuration && pullDirection != SecretJoystick.PullDir.None)
+				{
+					this.pullCache = pullDirection;
+				}
+				if (this.grabTimer <= 0f)
+				{
+					this.audioMiddle.PostFast();
+				}
+			}
+		}
+		else if (pullDirection != SecretJoystick.PullDir.None)
+		{
+			this.SetPullState(pullDirection, 0.08f, 0.12f, -1f);
+		}
+		else if (this.pullCache != SecretJoystick.PullDir.None)
+		{
+			this.SetPullState(this.pullCache, 0.08f, 0.12f, -1f);
+		}
+	}
+
+	// Token: 0x06000ECC RID: 3788 RVA: 0x0008C4AC File Offset: 0x0008A6AC
+	private void SetPullState(SecretJoystick.PullDir dir, float blendDuration = 0.08f, float blendDurationDevice = 0.12f, float screenResetDelay = -1f)
+	{
+		switch (dir)
+		{
+		case SecretJoystick.PullDir.Up:
+			this.customAnimUp.blendDuration = blendDuration;
+			BoyUtils.StartCustomAnim(this.boyGrabbing, this.boyPullUp, null, 0f, Boy.AffectMode.Default, EffectMaterial.Material.None);
+			this.animDevice.CrossFade(this.animDeviceUp.name, blendDurationDevice);
+			break;
+		case SecretJoystick.PullDir.Left:
+			this.customAnimLeft.blendDuration = blendDuration;
+			BoyUtils.StartCustomAnim(this.boyGrabbing, this.boyPullLeft, null, 0f, Boy.AffectMode.Default, EffectMaterial.Material.None);
+			this.animDevice.CrossFade(this.animDeviceLeft.name, blendDurationDevice);
+			break;
+		case SecretJoystick.PullDir.Right:
+			this.customAnimRight.blendDuration = blendDuration;
+			BoyUtils.StartCustomAnim(this.boyGrabbing, this.boyPullRight, null, 0f, Boy.AffectMode.Default, EffectMaterial.Material.None);
+			this.animDevice.CrossFade(this.animDeviceRight.name, blendDurationDevice);
+			break;
+		}
+		this.pullDir = dir;
+		this.previousPullDir = dir;
+		this.registerPullTimer = this.registerPullDelay;
+		this.screenToNeutralPullTimer = screenResetDelay;
+		if (this.grabAudioTimer > 0f)
+		{
+			this.grabAudioTimer = -1f;
+			this.audioGrab.PostFast();
+		}
+		this.state = SecretJoystick.State.Pull;
+	}
+
+	// Token: 0x06000ECD RID: 3789 RVA: 0x0008C5E8 File Offset: 0x0008A7E8
+	private void PullState()
+	{
+		if (this.screenToNeutralPullTimer > 0f)
+		{
+			this.screenToNeutralPullTimer -= Time.deltaTime;
+			if (this.screenToNeutralPullTimer <= 0f)
+			{
+				this.SetScreenTextures(this.screenTextureNeutral);
+			}
+		}
+		if (this.grabStunTimer > 0f)
+		{
+			this.grabStunTimer -= Time.deltaTime;
+			if (this.boyGrabbing.input.jump)
+			{
+				this.grabStunTimer = 0f;
+			}
+		}
+		if (this.registerPullTimer > 0f)
+		{
+			this.registerPullTimer -= Time.deltaTime;
+			if (this.registerPullTimer <= 0f)
+			{
+				this.SymbolPlaced();
+				this.pullReleaseTimer = this.pullReleaseDelay;
+			}
+		}
+		else if (!this.boyGrabbing.input.rawAction && this.grabStunTimer <= 0f)
+		{
+			this.Release();
+		}
+		else if (this.pullReleaseTimer > 0f)
+		{
+			this.pullReleaseTimer -= Time.deltaTime;
+		}
+		else
+		{
+			bool flag = true;
+			vector2f stick = this.boyGrabbing.input.stick;
+			switch (this.pullDir)
+			{
+			case SecretJoystick.PullDir.Up:
+				if (stick.y < 0.5f)
+				{
+					flag = false;
+				}
+				break;
+			case SecretJoystick.PullDir.Left:
+				if (stick.x > -0.5f)
+				{
+					flag = false;
+				}
+				break;
+			case SecretJoystick.PullDir.Right:
+				if (stick.x < 0.5f)
+				{
+					flag = false;
+				}
+				break;
+			}
+			if (!flag)
+			{
+				this.SetGrabStateNoTransition();
+			}
+		}
+	}
+
+	// Token: 0x06000ECE RID: 3790 RVA: 0x0008C79C File Offset: 0x0008A99C
+	private void Update()
+	{
+		if (CheatManager.cheatsEnabled && ScriptGlobals.boy.input.rawAction && this.state == SecretJoystick.State.Idle)
+		{
+			Vector3 pos = ScriptGlobals.boy.pos3;
+			if (this.devicePos.x - pos.x < 4f && pos.y - this.devicePos.y < 3f)
+			{
+				this.cheatTimer -= Time.deltaTime;
+				if (this.cheatTimer <= 0f)
+				{
+					this.OpenDoor();
+				}
+			}
+		}
+		switch (this.state)
+		{
+		case SecretJoystick.State.Lowered:
+			this.LoweredState();
+			break;
+		case SecretJoystick.State.Raise:
+			this.RaiseState();
+			break;
+		case SecretJoystick.State.Idle:
+			this.IdleState();
+			break;
+		case SecretJoystick.State.Grab:
+			this.GrabState();
+			break;
+		case SecretJoystick.State.Pull:
+			this.PullState();
+			break;
+		}
+		if (this.isComplete && this.doorColliderTimer > 0f)
+		{
+			this.doorColliderTimer -= Time.deltaTime;
+			if (this.doorColliderTimer <= 0f)
+			{
+				this.gateCollider.SetActive(false);
+			}
+		}
+	}
+
+	// Token: 0x06000ECF RID: 3791 RVA: 0x0008C8E8 File Offset: 0x0008AAE8
+	private void SymbolPlaced()
+	{
+		this.inputHistory[this.inputHistoryIndex] = this.pullDir;
+		this.screenToNeutralTimer = this.screenToNeutralDelay;
+		Texture2D texture2D = null;
+		bool isActive = WristSecret.instance.isActive;
+		switch (this.pullDir)
+		{
+		case SecretJoystick.PullDir.Up:
+			this.up.Signal();
+			this.audioUp.PostFast();
+			if (isActive && !this.isComplete)
+			{
+				this.audioResponseUp.PostFast();
+			}
+			texture2D = this.screenTextureUp;
+			break;
+		case SecretJoystick.PullDir.Left:
+			this.left.Signal();
+			this.audioLeft.PostFast();
+			if (isActive && !this.isComplete)
+			{
+				this.audioResponseLeft.PostFast();
+			}
+			texture2D = this.screenTextureLeft;
+			break;
+		case SecretJoystick.PullDir.Right:
+			this.right.Signal();
+			this.audioRight.PostFast();
+			if (isActive && !this.isComplete)
+			{
+				this.audioResponseRight.PostFast();
+			}
+			texture2D = this.screenTextureRight;
+			break;
+		}
+		if (texture2D != null)
+		{
+			this.SetScreenTextures(texture2D);
+		}
+		if (!this.isComplete && this.CheckPassword())
+		{
+			this.OpenDoor();
+		}
+		this.inputHistoryIndex++;
+		if (this.inputHistoryIndex >= this.inputHistory.Length)
+		{
+			this.inputHistoryIndex = 0;
+		}
+	}
+
+	// Token: 0x06000ED0 RID: 3792 RVA: 0x0008CA58 File Offset: 0x0008AC58
+	private bool CheckPassword()
+	{
+		if (!WristSecret.instance.isActive && !CheatManager.cheatsEnabled)
+		{
+			return false;
+		}
+		for (int i = 0; i < this.passwordLength; i++)
+		{
+			int num = 0;
+			for (int j = 0; j < this.passwordLength; j++)
+			{
+				int num2 = j + i;
+				if (num2 >= this.passwordLength)
+				{
+					num2 -= this.passwordLength;
+				}
+				if (this.inputHistory[j] != this.password[num2])
+				{
+					break;
+				}
+				num++;
+			}
+			if (num >= this.passwordLength)
+			{
+				return true;
+			}
+		}
+		return false;
+	}
+
+	// Token: 0x06000ED1 RID: 3793 RVA: 0x0008CAF8 File Offset: 0x0008ACF8
+	private void OpenDoor()
+	{
+		this.animGate.Play(this.animGateOpen.name);
+		this.complete.Signal();
+		this.isComplete = true;
+	}
+
+	// Token: 0x06000ED2 RID: 3794 RVA: 0x0008CB24 File Offset: 0x0008AD24
+	private void UpdateScreenNeutral()
+	{
+		if (this.screenToNeutralTimer > 0f)
+		{
+			this.screenToNeutralTimer -= Time.deltaTime;
+			if (this.screenToNeutralTimer <= 0f)
+			{
+				this.SetScreenTextures(this.screenTextureNeutral);
+			}
+		}
+	}
+
+	// Token: 0x06000ED3 RID: 3795 RVA: 0x0008CB70 File Offset: 0x0008AD70
+	private void SetScreenTextures(Texture2D t)
+	{
+		if (this.screenTextureProperty != null)
+		{
+			this.screen.SetTextureProperty(this.screenTextureProperty, t);
+		}
+		if (this.screenTextureIllumProperty != null)
+		{
+			this.screen.SetTextureProperty(this.screenTextureIllumProperty, t);
+		}
+	}
+
+	// Token: 0x06000ED4 RID: 3796 RVA: 0x0008CBB8 File Offset: 0x0008ADB8
+	private SecretJoystick.PullDir GetPullDirection()
+	{
+		BoyInput input = this.boyGrabbing.input;
+		bool flag = input.stick.y > -0.8f && input.stick.magnitude > 0.7f;
+		if (!flag)
+		{
+			return SecretJoystick.PullDir.None;
+		}
+		vector2f stick = input.stick;
+		if (stick.y > Mathf.Abs(stick.x))
+		{
+			return SecretJoystick.PullDir.Up;
+		}
+		if (stick.x > 0f)
+		{
+			return SecretJoystick.PullDir.Right;
+		}
+		return SecretJoystick.PullDir.Left;
+	}
+
+	// Token: 0x06000ED5 RID: 3797 RVA: 0x0008CC40 File Offset: 0x0008AE40
+	private void Release()
+	{
+		if (!ScriptGlobals.boy.isDead)
+		{
+			BoyUtils.ClearState(this.boyGrabbing, -1f);
+			Device.SetVoiceNone();
+		}
+		if (this.grabAudioTimer <= 0f)
+		{
+			this.audioRelease.PostFast();
+		}
+		this.releaseTimer = this.releaseDelay;
+		this.previousPullDir = SecretJoystick.PullDir.None;
+		this.SetIdleState();
+	}
+
+	// Token: 0x04001A7C RID: 6780
+	public Animation animDevice;
+
+	// Token: 0x04001A7D RID: 6781
+	public AnimationClip animDeviceLowered;
+
+	// Token: 0x04001A7E RID: 6782
+	public AnimationClip animDeviceRaise;
+
+	// Token: 0x04001A7F RID: 6783
+	public AnimationClip animDeviceIdle;
+
+	// Token: 0x04001A80 RID: 6784
+	public AnimationClip animDeviceLeft;
+
+	// Token: 0x04001A81 RID: 6785
+	public AnimationClip animDeviceRight;
+
+	// Token: 0x04001A82 RID: 6786
+	public AnimationClip animDeviceUp;
+
+	// Token: 0x04001A83 RID: 6787
+	public AnimClipNode boyIdle;
+
+	// Token: 0x04001A84 RID: 6788
+	public AnimClipNode boyGrabRight;
+
+	// Token: 0x04001A85 RID: 6789
+	public AnimClipNode boyGrabLeft;
+
+	// Token: 0x04001A86 RID: 6790
+	public AnimClipNode boyPullLeft;
+
+	// Token: 0x04001A87 RID: 6791
+	public AnimClipNode boyPullRight;
+
+	// Token: 0x04001A88 RID: 6792
+	public AnimClipNode boyPullUp;
+
+	// Token: 0x04001A89 RID: 6793
+	public MaterialInstance screen;
+
+	// Token: 0x04001A8A RID: 6794
+	public Texture2D screenTextureNeutral;
+
+	// Token: 0x04001A8B RID: 6795
+	public Texture2D screenTextureUp;
+
+	// Token: 0x04001A8C RID: 6796
+	public Texture2D screenTextureLeft;
+
+	// Token: 0x04001A8D RID: 6797
+	public Texture2D screenTextureRight;
+
+	// Token: 0x04001A8E RID: 6798
+	private float registerPullDelay = 0.1f;
+
+	// Token: 0x04001A8F RID: 6799
+	public float screenToNeutralDelay = 0.1f;
+
+	// Token: 0x04001A90 RID: 6800
+	public float pullCacheDuration = 0.1f;
+
+	// Token: 0x04001A91 RID: 6801
+	public float grabDelay = 0.4f;
+
+	// Token: 0x04001A92 RID: 6802
+	public GameObject gateCollider;
+
+	// Token: 0x04001A93 RID: 6803
+	public Animation animGate;
+
+	// Token: 0x04001A94 RID: 6804
+	public AnimationClip animGateOpen;
+
+	// Token: 0x04001A95 RID: 6805
+	public GameObject lightBefore;
+
+	// Token: 0x04001A96 RID: 6806
+	public GameObject lightAfter;
+
+	// Token: 0x04001A97 RID: 6807
+	public SecretJoystick.PullDir[] password = new SecretJoystick.PullDir[]
+	{
+		SecretJoystick.PullDir.Left,
+		SecretJoystick.PullDir.Left,
+		SecretJoystick.PullDir.Up,
+		SecretJoystick.PullDir.Right
+	};
+
+	// Token: 0x04001A98 RID: 6808
+	public string audioPrefix;
+
+	// Token: 0x04001A99 RID: 6809
+	public SignalOut activated;
+
+	// Token: 0x04001A9A RID: 6810
+	public SignalOut left;
+
+	// Token: 0x04001A9B RID: 6811
+	public SignalOut up;
+
+	// Token: 0x04001A9C RID: 6812
+	public SignalOut right;
+
+	// Token: 0x04001A9D RID: 6813
+	public SignalOut complete;
+
+	// Token: 0x04001A9E RID: 6814
+	private SecretJoystick.State state;
+
+	// Token: 0x04001A9F RID: 6815
+	private SecretJoystick.PullDir pullDir;
+
+	// Token: 0x04001AA0 RID: 6816
+	private SecretJoystick.PullDir pullCache;
+
+	// Token: 0x04001AA1 RID: 6817
+	private SecretJoystick.PullDir previousPullDir;
+
+	// Token: 0x04001AA2 RID: 6818
+	private BoyCustomAnim customAnimUp;
+
+	// Token: 0x04001AA3 RID: 6819
+	private BoyCustomAnim customAnimLeft;
+
+	// Token: 0x04001AA4 RID: 6820
+	private BoyCustomAnim customAnimRight;
+
+	// Token: 0x04001AA5 RID: 6821
+	private BoyCustomAnim customAnimIdle;
+
+	// Token: 0x04001AA6 RID: 6822
+	private float raiseTimer;
+
+	// Token: 0x04001AA7 RID: 6823
+	private float grabTimer;
+
+	// Token: 0x04001AA8 RID: 6824
+	private float grabDelayTransition = 0.1f;
+
+	// Token: 0x04001AA9 RID: 6825
+	private float grabDelayLong = 0.4f;
+
+	// Token: 0x04001AAA RID: 6826
+	private float grabAudioTimer;
+
+	// Token: 0x04001AAB RID: 6827
+	private float grabAudioDelay = 0.3f;
+
+	// Token: 0x04001AAC RID: 6828
+	private float audioMiddleTimer;
+
+	// Token: 0x04001AAD RID: 6829
+	private float grabStunTimer;
+
+	// Token: 0x04001AAE RID: 6830
+	private float grabStunDelay = 0.12f;
+
+	// Token: 0x04001AAF RID: 6831
+	private float releaseTimer;
+
+	// Token: 0x04001AB0 RID: 6832
+	private float releaseDelay = 0.15f;
+
+	// Token: 0x04001AB1 RID: 6833
+	private float registerPullTimer;
+
+	// Token: 0x04001AB2 RID: 6834
+	private float screenToNeutralTimer;
+
+	// Token: 0x04001AB3 RID: 6835
+	private float screenToNeutralPullTimer;
+
+	// Token: 0x04001AB4 RID: 6836
+	private float pullReleaseTimer;
+
+	// Token: 0x04001AB5 RID: 6837
+	private float pullReleaseDelay = 0.06f;
+
+	// Token: 0x04001AB6 RID: 6838
+	private float doorColliderTimer = 1.65f;
+
+	// Token: 0x04001AB7 RID: 6839
+	private AnimClipNode currentGrabAnim;
+
+	// Token: 0x04001AB8 RID: 6840
+	private AnimationState animDeviceRaiseState;
+
+	// Token: 0x04001AB9 RID: 6841
+	private Vector3 devicePos;
+
+	// Token: 0x04001ABA RID: 6842
+	private int passwordLength;
+
+	// Token: 0x04001ABB RID: 6843
+	private SecretJoystick.PullDir[] inputHistory;
+
+	// Token: 0x04001ABC RID: 6844
+	private int inputHistoryIndex;
+
+	// Token: 0x04001ABD RID: 6845
+	private MaterialInstance.TextureProperty screenTextureProperty;
+
+	// Token: 0x04001ABE RID: 6846
+	private MaterialInstance.TextureProperty screenTextureIllumProperty;
+
+	// Token: 0x04001ABF RID: 6847
+	private bool isComplete;
+
+	// Token: 0x04001AC0 RID: 6848
+	private bool initialGrab;
+
+	// Token: 0x04001AC1 RID: 6849
+	private float cheatTimer = 3f;
+
+	// Token: 0x04001AC2 RID: 6850
+	[HideInInspector]
+	[SerializeField]
+	private AudioEventSimpleLocal audioGrab;
+
+	// Token: 0x04001AC3 RID: 6851
+	[HideInInspector]
+	[SerializeField]
+	private AudioEventSimpleLocal audioRelease;
+
+	// Token: 0x04001AC4 RID: 6852
+	[SerializeField]
+	[HideInInspector]
+	private AudioEventSimpleLocal audioLeft;
+
+	// Token: 0x04001AC5 RID: 6853
+	[SerializeField]
+	[HideInInspector]
+	private AudioEventSimpleLocal audioRight;
+
+	// Token: 0x04001AC6 RID: 6854
+	[SerializeField]
+	[HideInInspector]
+	private AudioEventSimpleLocal audioUp;
+
+	// Token: 0x04001AC7 RID: 6855
+	[SerializeField]
+	[HideInInspector]
+	private AudioEventSimpleLocal audioMiddle;
+
+	// Token: 0x04001AC8 RID: 6856
+	[SerializeField]
+	[HideInInspector]
+	private AudioEventSimpleLocal audioResponseLeft;
+
+	// Token: 0x04001AC9 RID: 6857
+	[HideInInspector]
+	[SerializeField]
+	private AudioEventSimpleLocal audioResponseRight;
+
+	// Token: 0x04001ACA RID: 6858
+	[HideInInspector]
+	[SerializeField]
+	private AudioEventSimpleLocal audioResponseUp;
+
+	// Token: 0x04001ACB RID: 6859
+	[HideInInspector]
+	[SerializeField]
+	private bool preProcessed;
+
+	// Token: 0x020001EB RID: 491
+	public enum PullDir
+	{
+		// Token: 0x04001ACD RID: 6861
+		None,
+		// Token: 0x04001ACE RID: 6862
+		Up,
+		// Token: 0x04001ACF RID: 6863
+		Left,
+		// Token: 0x04001AD0 RID: 6864
+		Right
+	}
+
+	// Token: 0x020001EC RID: 492
+	private enum State
+	{
+		// Token: 0x04001AD2 RID: 6866
+		None,
+		// Token: 0x04001AD3 RID: 6867
+		Lowered,
+		// Token: 0x04001AD4 RID: 6868
+		Raise,
+		// Token: 0x04001AD5 RID: 6869
+		Idle,
+		// Token: 0x04001AD6 RID: 6870
+		Grab,
+		// Token: 0x04001AD7 RID: 6871
+		Pull
+	}
+}

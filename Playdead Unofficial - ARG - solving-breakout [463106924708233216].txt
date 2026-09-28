@@ -637,7 +637,7 @@ Anyone able to join Voice Chat right now?
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/547591483633434635/image0.gif?ex=6abb154f&is=6ab9c3cf&hm=6d7b9c2ed119717df60d174f476f6cd2b64d8c2adb92fb3e551daeb343f54c99&
+assets\image0-0195d27e435d8269.gif
 
 
 [2/20/2019 5:22 PM] twoshades.
@@ -662,14 +662,14 @@ Were there :41: people?
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/555906862327922688/video.mov?ex=6abb031c&is=6ab9b19c&hm=3a8264a6c5fbe00701afb45507506054ee9c1eb3b2aa655acfe3b08a16cf5f60&
+assets\video-7460c20227dcc31c.mov
 
 
 [3/14/2019 9:17 PM] goofyg
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/555907333692194816/video.mov?ex=6abb038c&is=6ab9b20c&hm=dd74fea757c95acb5e147c1d1ae21f90d26f1eee3db933aefead785c3ea44ec1&
+assets\video-8b3f240b9b4f02f6.mov
 
 
 [3/17/2019 2:05 AM] Deleted User
@@ -685,7 +685,7 @@ testing
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/704142122957406258/Screen_Shot_2020-04-26_at_9.29.16_PM.png?ex=6abb1474&is=6ab9c2f4&hm=5cfe414263c97686ffd05664948d074c4d5b118c61d5c881a8e14ccb4d55a201&
+assets\Screen_Shot_2020-04-26_at_9.29.16_PM-98b6aaa519aa716d.png
 
 {Reactions}
 🇭 (3) 🇮 (3) limbro_dab (5) boy_dab (2)
@@ -855,7 +855,7 @@ Also this may be strange but that glitch video contained some text similar to th
 Sorry for posting this here, I just wanted to address the comment and place my stance, but also the glitch video was said to be unimportant, however I checked it out for fun.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/704186051618406410/k.PNG?ex=6abb3d5d&is=6ab9ebdd&hm=ba78a83d93a626b0e2d64f30dd2ebb6c27156a216d011a27a7a790b1dea883f2&
+assets\k-3566d7689d7cb446.PNG
 
 
 [4/27/2020 1:30 AM] santiface
@@ -943,7 +943,7 @@ but playdead did release the trailer for INSIDE a year before it was actually re
 the first trailer was 2 years before release
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/704445016520785940/unknown.png?ex=6abadd0b&is=6ab98b8b&hm=5e0977f932a6ec987765d0352c000cf986c2bf6d75771bfd99089cc73e63f292&
+assets\unknown-e87fc7459bf06888.png
 
 
 [4/27/2020 6:41 PM] not_if
@@ -968,7 +968,7 @@ Its true haven't you ever seen the original concept art?
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/704468158593106000/unknown.png?ex=6abaf299&is=6ab9a119&hm=9fce3556f5965394507518645854a7e34d45322a81ba7593b93cbc67ac2854be&
+assets\unknown-246a5a3fce30c2f2.png
 
 {Reactions}
 1eu812jh2 (7) boy_dab (8) limbro_dab
@@ -1020,7 +1020,7 @@ come visit the stream here: https://www.youtube.com/watch?v=dWhmPSjOybI
 Anthony T. Setrinamairé
 https://www.youtube.com/watch?v=dWhmPSjOybI
 Terminal41 emergency comms transmission [DATA STREAM]
-https://images-ext-1.discordapp.net/external/2ORJz8E974uZkOIvOr9OPyCtodPBXNNA9zkP-o76XF0/https/i.ytimg.com/vi/dWhmPSjOybI/sddefault_live.jpg
+assets\sddefault_live-046eec73a7152e6b.jpg
 
 
 [5/9/2020 7:10 PM] teo.duque
@@ -1147,7 +1147,7 @@ I wonder what this guy is thinking when he suddenly sees that spike in his strea
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/708805595276378233/image0.jpg?ex=6abae826&is=6ab996a6&hm=67026062e34279ac2ab1e95312c9141b7b201c2aedc4cb1210d0770f7919797d&
+assets\image0-a872784d3e555e7c.jpg
 
 
 [5/9/2020 7:25 PM] aperson1
@@ -1206,7 +1206,7 @@ the image there appears to have some letters
 This one?
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/708816835360981002/Screenshot_20200420-215749_Chrome-01.jpeg?ex=6abaf29e&is=6ab9a11e&hm=a5326ae7d071edad60fef64655b69c5b5209a4da04d790533a16e692fff78467&
+assets\Screenshot_20200420-215749_Chrome-01-1202866b51f95359.jpeg
 
 
 [5/9/2020 8:05 PM] tenzist432
@@ -1230,7 +1230,7 @@ Below the grey in the black area, there are a bunch of coloured blocks. This is 
 This is in the black area, directly above the grey.  5 pixels tall, across the width of the image.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/708819546609549358/Newthings.JPG?ex=6abaf525&is=6ab9a3a5&hm=2359ecb65aa9163796314fa9681dd4a409eeca779d331d3c75e9190f44037e4a&
+assets\Newthings-86c2ddc96f3b528d.JPG
 
 
 [5/9/2020 8:16 PM] bob_blib
@@ -1259,7 +1259,7 @@ To make it up, here is the thumbnail, as extracted from YouTube directly: https:
 
 {Embed}
 https://i.ytimg.com/vi/dWhmPSjOybI/sddefault.jpg
-https://images-ext-1.discordapp.net/external/oe4Mulc2jYy2yF6OIMEwSOMFX0HsMeqYxWgY4mUQPV4/https/i.ytimg.com/vi/dWhmPSjOybI/sddefault.jpg
+assets\sddefault-115dc333f68dfece.jpg
 
 
 [5/10/2020 2:26 AM] tenzist432
@@ -1284,7 +1284,7 @@ boy_dab (12)
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/768937413808095252/anoth.PNG?ex=6abad145&is=6ab97fc5&hm=3a43a387028db92b09eacc0b55fc5769c6627908b3d5feb7deaa39297335774a&
+assets\anoth-7392212828f845d2.PNG
 
 {Reactions}
 👀 (4)
@@ -1293,7 +1293,7 @@ https://cdn.discordapp.com/attachments/463106924708233216/768937413808095252/ano
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/768937421588267038/anoth1.PNG?ex=6abad147&is=6ab97fc7&hm=8765db3b6385a13c4678271c49c5e69f97e81cdbd9b0d413ee86f82c0179e53a&
+assets\anoth1-56123a24c730b2ce.PNG
 
 
 [10/22/2020 5:42 PM] ghaith2025
@@ -1338,7 +1338,7 @@ interesting
 https://kzclip.com/video/CnM_dsQk5Mg/new-saitama-s-power-genjutsu-in-anime-one-punch-man-child-emperor-phoenix-3.html
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/768939467582472222/anoth3.PNG?ex=6abad32f&is=6ab981af&hm=ccd46fdc77450479cdd20e226ecc498a6c14919d478db52c7044021979b10889&
+assets\anoth3-9a219b52f9c2b8a7.PNG
 
 
 [10/22/2020 7:47 PM] goofyg
@@ -1369,7 +1369,7 @@ someone probably just made a channel with the same name then
 3 lights flashing... morse code ??
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/773240511443238912/morse.PNG?ex=6abb4f98&is=6ab9fe18&hm=b951332ee512d4e1e91d31a08eceadc408ce88fea464e5eea4701a6959b8c0c5&
+assets\morse-7f06cbc04daf39c8.PNG
 
 {Reactions}
 👀
@@ -1382,7 +1382,7 @@ DOO DOO DOO DOOOOOOO!
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/773245715349504071/123.PNG?ex=6abb5470&is=6aba02f0&hm=1ba8cd1b9c76e45b4240e339f5816a4fe025142b6287bbced252508bcd3c0328&
+assets\123-cf47a83499d592be.PNG
 
 
 [11/3/2020 3:02 PM] ghaith2025
@@ -1425,7 +1425,7 @@ either 1, 2, or 3 would be too much slashes
 dosent seem to mean anything
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/773247023876407306/2020-11-03_15-07-12.png?ex=6abb55a8&is=6aba0428&hm=0365bc4f7dab593e9d641401e3e466cd01c3697137c9241ae9ad8ae438323dcd&
+assets\2020-11-03_15-07-12-b9395ac0c9a1b745.png
 
 
 [11/3/2020 3:07 PM] aabho
@@ -1526,7 +1526,7 @@ AsinoEsel
 https://www.youtube.com/watch?v=E5haC5mCMPQ
 INSIDE - Broken Device
 TranceFormation has noticed that you only need to go to the area with the worker albinos in the background and come back.
-https://images-ext-1.discordapp.net/external/QVL2VuGXjKhbbevF6TjywQKJve7pdGshhCP5QTWSKNI/https/i.ytimg.com/vi/E5haC5mCMPQ/maxresdefault.jpg
+assets\maxresdefault-0d0a09d29a9711be.jpg
 
 
 [11/3/2020 3:52 PM] tezlatower23
@@ -1557,7 +1557,7 @@ if you load the elevator checkpoint and go back it wont trigger
 If someone can use noclip and give us a good quality. srry guys im not in my house im using an old laptop
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/773259666172018718/20201103_193804.mp4?ex=6abb616e&is=6aba0fee&hm=92ee685f37c5cac758481a3ec3563998b6226bbf01e0e7cc1a521ad312f9a4cf&
+assets\20201103_193804-762634ee68ab450d.mp4
 
 
 [11/3/2020 3:57 PM] zerodrakengard3
@@ -1725,7 +1725,7 @@ https://docs.google.com/presentation/d/1_JHp-k4bDc9WhcMlC9hAPSGj_0UaJh5DBpSlLkwI
 https://docs.google.com/presentation/d/1_JHp-k4bDc9WhcMlC9hAPSGj_0UaJh5DBpSlLkwI74M/mobilepresent?slide=id.g5dea027fa_00
 Global Game Jam 2015
 Custom Pixels - rendering more with Unity Global Game Jam 2015 Mikkel Gjøl Mikkel Svendsen @pixelmager @ikarosav Background on shaders: http://http.developer.nvidia.com/CgTutorial/cg_tutorial_chapter01.html https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html https://developer.nvidia....
-https://images-ext-1.discordapp.net/external/p26soNxlM8doumViK6JjHZCiZcev8O-n_NP1ZbXaPEc/https/lh4.googleusercontent.com/GNWjn41MVCj3Xaky08sLoIivAwr04qZPZSlQ2DelM7q3Yqa7aROpUh8lkcf5o2oFheN8iYFPag%3Dw1200-h630-p
+assets\GNWjn41MVCj3Xaky08sLoIivAwr04qZPZSlQ2DelM7-e79dbb4904d3a11d
 
 {Reactions}
 👍 (5)
@@ -1750,28 +1750,28 @@ I found an easier way to use the print again in the website without change eleme
 step 1. enter the code
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/797098277165727794/print1.PNG?ex=6abb17de&is=6ab9c65e&hm=da0e72a0291ab67e4d4484f09de7497ad14d408a905257288d6b8c554fd7cb88&
+assets\print1-c46b5a81468d68e0.PNG
 
 
 [1/8/2021 10:44 AM] ghaith2025
 step 2. press ctrl+shift+j
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/797098447730638888/print2.PNG?ex=6abb1807&is=6ab9c687&hm=eed289fca7b6b57a5e9325d55e2801508d43c1a7027af562d4b79f71dd308770&
+assets\print2-fd9f24ebf5eda29b.PNG
 
 
 [1/8/2021 10:46 AM] ghaith2025
 step 3. enter this `printCheck("X")` , X is what code you entered in the email box
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/797098818118221844/print3.PNG?ex=6abb185f&is=6ab9c6df&hm=f5239cad886119727716cd798ba9169ff5d374b36771a9ffd8606d4df59aa901&
+assets\print3-1104f81ff08c8808.PNG
 
 
 [1/8/2021 10:46 AM] ghaith2025
 press ok then wait about 5 seconds
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/797098988674220082/print4.PNG?ex=6abb1888&is=6ab9c708&hm=67bb0b49c61847c26cfa8b1163cc86d396eaf570b689fa54cf62123f4cdd60c4&
+assets\print4-89af66ed92536a46.PNG
 
 
 [1/8/2021 10:47 AM] ghaith2025
@@ -1810,7 +1810,7 @@ but, we can go the other way around, instead of entering the codes that playdead
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/797870069488156672/print.txt?ex=6abb43a8&is=6ab9f228&hm=f11e7f7d2e24b049f85786d20933cfcd84188e165660c918e9d9e396e84ee9c7&
+assets\print-b58746938d8d0071.txt
 
 {Reactions}
 📌
@@ -1843,14 +1843,14 @@ It's interesting though that it's using `localStorage.getItem('id')` I wonder if
 I searched every line of all of this files, but nothing...
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/798266546031689778/sss.PNG?ex=6abb6367&is=6aba11e7&hm=88cfc14e439dbc6dda210e4e08dc2e5035393218e45eb03d05df1c731c9c6aa8&
+assets\sss-25d3e40ec8edf7ea.PNG
 
 
 [1/11/2021 4:09 PM] santiface
 it returns `null` if you try it in the console
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/798267256865685555/unknown.png?ex=6abb6411&is=6aba1291&hm=30b480b9450b7b7a8802ec33b17d431d6085e3ed03e39af9fb032f405d0506d1&
+assets\unknown-dd0d3c958efdd9e5.png
 
 
 [1/11/2021 4:09 PM] santiface
@@ -1886,14 +1886,14 @@ second way  modify any of social media elements with
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/798268796464005140/dd.PNG?ex=6abb6580&is=6aba1400&hm=8726b71ff07302c30eff1140a21c0b0b921ee8816faedd6be6aee23e7d1706e7&
+assets\dd-a0c31242fe0c0339.PNG
 
 
 [1/11/2021 4:16 PM] santiface
 Okay, now we get the id
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/798269091466838056/unknown.png?ex=6abb65c6&is=6aba1446&hm=112f8f66fbc955d97cfb1879522e5d74e510e14851e9c11d8de2672d9c490fd9&
+assets\unknown-9a029fe68cb05c9a.png
 
 
 [1/11/2021 4:16 PM] santiface
@@ -1908,7 +1908,7 @@ nice
 btw you can stop the function and see how it works step by step in the script
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/798269577565044786/ff.PNG?ex=6abb663a&is=6aba14ba&hm=703d0ecb7569273ff83a1d61caa6cb9b7a86b2cf027d454e7927baa22d464d8a&
+assets\ff-5daf3b7303e74d20.PNG
 
 
 [1/11/2021 4:20 PM] santiface
@@ -1927,7 +1927,7 @@ does the id help in anything ?
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/798272221201301504/id.PNG?ex=6abb68b0&is=6aba1730&hm=3e7c29f7913adcabb7610e5debc8b3882b99a031d761bf424213f906f28b41fb&
+assets\id-943454cc7cc385d4.PNG
 
 
 [1/11/2021 4:29 PM] ghaith2025
@@ -1958,7 +1958,7 @@ nothing in the source code either
 after you get one of the secret images the html page will add this
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/798276630506111026/pri.PNG?ex=6abb6ccb&is=6aba1b4b&hm=38072f618d52f893d8cb25c4a1a7734cdd50c6765f222955bbf01049429bf687&
+assets\pri-4b2049b5b2ec2504.PNG
 
 
 [1/11/2021 4:47 PM] ghaith2025
@@ -2079,7 +2079,7 @@ https://wiki.gamedetectives.net/images/4/4f/Inside_spectrogram.png
 
 {Embed}
 https://wiki.gamedetectives.net/images/4/4f/Inside_spectrogram.png
-https://images-ext-1.discordapp.net/external/sFuxGi-yfSDBj5f1oMQY-BJMhk47I8UBrlAV4FRjnZM/https/wiki.gamedetectives.net/images/4/4f/Inside_spectrogram.png
+assets\Inside_spectrogram-dc9c1f4804d799bd.png
 
 
 [1/18/2021 4:53 PM] Deleted User
@@ -2096,7 +2096,7 @@ New Terminal41 audio
 Thank you to Rory#7403 for assembling this audio through PhotoSounder, and thank you to the Playdead community. We are strong to have made it this far. Thank you all. Thank you for everything you have done.
 
 https://discord.gg/AXN3UhT
-https://images-ext-1.discordapp.net/external/wEELXhD4GjJnbxIBu5QaQ5nNi3prm9hm8IyL1elcvIQ/https/i.ytimg.com/vi/5I6pNl1M7RI/maxresdefault.jpg
+assets\maxresdefault-b4598a1fb5f5e146.jpg
 
 
 [1/18/2021 4:54 PM] Deleted User
@@ -2150,7 +2150,7 @@ I'll post it in here as well, didn't realize there was an actual potential ARG c
 Has anyone noticed these strange artifacts on the left side in the Rover video? They start at around 11 seconds in the video, right when the object in the liquid starts rising and once the audio for that segment starts. Might be some rendering errors/completely useless, but I wanted to point them out anyway. There's some weird stuff going on in the top right corner as well, looks like morse code-related stuff. https://www.youtube.com/watch?v=3yvTTYwpCW0
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/802655122119196692/artifacts34.PNG?ex=6abadfd5&is=6ab98e55&hm=da7c293cec218a4cf6f48c68ae00660aa004d987fdc96cc8372d61cb9d584d31&
+assets\artifacts34-70dc0b450e73b0f1.PNG
 
 {Embed}
 Aaron Stryzewski
@@ -2164,21 +2164,21 @@ https://images-ext-1.discordapp.net/external/r8G63Kdf_XMzMIwQQkKFAt_l-AtUui54eRF
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/802655126233546762/artifacts35.PNG?ex=6abadfd6&is=6ab98e56&hm=bd94836b464da14854998984f669f32c99a8c53a81d746c7fd04766f59ebce71&
+assets\artifacts35-701d68df24a721e5.PNG
 
 
 [1/23/2021 10:20 PM] ghaith2025
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/802709342372888596/decipher.PNG?ex=6abb1254&is=6ab9c0d4&hm=7782b02fbf9eeaf863a3045356772cc6c681324523f985af0cab2b640bceb797&
+assets\decipher-2d073b7f8813ee02.PNG
 
 
 [1/23/2021 10:21 PM] ghaith2025
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/802709523504693248/testt.wav?ex=6abb1280&is=6ab9c100&hm=acc403b12b12f5ba9f245fae8568dfbb96518486e1fcf1aec67b890ac73ca680&
+assets\testt-73c3acdfc5fdf72e.wav
 
 
 [1/23/2021 10:21 PM] ghaith2025
@@ -2226,7 +2226,7 @@ It might be that these clock sounds, and therefore the audio plays a role in the
 Well..... 11-12, 24 😄 =b
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/803300673277919282/ORhKbm7.jpg?ex=6abb3ecd&is=6ab9ed4d&hm=f64631c65a47c7a22c173a825468c7388ee7c6f1a7254343009f66667dfdd67d&
+assets\ORhKbm7-399d6754946e57a8.jpg
 
 
 [1/25/2021 1:30 PM] ghaith2025
@@ -2351,7 +2351,7 @@ Yeah, well I'm using the 42 from that, and the gibberish from the placeholder.
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/804824141656096789/Ford_Cipher_Scrabble_Tables.png?ex=6abadae4&is=6ab98964&hm=61c675c584c280ed694b4d30f37d2e553bbcfa91236d168f8e58e974810c204d&
+assets\Ford_Cipher_Scrabble_Tables-dc16007f5cf0dee3.png
 
 
 [1/29/2021 6:24 PM] saketho
@@ -2376,7 +2376,7 @@ Ford Prefect, that's right! I don't think anyone had made that connection before
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/804824473718226954/Ford_Cipher_Scrabble_Number_Symmetry.png?ex=6abadb33&is=6ab989b3&hm=d3e576d8e0054065799d7dd85c9a000434720ecb0ff815f28db413a4cc6b27c8&
+assets\Ford_Cipher_Scrabble_Number_Symmetry-c32c85e25cd0fdbb.png
 
 
 [1/29/2021 6:25 PM] saketho
@@ -2449,14 +2449,14 @@ For example, these sequences at 17 and 20 s which are attached as images in this
 If these sequences indicate a timeline for the sounds in the video, then they could give a rough time of each sound played in the video, and then we could find the morse code sequence from each of them.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/806265292610601001/17s_timeline.PNG?ex=6abad311&is=6ab98191&hm=0cf8ac5ebef355cd57e64dc1a7ede82fe0c7a639f2815371798b97e33f4296c2&
+assets\17s_timeline-320fa29b45afa0f0.PNG
 
 
 [2/2/2021 5:50 PM] grky_
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/806265297798430760/20_timeline.PNG?ex=6abad312&is=6ab98192&hm=5792e149f02bf5f78d0639b05b8b11133d852774e145335966e54185c25d0ddb&
+assets\20_timeline-565036b4a51be4f7.PNG
 
 
 [2/2/2021 5:51 PM] grky_
@@ -2519,7 +2519,7 @@ Why can't I find anything about the image on the live stream here: https://www.y
 Anthony T. Setrinamairé
 https://www.youtube.com/watch?v=dWhmPSjOybI
 Terminal41 emergency comms transmission [DATA STREAM]
-https://images-ext-1.discordapp.net/external/2ORJz8E974uZkOIvOr9OPyCtodPBXNNA9zkP-o76XF0/https/i.ytimg.com/vi/dWhmPSjOybI/sddefault_live.jpg
+assets\sddefault_live-046eec73a7152e6b.jpg
 
 
 [3/22/2021 3:13 PM] tonux599
@@ -2546,7 +2546,7 @@ Aaron Stryzewski
 https://www.youtube.com/watch?v=FOcx6OyPZHs
 Playdead Character Modeling for Fun
 Playdead third game coming soon. Fun to look back.
-https://images-ext-1.discordapp.net/external/KKoxIm5tsS66knq3tIyWNn4WmJm9SOxvp_SgTBmBef0/https/i.ytimg.com/vi/FOcx6OyPZHs/maxresdefault.jpg
+assets\maxresdefault-7eaabf0c978b2a5d.jpg
 
 
 [3/26/2021 11:54 AM] bin.techkevinspam
@@ -2630,7 +2630,7 @@ Ye I'm not really convinced either, it looks kinda not like Playdead, but idk
 Other varients
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/846497009749721138/E2KzP_qXMAs14i5.png?ex=6abad946&is=6ab987c6&hm=28c5a2e5a9a82f20b91106265c8a2da6d9ce1c1b1ad959489ac3449960f1d45f&
+assets\E2KzP_qXMAs14i5-c6a441c1960b3a87.png
 
 
 [5/24/2021 6:16 PM] raezores
@@ -2859,7 +2859,7 @@ i have one as well
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/846502801307992114/PXL_20210524_213944045.jpg?ex=6abadeab&is=6ab98d2b&hm=a94703b6bff695b55ac5c9058f427cb3f3556f72a8289ca803efd285133f65a7&
+assets\PXL_20210524_213944045-64d2377e30ad2575.jpg
 
 
 [5/24/2021 6:40 PM] scenicstump
@@ -2870,7 +2870,7 @@ Here's a better picture!
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/846502939988197396/IMG_2181.jpg?ex=6abadecc&is=6ab98d4c&hm=d939b39106c72595693cbd2f77393ca04365294b362f966874d233f89e81ccb3&
+assets\IMG_2181-4827ff4170921e9b.jpg
 
 
 [5/24/2021 6:40 PM] scenicstump
@@ -2885,7 +2885,7 @@ There seems to be three different ones
 six
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/846503071977701437/image.png?ex=6abadeeb&is=6ab98d6b&hm=32393e509c7ec87a0de8149bc3a6615bc645035da499af7cafcf1a60c1a0e097&
+assets\image-4c2f617a2852e4b7.png
 
 
 [5/24/2021 6:41 PM] santiface
@@ -2900,14 +2900,14 @@ also some posters from london
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/846503169478623282/image.png?ex=6abadf02&is=6ab98d82&hm=756a9af16c973abc3a02b3aa372ae31924d7196dd975d966aca84995734ca7f3&
+assets\image-acf010e0150b13bf.png
 
 
 [5/24/2021 6:41 PM] jux
 and oakland, ca
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/846503205176868904/image.png?ex=6abadf0b&is=6ab98d8b&hm=4d6e62df587c0e57aa25356e3031a67a6ebb75d6385c375106a93d511bfd2b42&
+assets\image-f7910af063e12506.png
 
 
 [5/24/2021 6:41 PM] santiface
@@ -2960,7 +2960,7 @@ https://imgur.com/gallery/wkYzEhZ
 {Embed}
 https://imgur.com/gallery/wkYzEhZ
 Ripped
-https://images-ext-1.discordapp.net/external/Ui7m0F6UuSoJ2LEsLyWQPpXkmfI0ywBJss2IOLI_WvE/https/i.imgur.com/dSAiyhch.jpg
+assets\dSAiyhch-920084eaf144dcfc.jpg
 
 
 [5/24/2021 6:44 PM] santiface
@@ -2982,7 +2982,7 @@ https://imgbb.com/74pXkqF
 https://imgbb.com/74pXkqF
 B077-CCF0-1853-4-F15-AFD1-5-AE02-A897797
 Image B077-CCF0-1853-4-F15-AFD1-5-AE02-A897797 hosted in ImgBB
-https://images-ext-1.discordapp.net/external/CbsC5BRoKQpkczXP5QIV-BezOPOCq4CRTxG8AocpLCw/https/i.ibb.co/VmCtws8/B077-CCF0-1853-4-F15-AFD1-5-AE02-A897797.jpg
+assets\B077-CCF0-1853-4-F15-AFD1-5-AE02-A897797-00926e3b67e3fefd.jpg
 
 
 [5/24/2021 6:46 PM] raezores
@@ -3053,7 +3053,7 @@ it has some visual similarities to some older years
 similar colors to the 2019 event
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/846508046200209408/day-of-the-devs.png?ex=6abae38d&is=6ab9920d&hm=e07399a958ecbb1badafb0c9db865cec37bb20956a2e7edd7f6ac8efff4a7745&
+assets\day-of-the-devs-a60574bd085b08af.png
 
 
 [5/24/2021 7:02 PM] raezores
@@ -3087,7 +3087,7 @@ I found another huge Reddit thread on it btw, that he referred me to: https://ww
 https://www.reddit.com/r/RBI/comments/nj3l54/ominous_post_card_theyre_coming/
 r/RBI - ominous post card - they're coming.
 683 votes and 328 comments so far on Reddit
-https://images-ext-1.discordapp.net/external/9bTv1jMGiORqfQ2WH03RCD-DctFXmvv3agHVdIyiRK4/%3Fauto%3Dwebp%26s%3Dbdc974af70aa16ec551050bc78b60be157cdaadb/https/external-preview.redd.it/PBQNIzgDpjfGJTnuGmksUOnSfbV_z5MYTHD1GrWtFww.jpg
+assets\PBQNIzgDpjfGJTnuGmksUOnSfbV_z5MYTHD1GrWtFw-ddd917999a217b7b.jpg
 
 
 [5/24/2021 7:33 PM] santiface
@@ -3137,7 +3137,7 @@ Join @Jamie_JSJ as he delves into the underground community of gamers trying to 
 Support us:
 
 https://t.co/1OeFH6dDuj
-https://images-ext-1.discordapp.net/external/lgYXdQssUZbd6mIEmbqm04bTZqdlOxwq_Cf7CdVT1gQ/https/pbs.twimg.com/media/E9--_foX0AM52WB.jpg%3Alarge
+assets\E9--_foX0AM52WB-0d6348b56f8d5d7f.jpg_large
 Twitter
 
 
@@ -3181,7 +3181,7 @@ Can't wait to see it all :limbro_drink: :limbro_drinktoo:
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/881636459302506556/image0.jpg?ex=6abacdef&is=6ab97c6f&hm=ed03cbd9024e78b50b3ac71ad2a00a8f14cc6682ff853439fd32f3c9ed91cf5f&
+assets\image0-58e940e255dd2a86.jpg
 
 
 [8/29/2021 5:28 PM] morfid_plays
@@ -3246,7 +3246,7 @@ They are, and I can confirm! I shared the Kickstarter with you guys earlier, but
 {Embed}
 https://www.lostincult.co.uk/
 Lost In Cult
-https://images-ext-1.discordapp.net/external/m0vVWMWhHTDzcmT88-1kokGo8FsijUjGHOmhsvWqTVI/%3Fformat%3D1500w/http/static1.squarespace.com/static/5ff8d2a05a6fae169d901492/t/6175736f507d543a1c973da3/1635087215391/Logo.png
+assets\Logo-b5c3026bdf8e9eb8.png
 
 
 [12/15/2021 2:39 PM] raezores
@@ -3257,10 +3257,10 @@ Personally I got the softcover version, and I got it today! The paper quality an
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/920731916003606608/IMG_6137.jpg?ex=6abb4f2b&is=6ab9fdab&hm=a84d09713e65a896a55479d60977f91eba7622f648f8c4da88d5aadd95352ba9&
-https://cdn.discordapp.com/attachments/463106924708233216/920731916464947220/IMG_6138.jpg?ex=6abb4f2b&is=6ab9fdab&hm=b36e8eba14a2ef447394ca0b845a3350cdf70143181f0c4bc266761c69c4f734&
-https://cdn.discordapp.com/attachments/463106924708233216/920731916771151882/IMG_6139.jpg?ex=6abb4f2b&is=6ab9fdab&hm=61ad3aa4a5bff9ec7d3e1259b8174720893cd3692ad286e30ccf6f1b597b08e8&
-https://cdn.discordapp.com/attachments/463106924708233216/920731917052178512/IMG_6140.jpg?ex=6abb4f2b&is=6ab9fdab&hm=e2b8a4ca87f8e765e0bf758957893260fde3490f800b063696bb674c521c58ed&
+assets\IMG_6137-4b86c39d22c0d425.jpg
+assets\IMG_6138-3535203c9f8824d9.jpg
+assets\IMG_6139-b259a0788c0755a7.jpg
+assets\IMG_6140-a34cb990630403f8.jpg
 
 
 [12/15/2021 2:40 PM] Deleted User
@@ -3279,9 +3279,9 @@ I also got permission from @Jon to share the INSIDE article they wrote 😄 You 
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/920732368996806716/DEAD_INSIDE.png?ex=6abb4f97&is=6ab9fe17&hm=ca3282fd2ca1aadaf1a3ea48e0ad0e267ee9112623e6e64cb7c0131b776a1893&
-https://cdn.discordapp.com/attachments/463106924708233216/920732369223290930/DEAD_INSIDE_1.png?ex=6abb4f97&is=6ab9fe17&hm=f7ce10cd33cbf27a6f1c8bfbc9990195b1df89161a5f94bbac93be339552c3d8&
-https://cdn.discordapp.com/attachments/463106924708233216/920732369483366400/DEAD_INSIDE_2.png?ex=6abb4f97&is=6ab9fe17&hm=42167a857fa68633c110b17c86e592230b929859f4f82226095d7f22da7715f4&
+assets\DEAD_INSIDE-47218563de7647d4.png
+assets\DEAD_INSIDE_1-55897ca362a98bdb.png
+assets\DEAD_INSIDE_2-e66ae1ca2814a6df.png
 
 
 [12/15/2021 2:42 PM] raezores
@@ -3300,7 +3300,7 @@ Glad you get to see it, hope lots of people here solving the ARG will see it, it
 love this lol
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/920734396779220992/unknown.png?ex=6abb517a&is=6ab9fffa&hm=78f058ad4d49ffa434e9db0070364b2ab6445836c57468903158307c83f56054&
+assets\unknown-d33295dbf068438d.png
 
 
 [12/15/2021 6:44 PM] bin.techkevinspam
@@ -3311,7 +3311,7 @@ We’re famous!
 Was this you @Raezores
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/920825456629014568/unknown.png?ex=6abafd88&is=6ab9ac08&hm=8dd31153f3b0b952ac601a7b25828135042fa9deeb266e594ac53c795aaf3a6c&
+assets\unknown-746f471293d1eb8f.png
 
 
 [12/15/2021 8:52 PM] tenzist432
@@ -3322,7 +3322,7 @@ and then aperson of which i won't name
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/920825721021136906/unknown.png?ex=6abafdc8&is=6ab9ac48&hm=29a9402316b795ba67936b193f6fd4b305599dc251434aa4984e4c1e83408ac8&
+assets\unknown-f9028e231f6ba4cf.png
 
 
 [12/15/2021 8:52 PM] tenzist432
@@ -3349,7 +3349,7 @@ This server will go down in history
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/921892885211791401/886821282006593556.png?ex=6abaeb27&is=6ab999a7&hm=1c8a424b56960bb54c489eb97e33c229498d5c722ee0e0c56a7057e566174789&
+assets\886821282006593556-0398f619842c5c68.png
 
 
 [12/18/2021 7:33 PM] ghaith2025
@@ -3455,7 +3455,7 @@ https://cdn.betterttv.net/emote/60419081306b602acc5972c9/2x
 
 {Embed}
 https://cdn.betterttv.net/emote/60419081306b602acc5972c9/2x
-https://images-ext-1.discordapp.net/external/lpiQTAjF0uTyNgLWd4J9Bq_XPhvdLoJ2V9CLn7FNw80/https/cdn.betterttv.net/emote/60419081306b602acc5972c9/2x
+assets\2x-75de2f0c803fbc17
 
 
 [1/1/2022 7:12 PM] ghaith2025
@@ -3534,7 +3534,7 @@ Price
 $2.99
 Recommendations
 273
-https://images-ext-1.discordapp.net/external/w_24fRKkmbstMucpC03zE4m19QYlzPBan9VHqP3qcBU/%3Ft%3D1629255236/https/cdn.akamai.steamstatic.com/steam/apps/1511670/header.jpg
+assets\header-cdec7197e0d2cfd3.jpg
 
 
 [1/29/2022 9:57 AM] blibblab222
@@ -3603,7 +3603,7 @@ https://tenor.com/view/waiting-question-question-mark-gif-14446367
 
 {Embed}
 https://tenor.com/view/waiting-question-question-mark-gif-14446367
-https://images-ext-1.discordapp.net/external/hkHz0-gJhInDcgV3aNw2uOSiDC72eyturYPLyNBORh0/https/media.tenor.com/95AhAQrFpVsAAAAD/waiting-question.png
+assets\waiting-question-eeb1d86fe0656c1c.png
 
 
 [5/30/2022 1:29 AM] goofyg
@@ -3772,7 +3772,7 @@ That's probably Photoshop, but you can do pixel-art type stuff with Aseprite: ht
 https://www.aseprite.org/
 Aseprite
 Animated sprite editor & pixel art tool
-https://images-ext-1.discordapp.net/external/pTst2TpG2zJ3QhE__MoOoPQ1qXJnufSWCYvoRtIXN9Q/https/www.aseprite.org/assets/images/og-image.png
+assets\og-image-ff001ee31d17988c.png
 
 {Reactions}
 👍
@@ -3797,7 +3797,7 @@ Just some food for thought, it doesn't hurt to go back to square 1 on some thing
 Note that the mockup is just for a random solution I was thinking about, it doesn't really mean anything.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1055603498496032818/sdsdsa.jpg?ex=6abae15e&is=6ab98fde&hm=e6733e4b807a7aa4bdd9d8a645de711acb3534bc13096e789f4398eaaa07ae50&
+assets\sdsdsa-2b573dcbb472e1b4.jpg
 
 
 [12/22/2022 6:54 PM] gs_base
@@ -3841,7 +3841,7 @@ Idk if it's intentional or the color is just funky
 looking at it in game, it looks like there's a black wire on the left that's most likely powering the board itself, and under the board there's support/legs for it
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1055870161070067772/20221223162015_1.jpg?ex=6abb30f7&is=6ab9df77&hm=7044285844c08b94b2c30834a9ea2a3e8ab2bb7c33c66eb1f72a27ef19604f1a&
+assets\20221223162015_1-e8b30606ab2f052a.jpg
 
 
 [12/23/2022 12:32 PM] grky_
@@ -3852,14 +3852,14 @@ it's most likely the bloom effect combined with the emissive that's causing that
 stickers as a 3x36, looks kinda like smthn but probably not
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1055956553175420980/3x36sticker.png?ex=6abad8ad&is=6ab9872d&hm=c30f7c7aacaccdeacb723210f66b192df5f6fb7ecd2026c763db1f4ac68db1e7&
+assets\3x36sticker-184db5ca132354d6.png
 
 
 [12/23/2022 6:18 PM] thekeymaker
 Sus?
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1055957677416644689/Screenshot_20221223-151833_Discord.png?ex=6abad9b9&is=6ab98839&hm=7243eca309b6bbdd188998c5a328d0802cd64008df567fbdb53f6af1f1ada328&
+assets\Screenshot_20221223-151833_Discord-c79cfe3e43e1abaf.png
 
 
 [12/23/2022 7:32 PM] gs_base
@@ -3970,7 +3970,7 @@ But there might still be a handful of things left to figure out which don't nece
 almost said ford lol
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1056028763466510477/ford.png?ex=6abb1bed&is=6ab9ca6d&hm=a2944c33a9ecf061ac819545f31cb856870639242403b8f633675642258e2253&
+assets\ford-ac87f9f5fbc8ae21.png
 
 
 [12/23/2022 11:03 PM] gs_base
@@ -4009,7 +4009,7 @@ Only problem is I can’t find a good existing cipher method to decode them
 take this for example
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1056038087429468231/image.png?ex=6abb249c&is=6ab9d31c&hm=ff79f08148410d022d30cb639bfda266f5bb6668842caf24dfa9932d850c78bf&
+assets\image-d4c94133abaf235a.png
 
 
 [12/23/2022 11:38 PM] gs_base
@@ -4192,7 +4192,7 @@ yh, exactly the same, i keep thinking maybe they were overly optimistic with how
 arnt rn:
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1056395175963934810/2644243-arnt_jensen.png?ex=6abb1fac&is=6ab9ce2c&hm=1462dbd8bd1012eea0546efe5d49e2e9b33527c9349f8cdd0548f13330516c73&
+assets\2644243-arnt_jensen-2852a79805ef4e06.png
 
 
 [12/24/2022 11:17 PM] grky_
@@ -4255,7 +4255,7 @@ I can’t really think of anything beyond a picture though
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1056411255876882462/image.png?ex=6abb2ea6&is=6ab9dd26&hm=50a33ea3f177b31045dc1528a6ef1c235be58fa905ee5dfb0f4a7500c0ecd2bd&
+assets\image-d96845d30a217dd1.png
 
 
 [12/25/2022 12:21 AM] gs_base
@@ -4266,14 +4266,14 @@ hmmmm
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1056413442464022548/image.png?ex=6abb30af&is=6ab9df2f&hm=c17c711999a03c40ce6004e2d818c6333e52ff55160bae38186ed645c84c54ca&
+assets\image-2e97d57948339439.png
 
 
 [12/25/2022 12:34 AM] gs_base
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1056414523189379103/image.png?ex=6abb31b1&is=6ab9e031&hm=51a5b3b07323e5f5553b37e2810a6686b859bff459c237c273166018d58351e6&
+assets\image-7173a709ed07897f.png
 
 
 [12/25/2022 12:40 AM] garden6
@@ -4296,7 +4296,7 @@ visualization of CE stickers
 here's this part from the ce cover rotated, in case that does anything
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1056425991976800356/p1.png?ex=6abb3c5f&is=6ab9eadf&hm=ed1f4556888a0c150fc1a6c02fb0e94206a05d8875e9e090f2c9939116cd3d52&
+assets\p1-5fb616de12d57abb.png
 
 
 [12/25/2022 1:57 AM] gs_base
@@ -4334,7 +4334,7 @@ so doing this should give a 36 letter message but i can only get
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1058496247826219068/36.png?ex=6abadb73&is=6ab989f3&hm=f5d3eea0323cf983ea3bb7ff0951f6b00f89fe368efb2d35a0fc0f00e4a42728&
+assets\36-65db113abcdcd84e.png
 
 
 [12/30/2022 6:26 PM] lime8159
@@ -4352,7 +4352,7 @@ The trifid cipher is a classical cipher invented by Félix Delastelle and descri
 the morse terminal
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1060560016467304478/morse_terminal.png?ex=6abb1d3c&is=6ab9cbbc&hm=8c79b5e1db05c4e054d11d09024c12d83e257f7e6a0c341cde3455f138aee5c4&
+assets\morse_terminal-bbf3106a8dd39761.png
 
 {Reactions}
 🤌 (5)
@@ -4377,7 +4377,7 @@ not sure if I have anything helpful to add to it, however, this and the SIGN_Sec
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1060623483870138448/morse.png?ex=6abb5857&is=6aba06d7&hm=26a669e492c157db885e58ae022705f6863a98fd37f605c322adf27fa1fecdca&
+assets\morse-8e499dceaca2be43.png
 
 
 [1/5/2023 3:21 PM] sirik4564
@@ -4416,14 +4416,14 @@ The machines around that broken device (with the blinking lights) were initially
 There's also some kind of symbol on the broken device, not sure exactly what it is but it looks like some kind of rotated slash to me
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1060657518432493688/device_broken.png?ex=6abacf4a&is=6ab97dca&hm=70d0afb80f257263ba8b6c3d87188131f449e27c53658464f984ba6e7461368f&
+assets\device_broken-fd96902f7b73485e.png
 
 
 [1/5/2023 5:35 PM] grky_
 The closest thing I can think of is that it's this morse_slash texture, but someone should probably confirm that
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1060657759152001054/gOFOp1je9kc.jpg?ex=6abacf83&is=6ab97e03&hm=cf80c1181fa5c9c780acb46bd2246afda9f31828d47a2722a00fb03d36565e3b&
+assets\gOFOp1je9kc-d9c386c41dae53f9.jpg
 
 
 [1/5/2023 6:04 PM] oneeyddyd
@@ -4552,7 +4552,7 @@ https://steamcommunity.com/app/304430/discussions/0/359543951720753445/?ctp=3#c3
 This is also MORSE_LightsRGB, which was discussed earlier for the "hidden terminal": https://steamcommunity.com/app/304430/discussions/0/359543951720753445/?ctp=5#c360671247403421719
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1060968080282484817/03A7xOM8snk.jpg?ex=6abb47c6&is=6ab9f646&hm=877e16604b10d439a511f63b2ab0467da8ed453cb187d6fab2f2b62ba1942152&
+assets\03A7xOM8snk-9349c046aa7ad0f5.jpg
 
 
 [1/6/2023 7:10 PM] aperson1
@@ -4571,7 +4571,7 @@ Wait, so is this a new puzzle unrelated to the printer?
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1081028839456645150/IMG_0687.png?ex=6abb178f&is=6ab9c60f&hm=a62e2fb63db3937d28c663e1e716bc351c435eb3d8820cd36c86428df8cf624e&
+assets\IMG_0687-b4041a5729fbc2b3.png
 
 
 [3/2/2023 10:42 PM] bigtimeburgerboy
@@ -4770,7 +4770,7 @@ I just found out that if you remove the letter j,f,h,d the letter remain is
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1146510839734607932/image.png?ex=6abb59ad&is=6aba082d&hm=a6562ac0684c1cf49f0bfa3ad653d5f7878d5d17c10205f5db59db1925372956&
+assets\image-eae69673bdd829ff.png
 
 
 [8/30/2023 3:25 PM] polariz1
@@ -4785,7 +4785,7 @@ and ors have the meaning which is
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1146511016226734080/image-1.png?ex=6abb59d7&is=6aba0857&hm=3332acc2611ef5acf73350a7a249e15e4eb4b1b87df1f06c3dd2979f839f43e2&
+assets\image-1-07f64529565eec5a.png
 
 
 [8/30/2023 3:25 PM] polariz1
@@ -4952,7 +4952,7 @@ Let me know if you need anything more specific Raez, I've been looking at this s
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1162847305356021790/ORhKbm7.jpg?ex=6abacbf2&is=6ab97a72&hm=27ac297511e817183b43a1ab971037a8a80ebf2c20ea75374c1b9b3b10433b83&
+assets\ORhKbm7-7ac02f17a9ab8d45.jpg
 
 
 [10/14/2023 5:20 PM] grky_
@@ -4990,7 +4990,7 @@ https://www.youtube.com/watch?v=dWhmPSjOybI
 Anthony T. Setrinamairé
 https://www.youtube.com/watch?v=dWhmPSjOybI
 Terminal41 emergency comms transmission [DATA STREAM]
-https://images-ext-1.discordapp.net/external/2ORJz8E974uZkOIvOr9OPyCtodPBXNNA9zkP-o76XF0/https/i.ytimg.com/vi/dWhmPSjOybI/sddefault_live.jpg
+assets\sddefault_live-046eec73a7152e6b.jpg
 
 
 [10/14/2023 6:14 PM] raezores
@@ -5046,7 +5046,7 @@ GAMING SUPER ЛЕТО: 👉 https://clck.ru/PqDuk
 MSI GeForce RTX 2070 SUPER GAMING: 👉 https://clck.ru/PqDz5
 
 В 2016 году студия Playdead выпустила инди-платформер под названием Inside, который стал настоящим глотком свежего воздуха на поприще инди проектов. Это по-настоящему уникальный продукт даже по сегодняшним меркам. Разработчикам удалось создать ...
-https://images-ext-1.discordapp.net/external/c5uKspNianQcw1EFAdROl4w9__84Suy1qKyplOduEG8/https/i.ytimg.com/vi/rfcAAZoktbs/maxresdefault.jpg
+assets\maxresdefault-2c058e987857b979.jpg
 
 
 [10/14/2023 6:36 PM] raezores
@@ -5209,7 +5209,7 @@ okay
 I think it'd be this, based on the string grky sent (UURLRRRUUURLLL)
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1163142735612629153/combos.txt?ex=6abb3656&is=6ab9e4d6&hm=26b6b2ccd6d61f7c5600558b2e77553003c3ceebb0154ac38ec34dde37bcc46b&
+assets\combos-4d820e5f6ae4cce6.txt
 
 
 [10/15/2023 12:57 PM] grky_
@@ -5480,7 +5480,7 @@ Ok cool
 These should be the 14 combinations @Raezores
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1163172168465658027/orig_combos.txt?ex=6abb51bf&is=6aba003f&hm=e2d1434d875f7615bc065f20020e738a0e3d757b9928149dc759fd357b9075d3&
+assets\orig_combos-bf1819d528ebcda6.txt
 
 
 [10/15/2023 2:53 PM] raezores
@@ -5618,7 +5618,7 @@ https://imgur.com/Jn2jwxv
 
 {Embed}
 https://imgur.com/Jn2jwxv
-https://images-ext-1.discordapp.net/external/mY9UGgd9ijm3iaWNB8rGZN8hguFpOECNawzJPpp8DRw/https/i.imgur.com/Jn2jwxv.jpg
+assets\Jn2jwxv-47b72e481e98070b.jpg
 
 
 [10/15/2023 6:06 PM] ghaith2025
@@ -5700,7 +5700,7 @@ https://mathsci.fandom.com/wiki/The_Haruhi_Problem
 https://mathsci.fandom.com/wiki/The_Haruhi_Problem
 The Haruhi Problem
 "What is the least number of Haruhi episodes that you would have to watch in order to see the original 14 episodes in every order possible?" Or, more formally, "what is the shortest string...
-https://images-ext-1.discordapp.net/external/BXJgA7pne36-h8rHoMmf3X1NqXZ0lSTlEvYnieA6KYA/%3Fcb%3D20110917085151/https/static.wikia.nocookie.net/mathsci/images/b/b6/1316239119346.jpg/revision/latest
+assets\latest-ba9184eba05294da
 
 
 [10/18/2023 12:10 AM] bigdusty.
@@ -5723,7 +5723,7 @@ given that what we want to do is a way to get ALL possible combinations of up, d
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1164041938329157652/image.png?ex=6abb3008&is=6ab9de88&hm=0d7f6de550c5348075b6ff8be93494dbc4f2d18e892142519cc99cf8669cab20&
+assets\image-85860458d3d409e3.png
 
 
 [10/18/2023 12:27 AM] thekeymaker
@@ -5751,7 +5751,7 @@ UDLRUDLURDLUDRLUDULRDULDRULDURLDU
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1164045331990859877/image.png?ex=6abb3332&is=6ab9e1b2&hm=530acc250695db7efed66d6ff5e72bd6f8ab0e42a9523f45d09511d1edab6780&
+assets\image-a1dcda1072f06acd.png
 
 
 [10/18/2023 12:44 AM] thekeymaker
@@ -5813,7 +5813,7 @@ Also in the end here: https://imgur.com/a/TnMsM
 {Embed}
 https://imgur.com/a/TnMsM
 Playdead's INSIDE - A Compilation of Secrets and Mysteries
-https://images-ext-1.discordapp.net/external/090FS7qHQck3_uX8YjfNf2FJ6N46_JNxdETcanuZD1Y/https/i.imgur.com/6xspV5zh.jpg
+assets\6xspV5zh-123f7ef654f2a36a.jpg
 
 
 [10/18/2023 1:54 PM] grky_
@@ -6234,7 +6234,7 @@ oh okay, but will you manage to exclude the existing codes, and for them to not 
 Apart from the door getting open, something else to potentially keep in mind would be to look for changes in the lever room potentially. An example would be the light on the left from the player turning on.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1164636711205208166/xxasd.PNG?ex=6abb5fb5&is=6aba0e35&hm=50fbdb45b6e9a1c7ad66506cf4a62e67a6b1d38335aa49f59234773b239d350b&
+assets\xxasd-6b8bccb3f55869e2.PNG
 
 
 [10/19/2023 3:51 PM] raezores
@@ -6285,7 +6285,7 @@ You shouldnt trust them hahah. but I am honored
 The little guys doing his best.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1164745984585248798/71946022045__A83CBFAB-3C30-404C-A63C-D94B0967BD3B.mov?ex=6abb1cba&is=6ab9cb3a&hm=845960735f28ff3db0ac2fbbe2d0eb80c54fd20ed073b0542da7aeca5050c13a&
+assets\71946022045__A83CBFAB-3C30-404C-A63C-D94B0-aa430be839ecde96.mov
 
 
 [10/20/2023 2:12 AM] raezores
@@ -6308,7 +6308,7 @@ Fast & Furious INSIDE edition
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1164908250630725764/IMG_1614.jpg?ex=6abb0b19&is=6ab9b999&hm=de7570a38ea563bedb525299c05eaaca504616c5ec827cbfc5f26f552f797a5f&
+assets\IMG_1614-08656e3dec9e4d98.jpg
 
 
 [10/20/2023 9:50 AM] bigdusty.
@@ -6350,7 +6350,7 @@ https://youtu.be/fvxrF_MFj9Y
 Dustin
 https://www.youtube.com/watch?v=fvxrF_MFj9Y
 Playdead Inside AutoHotKey Instructions
-https://images-ext-1.discordapp.net/external/XWnOjbaS3k5u4iKoM0vI891v63GauEQDGWfCJnaicms/https/i.ytimg.com/vi/fvxrF_MFj9Y/hqdefault.jpg
+assets\hqdefault-32befb2928bff8f0.jpg
 
 {Reactions}
 👍 (2)
@@ -6421,7 +6421,7 @@ INSIDE kid gonna be able to beat the shit out of every enemy with that hand when
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1165344960862765079/filtered-9027E54A-60BC-4664-A0BB-B02F73224086.mov?ex=6abb5051&is=6ab9fed1&hm=eafe9bf66f17b48e501a990a4eebfbe325683ff7ad0307447916df8e1ca2dfa0&
+assets\filtered-9027E54A-60BC-4664-A0BB-B02F73224-240603813fe52b4e.mov
 
 
 [10/21/2023 3:27 PM] thekeymaker
@@ -6470,7 +6470,7 @@ big boy machine of a pc xD
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1165414900840017940/IMG_7023.jpg?ex=6abae8b4&is=6ab99734&hm=9f4044ed9949b4fa857ffe13fc215e2a446b043d80fa7a2cda56a6a5b3fe3875&
+assets\IMG_7023-776e2f39962e0ff9.jpg
 
 
 [10/21/2023 7:22 PM] raezores
@@ -7286,8 +7286,8 @@ Okay I can do that tomorrow when BigDusty has the narrowed down file and screen 
 alright this is starting 2.5 hours in and ending 4 hours in. Hopefull that will capture the windown that it happens.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1167221181779300352/5B.txt?ex=6abae36f&is=6ab991ef&hm=0ad2f49174c799329c999b9a2612c62c3bce7cd9200a03bdc9d8bdb98d108596&
-https://cdn.discordapp.com/attachments/463106924708233216/1167221182152585327/5B.ahk?ex=6abae36f&is=6ab991ef&hm=30282477d7545f48906c525ce3d199b039c1028c7dc56b1a5bda39a6be7f0fed&
+assets\5B-4c6b3f88bc8363bd.txt
+assets\5B-bb63616d53397f11.ahk
 
 
 [10/26/2023 7:01 PM] bigdusty.
@@ -7346,8 +7346,8 @@ so something might have to be changed?
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1167229248214413455/test.txt?ex=6abaeaf2&is=6ab99972&hm=bd35dc83a136b6c4299f974b9dfd603227ba712841e81a5e913a9904c74e1e72&
-https://cdn.discordapp.com/attachments/463106924708233216/1167229248700956762/test.ahk?ex=6abaeaf2&is=6ab99972&hm=6c493b8f1408d17c6245fbcbe27f79c48ff6b957bcb05ad6c23db7c0f0a30e81&
+assets\test-b3ab6c9e39103511.txt
+assets\test-d31a5f2d58ab9569.ahk
 
 
 [10/26/2023 7:32 PM] bigdusty.
@@ -7520,7 +7520,7 @@ like is that how it works?
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1167888266872242308/IMG_1659.jpg?ex=6abb5675&is=6aba04f5&hm=75e7c534a21375c4b533869682182ef13c5f9bdf217a5799e799782768dc7823&
+assets\IMG_1659-4881c4476c4ebd17.jpg
 
 
 [10/28/2023 3:11 PM] bigdusty.
@@ -7531,7 +7531,7 @@ So open notepad. Hit open and then change it to all files. And open the test.ahk
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1167888422963261551/IMG_1660.jpg?ex=6abb569a&is=6aba051a&hm=28f78f1a1d2dc1329751432e26231f057cacf7c155f9a9a283d4d66ce74f8dd6&
+assets\IMG_1660-fd77f1d4b30d0a06.jpg
 
 
 [10/28/2023 3:11 PM] bigdusty.
@@ -7542,7 +7542,7 @@ Increase this number.
 File save as. Change to all files again and hit save.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1167888535618060328/IMG_1661.jpg?ex=6abb56b5&is=6aba0535&hm=3288c0f072ce96277d8ed05a2ed391e7ff474a823fb93809be1d396853800f63&
+assets\IMG_1661-3fe0a8df0a7c0278.jpg
 
 
 [10/28/2023 3:13 PM] bigdusty.
@@ -7585,9 +7585,9 @@ okay thats cool
 put these in the same spot as your other ones. run test2 if it doesnt open the door run 3, if that doesnt then run 4
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1167890385914298489/test2.ahk?ex=6abb586e&is=6aba06ee&hm=7a7cbb96c7006a0c653ce8a6d917a4e3c69d339192bddf9949c1dda819115d7b&
-https://cdn.discordapp.com/attachments/463106924708233216/1167890386283413598/test3.ahk?ex=6abb586e&is=6aba06ee&hm=6471941c2463396265c2ea74d053ebe8e8d18b36b9d23e20729c9f12dc7f334d&
-https://cdn.discordapp.com/attachments/463106924708233216/1167890386702831747/test4.ahk?ex=6abb586e&is=6aba06ee&hm=dcc2cda8876d34afa55699219dab40928db2bd993e57170a40000e6d6235396b&
+assets\test2-533e8907700df367.ahk
+assets\test3-696d1dd62e5014c3.ahk
+assets\test4-2084bdf748009d57.ahk
 
 
 [10/28/2023 3:20 PM] raezores
@@ -7666,7 +7666,7 @@ okay lets do that one
 ok delete the other test.txt and replace it with this one.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1167893173109006438/test.txt?ex=6abb5b06&is=6aba0986&hm=c5352519ae59a995bf8e68f8a8d365f8243ac3b3345cff26aae3274b3e5ca1ba&
+assets\test-cd7aa21af323df63.txt
 
 
 [10/28/2023 3:31 PM] raezores
@@ -7721,16 +7721,16 @@ aight, all auto hotkey files gone
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1167896296007413800/Inside_1.ahk?ex=6abb5def&is=6aba0c6f&hm=24fb56648fd2ca516e2a89b0ba9812c9c27c2f9c35524832dc1e8ab58471000f&
-https://cdn.discordapp.com/attachments/463106924708233216/1167896296460386316/Inside_2.ahk?ex=6abb5def&is=6aba0c6f&hm=9f83306cd4e789ca24c12a1c11ae7976af2b9fee83cfd84180d1be48c2246237&
-https://cdn.discordapp.com/attachments/463106924708233216/1167896296791752879/Inside_3.ahk?ex=6abb5def&is=6aba0c6f&hm=b1ed2ac1bf537325078677b380fa9b2d1a54b13932118e54de6540e373efbea4&
-https://cdn.discordapp.com/attachments/463106924708233216/1167896297215373372/Inside_4.ahk?ex=6abb5def&is=6aba0c6f&hm=25b4f33a6225fe3b4282584dbf20c11ee7587273dc8b5212e9ca41800863f1c7&
-https://cdn.discordapp.com/attachments/463106924708233216/1167896297697706004/Inside_5.ahk?ex=6abb5def&is=6aba0c6f&hm=eeba2e7948b3760e57123169a08e34ea71f53918ff3626a10bea8ae166dc5e8f&
-https://cdn.discordapp.com/attachments/463106924708233216/1167896298012295311/Inside_6.ahk?ex=6abb5def&is=6aba0c6f&hm=e4353d6a5e8d4d95e9f6f500f1db1d845e0f5fc2831c52d05627d2d3ab1f5ed9&
-https://cdn.discordapp.com/attachments/463106924708233216/1167896298540761238/Inside_7.ahk?ex=6abb5df0&is=6aba0c70&hm=6ed39d24d6889e0c6e4a920dd4a6c3dff0075d44c5acf2a39af476126e04f429&
-https://cdn.discordapp.com/attachments/463106924708233216/1167896298964402206/Inside_8.ahk?ex=6abb5df0&is=6aba0c70&hm=dcb916fd172b4bc54a1bb6325b296b3a1a19dec5690cf720359697b8931dae6a&
-https://cdn.discordapp.com/attachments/463106924708233216/1167896299367051404/Inside_9.ahk?ex=6abb5df0&is=6aba0c70&hm=439b8f45f3dc6616b5238adaa632717ee164e2ee68cb13019ceef622a2c632bd&
-https://cdn.discordapp.com/attachments/463106924708233216/1167896299845189662/Inside_10.ahk?ex=6abb5df0&is=6aba0c70&hm=9b9f79484a356e2669ef16b1b76d793be7abc0802920afdaafd5bcf7d759e815&
+assets\Inside_1-0a5092f017dec7d6.ahk
+assets\Inside_2-d1ed37150648640b.ahk
+assets\Inside_3-a75f269e9983f632.ahk
+assets\Inside_4-e71dcb20b4f268d8.ahk
+assets\Inside_5-7989c248e236a6ab.ahk
+assets\Inside_6-0f90dd1927954307.ahk
+assets\Inside_7-4be04e3b07b479ed.ahk
+assets\Inside_8-1d0284102b1c4cd1.ahk
+assets\Inside_9-3e39fb4b10a9c116.ahk
+assets\Inside_10-5f13760b6c4a6e28.ahk
 
 
 [10/28/2023 3:45 PM] raezores
@@ -7843,7 +7843,7 @@ UUUUUUUUUUUUUL```
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1168241459238015057/image.png?ex=6abb4de4&is=6ab9fc64&hm=d7ac4f813f84f16d207a03a8c8bd1c59f631b83baf8ec41be505d32267844a77&
+assets\image-f5295a7005885bc7.png
 
 
 [10/29/2023 2:37 PM] darkmatter_11
@@ -7932,7 +7932,7 @@ Sounds interesting
 no idea. But I'll leave this picture here, maybe someone will shout "that's an acorn!" or "that's a game of life pattern!" or something by squinting at this
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1168256849213132890/image.png?ex=6abb5c3a&is=6aba0aba&hm=c16d52ef373d0036fbb1d896cc0d90e5f51bc2638d4528e3697bed6150d0f02b&
+assets\image-f85870436f923a57.png
 
 
 [10/29/2023 3:36 PM] lime8159
@@ -7947,7 +7947,7 @@ yeah, I think "Why are yellows only at the bottom?" is the big question here. Si
 if it helps, here are all the resolutions the stickers can be ordered in
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1168258004131520542/variations.zip?ex=6abb5d4d&is=6aba0bcd&hm=83501ae3da899d2638a6a27aa559e85113b86752f57743c03a9f4add24b9df60&
+assets\variations-da0af0cad26c7e2b.zip
 
 
 [10/29/2023 3:40 PM] lime8159
@@ -8018,7 +8018,7 @@ but yh dots appearing last is so weird i have no idea what to make of it
 Another idea that might make sense in terms of thinking about the final image perhaps might involve mirroring the existing results that we have. Here's a rough example of it on the pattern that DarkMatter posted. Don't have much else to contribute on this puzzle, but figured it might be worth sharing if it makes sense as an additional tool to check for future attempts.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1168267629753008291/sdaf.PNG?ex=6abb6644&is=6aba14c4&hm=ff122c25390557eb70de68e7704e4e9ea6733761c0f206c282b77eda93e29ab3&
+assets\sdaf-150359fc2abef167.PNG
 
 
 [10/29/2023 4:20 PM] lime8159
@@ -8348,9 +8348,9 @@ That’s how I feel.
 Here’s the user manual for that printer from that YouTube video/email. Not helpful I’m sure but you never know
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1169102537547321445/IMG_1675.png?ex=6abb2415&is=6ab9d295&hm=ac11ccc87aaccebd9b93b97dbd915b8ca3d9edc3974a83b8def8ead0b275e859&
-https://cdn.discordapp.com/attachments/463106924708233216/1169102537887072287/IMG_1674.webp?ex=6abb2415&is=6ab9d295&hm=3561d683d93a93c878bc19cb9a839b09420e0b3a6e53b2d4c37462c4dfe9a7cf&
-https://cdn.discordapp.com/attachments/463106924708233216/1169102538235191297/IMG_1673.webp?ex=6abb2415&is=6ab9d295&hm=7cc62bf70bb9df164286cc8b809e72ddb1f4b79d51b1ee7512e451eab4d26077&
+assets\IMG_1675-e8aeb27a69f4eefd.png
+assets\IMG_1674-e7098ed3f6be734c.webp
+assets\IMG_1673-ed43681a01948577.webp
 
 
 [10/31/2023 11:39 PM] bigdusty.
@@ -8445,8 +8445,8 @@ I'm thinking maybe the info from that printer might give us a clue to figure out
 The first image is the original thumbnail image, and the second one is with tweaked chroma for example. It seems to be the same specific black part in the middle that gets revealed, same one as those folks found when manipulating the image.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1170080975334674492/hqdefault.png?ex=6abb6793&is=6aba1613&hm=819ef4bc34413a1c4246e0725be5c245d0e5249921ff2a1d0b243c91d3084b50&
-https://cdn.discordapp.com/attachments/463106924708233216/1170080975921885304/chroma_manip.png?ex=6abb6793&is=6aba1613&hm=db89cf316034f0834a3d65678708dfbd02b55729a490f84e8459a41373e5380b&
+assets\hqdefault-ba106732abf1411a.png
+assets\chroma_manip-a730ee019fbd276e.png
 
 
 [11/3/2023 5:04 PM] raezores
@@ -8467,7 +8467,7 @@ You can do CTRL and + in your browser to zoom in on the image if you want. And y
 However, what I was referring to in my above post is the row on the bottom symbols on the second image that gets revealed when manipulating the colors of the image. This gives us some info at least that we might be able to decode it in some way.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1170092565303939243/xxsad.PNG?ex=6abb725e&is=6aba20de&hm=0661f0e7cdc475139dfca4ba8c6698ca588956d89ff9719f126c4cac4c9d3fde&
+assets\xxsad-74ccdf895c654366.PNG
 
 
 [11/3/2023 5:10 PM] raezores
@@ -8600,14 +8600,14 @@ This is interesting. I am going to dive into this a bit. I also have been playin
 not sure that it means anything but this is what I get for that section of the thumbnail
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1170101998683684864/thumbnail.png?ex=6abad267&is=6ab980e7&hm=da36d2ad188c24d46437cfc29fbbf7307cc93e077a66d9b2909078daa700fdef&
+assets\thumbnail-624f3b4dd3eff920.png
 
 
 [11/3/2023 6:24 PM] bigdusty.
 parts of it do seem to overlap which is interesting.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1170111311951171614/tn2.jpg?ex=6abadb14&is=6ab98994&hm=e657562255a16e08d2539d19628e33d78fd96c2878f4c5ee87d8714b7416c193&
+assets\tn2-5c163500de8562a8.jpg
 
 
 [11/3/2023 6:27 PM] twinkletoes.ok
@@ -8634,7 +8634,7 @@ essentially for a sequence repeating every 108, the probability of it happening 
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1170126714626654361/sequence_prob.txt?ex=6abae96c&is=6ab997ec&hm=fff1a63537a8e896ef2c5271a34026f3525830077a2e186b43459a443a872c13&
+assets\sequence_prob-bb1047802f422f07.txt
 
 
 [11/3/2023 11:08 PM] bigdusty.
@@ -8719,7 +8719,7 @@ nice
 Something unexpected happened guys
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1170813217560342659/image.png?ex=6abb6e87&is=6aba1d07&hm=2603066e2824fe53b69bb101bbed10f3fd2a2e041885da623fe3746f9f1c0010&
+assets\image-7fa5b304ffb9e030.png
 
 {Reactions}
 🚒 (11) 🧯 (9) 🧨 (9) 🚨 (11) ❤️‍🔥 (8)
@@ -8751,25 +8751,25 @@ I haven’t forgot about ya Raez I promise I’m going to send them 😂
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1171274276091990057/Inside_18.ahk?ex=6abb21ac&is=6ab9d02c&hm=7cae57199e6ec4f7cd63e9820ae09c2991b3b682230e33395c1d709d4d3dac84&
-https://cdn.discordapp.com/attachments/463106924708233216/1171274276398182420/Inside_17.ahk?ex=6abb21ac&is=6ab9d02c&hm=8788aee2aa03c277f1311fac3f1541361b47ccd239c6b7d0c29a67a649767b5d&
-https://cdn.discordapp.com/attachments/463106924708233216/1171274276683403274/Inside_13.ahk?ex=6abb21ac&is=6ab9d02c&hm=8f9b738027b8aaf468790f89c6f5305ae6a78340d18a66cef026b19a8b9910d3&
-https://cdn.discordapp.com/attachments/463106924708233216/1171274277018939453/Inside_12.ahk?ex=6abb21ac&is=6ab9d02c&hm=8f57dd127ed3479c1463d133503f15a8edcc42ac9a844d833d5ff390ff3fb096&
-https://cdn.discordapp.com/attachments/463106924708233216/1171274277383852113/Inside_11.ahk?ex=6abb21ac&is=6ab9d02c&hm=c75d6291dbc4f09a712cdada913c9728281f5d30bdfd942498b69b649547d22f&
-https://cdn.discordapp.com/attachments/463106924708233216/1171274277694214197/Inside_10.ahk?ex=6abb21ad&is=6ab9d02d&hm=7ac64293540f931d3b7c3362be627725f4f6131c4c6cd049416abde77b2eb056&
+assets\Inside_18-b116caa67ed74072.ahk
+assets\Inside_17-03462967837a9a1a.ahk
+assets\Inside_13-9a86d32e9442193a.ahk
+assets\Inside_12-b6714a8cb59dc277.ahk
+assets\Inside_11-d8242c822871f2e3.ahk
+assets\Inside_10-b2d377b3b21c8647.ahk
 
 
 [11/6/2023 11:27 PM] bigdusty.
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1171274766695538688/section_17.txt?ex=6abb2221&is=6ab9d0a1&hm=ad077639d1efa2cc52798398b99d9da7b9463fbdc5ee856feea7728549bde754&
-https://cdn.discordapp.com/attachments/463106924708233216/1171274767110787122/section_18.txt?ex=6abb2221&is=6ab9d0a1&hm=90baceec216ec8114c060850333ee867b167334d12e36d464dc7df83290444df&
-https://cdn.discordapp.com/attachments/463106924708233216/1171274767526010961/section_10.txt?ex=6abb2221&is=6ab9d0a1&hm=93e35e7f602e01fcab0722f762505644407366dbe3f86aa754cfaefe984e893b&
-https://cdn.discordapp.com/attachments/463106924708233216/1171274768129986570/section_11.txt?ex=6abb2221&is=6ab9d0a1&hm=dc5899c679dc981667c54ca64c1ecd2cda953e523aaf1ca5663be49f90b3f5f5&
-https://cdn.discordapp.com/attachments/463106924708233216/1171274768704622622/section_12.txt?ex=6abb2222&is=6ab9d0a2&hm=8d64345a4cfbc624b3ed09f1b6538d981bb5f33af9713488e96a9eda6d56089f&
-https://cdn.discordapp.com/attachments/463106924708233216/1171274769149206549/section_13.txt?ex=6abb2222&is=6ab9d0a2&hm=1a5ad86be34d050538e80904f928dfbe9fef0f3402a64c71d0b286a933899a64&
-https://cdn.discordapp.com/attachments/463106924708233216/1171274769723838595/section_14.txt?ex=6abb2222&is=6ab9d0a2&hm=c7370d12652eec4a84cba6533b21fcaa44097272995471b757918f76431934ba&
+assets\section_17-f34a10d5cec8a43f.txt
+assets\section_18-f0842d44a033ccd5.txt
+assets\section_10-4cf0adfca7609550.txt
+assets\section_11-e62464893066040f.txt
+assets\section_12-a5b0d3cc280b0825.txt
+assets\section_13-28fe382883f0e1c3.txt
+assets\section_14-b94aaed8ccdb2fb0.txt
 
 
 [11/7/2023 12:51 AM] bigdusty.
@@ -8936,7 +8936,7 @@ If lever was pulled too fast, it would sometimes skip inputs, which is exactly w
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1173243408203132928/image.png?ex=6abb0b52&is=6ab9b9d2&hm=0870a9f4c6040b64925d313972be9aaf4bd9d1068385ab4a62e915fe82090e54&
+assets\image-8b0c85383dceee6c.png
 
 {Reactions}
 😆 (10)
@@ -8997,7 +8997,7 @@ Absolutely😁
 @BigDusty
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1173355656955297872/image.png?ex=6abacb1c&is=6ab9799c&hm=7aeb43e89998c7df101fb8984abc3659155521c96d7d60f9f169b4423866325e&
+assets\image-1d41bbe93ae98398.png
 
 
 [11/12/2023 5:16 PM] raezores
@@ -9016,7 +9016,7 @@ https://discord.com/channels/460626942190813184/460626942190813186/1173355740510
 The code for the password joystick
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1173357512913866792/message.txt?ex=6abaccd7&is=6ab97b57&hm=a341b563aee5782dcbf7bd78d1725ff731daf91cc8ffbe90b40a2ccdf953780d&
+assets\message-343970084ff2430c.txt
 
 
 [11/13/2023 8:53 PM] grky_
@@ -9051,7 +9051,7 @@ I’m running out of ideas 😂
 this script is the only secret script so far that try to change RGB color. this might have something to do with morse terminal.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1175419953986408549/SecretProbeFlicker.txt?ex=6abb0d63&is=6ab9bbe3&hm=6f4678aa1c669b48796d2276d506d9fdaa824368454124d9ad73a3ed5dfaae41&
+assets\SecretProbeFlicker-dd9ddb5551564dfc.txt
 
 
 [11/18/2023 1:55 PM] bigdusty.
@@ -9064,14 +9064,14 @@ Awesome thanks Polariz!
 I noticed that the "symbols" visible on the stream thumbnail seem to manifest as topographic imprints almost, like a relief in a coin or other object. The easiest way I could think of to make something like that stand out was to increase the contrast and make the highlights stand out more
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1182994153899040859/20231209_103026.png?ex=6abaebe9&is=6ab99a69&hm=4d85d153f0e862d02eaca88c3c7500b7291ada01483e293a86aab24e9563dac9&
+assets\20231209_103026-54c1dbb83f44f2fe.png
 
 
 [12/9/2023 7:40 AM] ashenpoet
 There's a quite distinct line shaped like a t or E in this region, which matches with one of the visible "symbols". But I'm not certain it's relevant as I don't see any similar shapes around it
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1182995093142114304/20231209_103130.png?ex=6abaecc9&is=6ab99b49&hm=3a1b87a4fb2a51f45d691b66c1b49ac50b9cb32e284bde85fcd08677b6b10e14&
+assets\20231209_103130-87074f3cfc71bbd1.png
 
 
 [12/9/2023 7:41 AM] ashenpoet
@@ -9086,21 +9086,21 @@ I'm going to try to colour correct the image to remove those dark regions left b
 A look at the moon's surface sans coloured portions does not appear to reveal anything of note
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1183005868053245983/20231209_112020.jpg?ex=6abaf6d2&is=6ab9a552&hm=aa8bd3eefc063c5d04166f2862ce56bf264bb0408be7dd46b2a81c3491cf5b66&
+assets\20231209_112020-795a54283945051c.jpg
 
 
 [12/9/2023 8:59 AM] ashenpoet
 one more idea for now. since I've already separated the coloured portion from the black and white portion, I've overlayed the grid over our hidden row. My idea is that perhaps the black grid is telling us which part of that hidden row to pay attention to
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1183015153801887786/Untitled75_20231209115533.png?ex=6abaff78&is=6ab9adf8&hm=0510522ce4eb99abd72b5579a3a8e3a14278747649f1ab6833ced992385d6458&
+assets\Untitled75_20231209115533-a0b5f5b27ffbb58e.png
 
 
 [12/9/2023 6:41 PM] darkmatter_11
 You can separate the RGB channels to remove the color distortion and the repeating pattern below the purple band. This is the Red channel, Blue and Green are almost the same (with Green split and shifted below the purple band).
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1183161592729309184/image.png?ex=6abadf19&is=6ab98d99&hm=6145e847d63941092261b6db9e015d66dd53f0c8ea1922ef5f0745a6170e8519&
+assets\image-05d37755e73152cd.png
 
 
 [12/9/2023 6:48 PM] darkmatter_11
@@ -9112,22 +9112,22 @@ And e.g. if we turn up contrast to see the darker parts, we will see different t
 
 {Embed}
 https://img.youtube.com/vi/dWhmPSjOybI/sddefault.jpg
-https://images-ext-1.discordapp.net/external/n3JPs_JY2u9LY0NRjZf7YK9uJknB6SejYeIYLidNB-U/https/img.youtube.com/vi/dWhmPSjOybI/sddefault.jpg
+assets\sddefault-5c1ca67e6a506781.jpg
 
 {Embed}
 https://img.youtube.com/vi/dWhmPSjOybI/hqdefault.jpg
-https://images-ext-1.discordapp.net/external/HHxNdJK-RuOB0m43WJ2XcABV7AUq-lYB66ynWIqRW24/https/img.youtube.com/vi/dWhmPSjOybI/hqdefault.jpg
+assets\hqdefault-ae8429fbb90c380f.jpg
 
 {Embed}
 https://img.youtube.com/vi/dWhmPSjOybI/mqdefault.jpg
-https://images-ext-1.discordapp.net/external/t--eZEhw9qy9nKFXhgPpIXvGlXwDO7xwAxqQpXNez_k/https/img.youtube.com/vi/dWhmPSjOybI/mqdefault.jpg
+assets\mqdefault-7f91de05b10cfa6d.jpg
 
 
 [12/9/2023 6:53 PM] darkmatter_11
 Sheet music is an interesting idea though.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1183164649122832555/image.png?ex=6abae1f2&is=6ab99072&hm=0319475595b331d8be318e3011ffd1316951777387bf844fc3f09cdd4332e36d&
+assets\image-1a1f3f60bd440a12.png
 
 
 [12/10/2023 6:08 AM] ashenpoet
@@ -9178,7 +9178,7 @@ Also, the thumbnail image I used in this example was acquired by right clicking 
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1183515030499623025/temp_exp2.PNG?ex=6abad6c3&is=6ab98543&hm=2a415ec7bdd807b459f8d02c60e34ece741a8967900a5fb9e353b42afe2f3aec&
+assets\temp_exp2-5973915fbfd2487c.PNG
 
 
 [12/28/2023 2:24 AM] aperson1
@@ -9199,7 +9199,7 @@ so unfortunately nobody can help with that
 Guys, I noticed that this light's flickering is not consistent. Sometimes it glows for long, sometimes it glows for a moment. And intervals between these glowings also vary. It might be some kind of morse code (I'm not into that stuff). Maybe it's just randomized, but what's the point of randomizing flickering light if it can be as consistent as that of shockwave area. I think it's worth a shot.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1226938947192492144/image.png?ex=6abb4530&is=6ab9f3b0&hm=b6d0f595f3edaed605869fa43f9bf0848a5e1715cf2e2651ec0f5fc270475389&
+assets\image-dddf916442cacc0d.png
 
 
 [4/8/2024 2:35 PM] _maybe_ray_
@@ -9296,15 +9296,15 @@ https://www.iam8bit.com/collections/all/products/inside-collector-s-edition
 https://www.iam8bit.com/collections/all/products/inside-collector-s-edition
 INSIDE Collector’s Edition
 Includes the Huddle Silicone Sculpture w/ Display Stand, Boy Figurine, Art Card Set, Physical PlayStation 4 (PS4) game w/ Foldout Poster. iam8bit creates unique, exclusive and limited merchandise. Collector’s Edition physical games to vinyl soundtracks, fine art prints and beyond.
-https://images-ext-1.discordapp.net/external/vBeazYgNzoICYHBFXCw-73QwaZw1cr6DMjnosVGNoqw/%3Fv%3D1588895007/https/www.iam8bit.com/cdn/shop/products/InsideCE_Lifestyle_00001B_grande.jpg
+assets\InsideCE_Lifestyle_00001B_grande-9a002fef03d9e0a3.jpg
 
 {Embed}
 https://www.iam8bit.com/collections/all/products/inside-collector-s-edition
-https://images-ext-1.discordapp.net/external/G9M5ikJ5-h6uT31_Puzd5PWA7qNNqAdBlwQ99mT-oSA/%3Fv%3D1588895007/https/www.iam8bit.com/cdn/shop/products/InsideCE_Lifestyle_00018_grande.jpg
+assets\InsideCE_Lifestyle_00018_grande-6846d8f982204b3c.jpg
 
 {Embed}
 https://www.iam8bit.com/collections/all/products/inside-collector-s-edition
-https://images-ext-1.discordapp.net/external/ZiY-7qMdRJWpU-8J7ycjmlR0uR1U9SPMQpY3S7Y4h_o/%3Fv%3D1588895007/https/www.iam8bit.com/cdn/shop/products/InsideCE_Lifestyle_00024_grande.jpg
+assets\InsideCE_Lifestyle_00024_grande-00994e489d2ef2fa.jpg
 
 
 [9/1/2024 3:21 PM] ha5.x
@@ -9423,7 +9423,7 @@ https://tenor.com/view/just-do-it-words-of-wisdom-encouragement-advice-life-less
 {Embed}
 https://tenor.com/view/just-do-it-words-of-wisdom-encouragement-advice-life-lessons-gif-4413390
 just do it
-https://images-ext-1.discordapp.net/external/gkT8ZsAGBoVD9JGWLY4vB6xV5-9FIBs44PDeZJjxug4/https/media.tenor.com/I6ggVKuaWoMAAAAe/just-do-it-words-of-wisdom.png
+assets\just-do-it-words-of-wisdom-32323f5b6a2915e8.png
 
 
 [9/4/2024 4:16 AM] otanim
@@ -9470,7 +9470,7 @@ A talk by Jonathan Blow at GDC Europe 2011 about truth in game design.
 Description from the GDC Vault website:   
 
 We illustrate that games, being algorithmic systems implemented on computers, are biased toward revealing truth, so long as we do not quash the truth in order to force our own high-level wishes into the design. We can use games as ...
-https://images-ext-1.discordapp.net/external/a9IhUspm5kiQcaXoC7TmXtsZUnwsMfSOw7aphKYBD58/https/i.ytimg.com/vi/C5FUtrmO7gI/maxresdefault.jpg
+assets\maxresdefault-9ae92b370ff17942.jpg
 
 
 [4/19/2025 3:11 PM] sdnearo
@@ -9523,7 +9523,7 @@ The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Gle...
 Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 7
 
 ​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every ...
-https://images-ext-1.discordapp.net/external/yWVEMjNjZQFMiYb8G7EmQCgPm-wMCCTR7rAaARpbJQw/https/i.ytimg.com/vi/KD18ddeFuyM/maxresdefault.jpg
+assets\maxresdefault-03f3f14a56a7fac5.jpg
 
 
 [7/1/2025 2:04 PM] santiface
@@ -9626,7 +9626,7 @@ the pattern is not obvious, and we're just missing random parts of the 100 (or p
 More chatting with gpt
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1434603984336978060/IMG_8533.png?ex=6abb54d3&is=6aba0353&hm=f19c3f4ab409acf1f6279fc822095b4e4deb6769f11d83bb6a22de8b1f688584&
+assets\IMG_8533-30fecfe94830c7ce.png
 
 
 [11/2/2025 3:04 PM] raezores
@@ -9653,7 +9653,7 @@ I don't understand that graphic, why does it only go to 77 and which ones are th
 1 sec it gave me this
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1434607612862791691/IMG_8534.png?ex=6abb5834&is=6aba06b4&hm=372ec1b83198299cafc0157486eac217e4d81dd920074ef4a8bb6f9e7b0144ca&
+assets\IMG_8534-844010561ac8f41f.png
 
 
 [11/2/2025 3:19 PM] raezores
@@ -9668,7 +9668,7 @@ I’m asking it for a full list now, my bad💀
 Just for fun, but heres what chatgpt guesses what the full list would look like
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1434634284471418983/IMG_8535.png?ex=6abb710b&is=6aba1f8b&hm=a1349e3dbc6fc11ccf04f6016cfa3d3fd1d1f01dee31140b8b245fbd0b5036af&
+assets\IMG_8535-f34d9691e29b7101.png
 
 
 [11/2/2025 5:06 PM] raezores
@@ -9683,7 +9683,7 @@ ChatGPT’s guess if it were to solve the ARG itself is that the answer is «PLA
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1434640427620896949/IMG_8536.png?ex=6abace04&is=6ab97c84&hm=dd097efd7d3cd6f2e212f71efddebd4c3ea42f2628f1ac29a72eb24105eff2ea&
+assets\IMG_8536-a9077467890ad5dc.png
 
 
 [11/2/2025 6:07 PM] lime8159
@@ -9695,7 +9695,7 @@ https://steamcommunity.com/app/304430/discussions/0/359543951720753445/
 https://steamcommunity.com/app/304430/discussions/0/359543951720753445/
 A Compilation of Secrets and Mysteries (Spoilers) - UPDATED :: INSI...
 Hello Everyone, I have compiled a visual storybook of miscellaneous secrets and mysteries below: http://imgur.com/a/TnMsM Some of them you may have already seen, others will be completely new. Either way, I am interested to hear your thoughts and theories about them. Let me know if you have discovered anything strange or interesting in the game ...
-https://images-ext-1.discordapp.net/external/d1nz2IgCga_un-UNm_pmF48rLyo6qQouWUTllhVgUT0/%3Ft%3D1761819581/https/shared.steamstatic.com/store_item_assets/steam/apps/304430/header.jpg
+assets\header-afaf5314ec0f0e5e.jpg
 
 
 [11/2/2025 6:25 PM] raezores
@@ -9765,7 +9765,7 @@ not sure if this has been discussed already but wondering if the sticker puzzle 
 kinda like this
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1434659978035204177/organised_sticker_puzzle.jpg?ex=6abae039&is=6ab98eb9&hm=1e66528b6afdf3ce046e8e127c900406f0d4004c5e3b21da622c7e5fd54fcde0&
+assets\organised_sticker_puzzle-097b0148e47a6836.jpg
 
 
 [11/2/2025 6:47 PM] lime8159
@@ -9812,15 +9812,15 @@ pretty much, i'm assuming it'd still be a 9x9 grid just reorganised, but it coul
 here's what i'm referring to, for people unfamiliar
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1434662105608355862/image.png?ex=6abae234&is=6ab990b4&hm=3a54e3fa2f87fdcbfd72f21953f3c1e72527aed7ec7879bac1edc62bc3ea5329&
-https://cdn.discordapp.com/attachments/463106924708233216/1434662106048761916/organised_sticker_puzzle.jpg?ex=6abae234&is=6ab990b4&hm=415396b9e16ecce652f17af9d3c8bf5731b5120d3010237fd7e07d6a60d35c9d&
+assets\image-7760e824d952ebb6.png
+assets\organised_sticker_puzzle-2408ab827f411c09.jpg
 
 
 [11/2/2025 6:56 PM] lime8159
 interestingly, there's 9 numbers within the original 534brn puzzle solution, if they were all distinct integers, it could have given us the order
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1434662590910431343/image.png?ex=6abae2a8&is=6ab99128&hm=5c2440a5b6c3bccf58750aca012f84b07fabadfa04fa67a47d13be8e6a1b4c1d&
+assets\image-8c95f6495fe9c211.png
 
 
 [11/2/2025 6:58 PM] raezores
@@ -9847,15 +9847,15 @@ Interesting tho
 tried shuffling in the order 534965398, didn't seem to produce an image
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1434666591282266272/reshuffledpuzzle.png?ex=6abae662&is=6ab994e2&hm=e31f30c7aea40fac99c1319bb07e8fbb52fa462b1a6c557e6819318d3bcfeee8&
+assets\reshuffledpuzzle-93c3dc067658423b.png
 
 
 [11/2/2025 7:55 PM] raezores
 So I checked what the AI could do, it did a lot of code stuff it told me about that I as usual don’t understand, but this is the 2 latest images it gave me
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1434677268126503003/IMG_8538.png?ex=6abaf053&is=6ab99ed3&hm=617b9a8577fb7cbfec51535baa955f47266ae31df66a09e6938000f4f422a97a&
-https://cdn.discordapp.com/attachments/463106924708233216/1434677268491272306/IMG_8539.png?ex=6abaf053&is=6ab99ed3&hm=898e5ba340c7f14ea35cf30a4b05da3dec7b9abf9f1e2d4dd2718dc9bca27f74&
+assets\IMG_8538-a679a51c20104d9b.png
+assets\IMG_8539-9feeb54f0adebd52.png
 
 
 [11/3/2025 7:48 AM] blocksshaded
@@ -9952,15 +9952,15 @@ I'm afraid image from stream that we can get lost too many data from youtube/goo
 Also, comms/gate/98 image (one with planet hidden in it) can be turned to that if you invert it and show only brightest pixels. I see there strange part of image in the middle, something that resembles letters in the middle of lower half, and something similar to end of terminal thumbnail at the bottom.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452027355894780105/thing.jpg?ex=6abb6f9b&is=6aba1e1b&hm=dc15b2371dc575c66e1ecc423897eb4c1f22f5f5c21f3a5ffc17790b707e9873&
+assets\thing-08f68f384e44282a.jpg
 
 
 [12/21/2025 2:13 AM] nuggets4321
 Wait wait wait, at the bottom notice how it sort of splits off into squares, just like the Terminal 41 Emergency Comms
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452167076059021332/image.png?ex=6abb48fa&is=6ab9f77a&hm=c5b3d173eb66549534ca652bf21210424f8a2e5fc5c7fcaeb942b2bfdf05096a&
-https://cdn.discordapp.com/attachments/463106924708233216/1452167076494966916/image.png?ex=6abb48fa&is=6ab9f77a&hm=0733121b588649f6b8fc894d3c80a0212e7ab45e38da558399c19d7cee97186a&
+assets\image-1db127401e60fcef.png
+assets\image-ec27d341394a98da.png
 
 
 [12/21/2025 2:23 AM] nuggets4321
@@ -9971,14 +9971,14 @@ Wait wait wait i thiink i found another little thing
 Notice how those large white chunks repeat near the A and Under the A in that static what if we are meant to over lay them
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452170025506181203/image.png?ex=6abb4bba&is=6ab9fa3a&hm=22f709e82abaf63fdeb878be0ed0b155dabb26be43c1dab26ce1342ae1a784f0&
+assets\image-67cb9b6b698c1566.png
 
 
 [12/21/2025 2:25 AM] nuggets4321
 I also found this, code, im gonna try and remove all other colours to get the full thing
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452170205152411731/image.png?ex=6abb4be4&is=6ab9fa64&hm=6781fed59d042e11a56740ab6965d8b6c7199da74b294f9a08dffa4e8d596b62&
+assets\image-8fedc0dc5362ced7.png
 
 
 [12/21/2025 2:27 AM] nuggets4321
@@ -9993,28 +9993,28 @@ However the slight issue is i can't seem to recreate what i did to the image
 This is roughly what it says i did but oh well maybe it was just a fluke
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452185194688807006/image.png?ex=6abb59da&is=6aba085a&hm=dfb4be7ee90a4f8184ea1a4d610a0784ada69006cc14ea719d6c256baf313c5d&
+assets\image-3784878be2203ace.png
 
 
 [12/21/2025 4:17 AM] nuggets4321
 Huh from doing Value invert -> Liner Invert -> Invert i got this
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452198354816729149/image.png?ex=6abb661c&is=6aba149c&hm=963bbdbe44b98ca62a56f6eb4d0602cc72b51a5605f2779470bf949f0d42967b&
+assets\image-68984cb896751f69.png
 
 
 [12/21/2025 4:19 AM] nuggets4321
 Adjusted the expsoure and i was able to clean it up a little to get this code
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452198838487220317/image.png?ex=6abb668f&is=6aba150f&hm=8cf5dbe19af19a42be2c623abfe2e8e50c56dfd474f07b4f7e6552f1241f0381&
+assets\image-7f90d60e6ebb9135.png
 
 
 [12/21/2025 4:19 AM] nuggets4321
 And This Code
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452198887384158282/image.png?ex=6abb669b&is=6aba151b&hm=35757535e57176755969e5cdbc91e8dd17dc16dd36d1260dfa340545a9413b7f&
+assets\image-1eb7a88cc60b8970.png
 
 
 [12/21/2025 4:27 AM] aperson1
@@ -10033,7 +10033,7 @@ Notice how the first one is parts of repo/sys/activate_shutdown_protocol, while 
 However, the rest of the findings are very interesting. Maybe that comms/gate/98 image needs to be used to match the terminal stream one in some way to fill it or align with it.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452238022484693095/repo_img.png?ex=6abae24d&is=6ab990cd&hm=aefa44ce5678bc3ad2d62b407d8483d6d837656d114b1e9b92d0c7a234c1a99e&
+assets\repo_img-089df5db964ac304.png
 
 
 [12/21/2025 9:59 AM] nuggets4321
@@ -10052,14 +10052,14 @@ Tommrow I might mess around with overlaying the image on it self to see if I can
 The `AnSet = Anthony T. Setrinamairé` finding certainly sounds like progress! Combined with the `pe^!02un ........ .. . = unsolved`, I'm wondering if they wanted to tell us that the Anthony stream thumbnail is unsolved? Maybe we're supposed to find where that picture of terrain was taken, using the time when the jpeg was created? Red channel of thumbnail:
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452395394876051467/image.png?ex=6abacc1e&is=6ab97a9e&hm=1a456a8405ebb6672d32162f51cccccabfa70a735df8e7296dda1ff467c76a90&
+assets\image-3665e5f5b8152d68.png
 
 
 [12/21/2025 5:24 PM] darkmatter_11
 For example there's https://www.uahirise.org/catalog/index.php?page=2265. It lists the acquisition time in Local Mars time though, which I'm not sure how to convert to the time format in the JPEG. So I quickly went through the 18 pictures I could find with Acquisition date 9 August 2016 (I don't see a good way to search this website by Acquisition date). I didn't find an exact match, this is the closest I found. The texture looks somewhat similar? And its title is 22 characters (probably just a coincidence). https://www.uahirise.org/ESP_047050_1730
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452396277315928125/image.png?ex=6abaccf0&is=6ab97b70&hm=0b07c52e60e19d788deeca423232ac39b2d7d57b46d03e56fb0912e5c6307c0b&
+assets\image-c93d2205746ea086.png
 
 
 [12/21/2025 5:28 PM] darkmatter_11
@@ -10146,7 +10146,7 @@ Anthony T. Setrinamairé stream: https://www.youtube.com/watch?v=dWhmPSjOybI
 Anthony T. Setrinamairé
 https://www.youtube.com/watch?v=dWhmPSjOybI
 Terminal41 emergency comms transmission [DATA STREAM]
-https://images-ext-1.discordapp.net/external/2ORJz8E974uZkOIvOr9OPyCtodPBXNNA9zkP-o76XF0/https/i.ytimg.com/vi/dWhmPSjOybI/sddefault_live.jpg
+assets\sddefault_live-046eec73a7152e6b.jpg
 
 
 [12/22/2025 2:59 AM] darkmatter_11
@@ -10174,7 +10174,7 @@ all of that assuming the times are supposed to be a hint and not just either an 
 I just did a value invert and found some more blocks at the bottom
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1452619646518689813/image.png?ex=6abaf438&is=6ab9a2b8&hm=16d97225af486561d69ff1060e9cacedd7bb5392848d7c3f1cd0686faf2677ce&
+assets\image-81210680d1fae7ce.png
 
 
 [12/22/2025 11:58 PM] ashenpoet
@@ -10266,7 +10266,7 @@ Funnily enough "@anthonyt.setrinamaire" is 22 characters. Though I doubt that's 
 This is a cropped screenshot of the thumbnail of the t.setrinamaire channel
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1453146764998869115/Screenshot_20251223_220502_YouTube.jpg?ex=6abae4e2&is=6ab99362&hm=6c8cec65d0f2ee9d0a4b186a962e021d5f9cebed642efb04f3bf52bc25add4af&
+assets\Screenshot_20251223_220502_YouTube-c8e0cd1a922f830b.jpg
 
 
 [12/23/2025 7:06 PM] ashenpoet
@@ -10285,7 +10285,7 @@ The paper with holes in both sides reminds me of those ekg sheets
 It appears to be taken from this image?
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1453148086141583382/eyJidWNrZXQiOiJ0b25lcnBhcnRuZXIiLCJrZXkiOiJvdXRcL3BpY3R1cmVzXC9tYXN0ZXJcL21vZGVsXC8xMDI2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJpbnNpZGUifX19.jpg?ex=6abae61d&is=6ab9949d&hm=0c251eeef48c663b3410e64e22761bc0d3b0027f2b474a09741d27cce9973207&
+assets\eyJidWNrZXQiOiJ0b25lcnBhcnRuZXIiLCJrZXkiOi-0ad9d6fb2cf53a3f.jpg
 
 
 [12/23/2025 7:11 PM] ashenpoet
@@ -10326,7 +10326,7 @@ Thanks!
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1453150437187260538/image0.jpg?ex=6abae84e&is=6ab996ce&hm=dbea1776234fbcba31a9e719bfb3709b06b1e912cf9d3fde8a5041fd65657c4f&
+assets\image0-e67f132b9cb8c63a.jpg
 
 
 [12/23/2025 7:21 PM] ashenpoet
@@ -10346,7 +10346,7 @@ Specifically the black ink bleeding into other sections makes me think of the bl
 There's also the 22-character thing from the terminal41 home page, which I believe is unsolved, and which came directly after Anthony T. Setrinamairé and the youtube stream in the ARG. If we ignore the dot but count the spaces, then `Anthony T Setrinamairé` is 22 characters.
 Originally sent: 11/16/2023 10:06 PM
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1453152868491329566/image.png?ex=6abaea92&is=6ab99912&hm=424a2e0c6da73858eb87fba0f890602ab4b220f5cb5c2ebc4dd215d74da00c62&
+assets\image-0fe3c81ec465492b.png
 
 
 
@@ -10506,7 +10506,7 @@ Maybe it’s some sort of stenography shenanigans
 Also this reminds me of the repeating text me saw in that corrupted JPG image
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1453180457255698443/IMG_6580.png?ex=6abb0443&is=6ab9b2c3&hm=a067e4a7f1eed09b58d64a39f766f6a35ac40bb721955a85dec9e96018ca2ec4&
+assets\IMG_6580-30bf7056303590ea.png
 
 
 [12/23/2025 9:21 PM] nuggets4321
@@ -10578,22 +10578,22 @@ Images on two other computers looks can be connected to those I can get from win
 Can we take a closer look at this image in game?
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1454473954755612709/image.png?ex=6abb1bad&is=6ab9ca2d&hm=d9dd8fa3e70a46bce320e1e3c52371f48d251e234b695f6ffac7d8d14664e121&
-https://cdn.discordapp.com/attachments/463106924708233216/1454473955111993467/wcil7mDWP1pLwAAAABJRU5ErkJggg.png?ex=6abb1bad&is=6ab9ca2d&hm=1dc4105d663bdcc6a52238740021a48f038b0190e9acc27de18e19d5a192d59e&
-https://cdn.discordapp.com/attachments/463106924708233216/1454473955418046546/image.png?ex=6abb1bad&is=6ab9ca2d&hm=275210fc9b2b15bc140dec750e4f9176cc69b725fdf6e1126ae266a2a5036232&
-https://cdn.discordapp.com/attachments/463106924708233216/1454473955741274256/image.png?ex=6abb1bad&is=6ab9ca2d&hm=43f0fdc6f451af26ff30674e90bdf88d558481ab42ea972d5552583f468ec26e&
-https://cdn.discordapp.com/attachments/463106924708233216/1454473956026351616/image.png?ex=6abb1bad&is=6ab9ca2d&hm=a2159a3855b0dc5578002e95a7d894778b821f5b7afdfb6de254fc319d184516&
-https://cdn.discordapp.com/attachments/463106924708233216/1454473956261101578/image.png?ex=6abb1bad&is=6ab9ca2d&hm=c2fa7327d50885a3f96f6c8e8df0e2d16f5e811641649e3415fdd385aa103361&
-https://cdn.discordapp.com/attachments/463106924708233216/1454473956508831978/image.png?ex=6abb1bae&is=6ab9ca2e&hm=f5bd0a70168ddc936b11533ad21c9a56aac52e9090418c43cf95672d6442dc60&
-https://cdn.discordapp.com/attachments/463106924708233216/1454473956806492352/image.png?ex=6abb1bae&is=6ab9ca2e&hm=24e594b2db5269c90c3835b240e79257ad6316c9af61d2ae59329ad922e31d26&
-https://cdn.discordapp.com/attachments/463106924708233216/1454473957104156835/image.png?ex=6abb1bae&is=6ab9ca2e&hm=95ab1f5b8c1cd807eca3d9f242e18449b1783fe4ea918d95051fc93b891768bb&
+assets\image-21b86ef8e34e269b.png
+assets\wcil7mDWP1pLwAAAABJRU5ErkJggg-746d5444c3bdfeed.png
+assets\image-895c90f45e7d9540.png
+assets\image-d6d0d0f76ab751ca.png
+assets\image-f443c3585a376c4f.png
+assets\image-4484af09d4a602b3.png
+assets\image-37499f52103192b0.png
+assets\image-7be117e2c68d1b1e.png
+assets\image-46edcfb62af0b550.png
 
 
 [12/27/2025 11:02 AM] eropkol
 Planet image looks something like this, but I can't see any more details
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1454474622841131162/image.png?ex=6abb1c4c&is=6ab9cacc&hm=5723003da35d0d369e6f3067bfcdb9324819755feec004c93c4c9e4187a33334&
+assets\image-1096f47c5e56a474.png
 
 
 [12/30/2025 8:38 PM] raezores
@@ -10610,8 +10610,8 @@ Common things with the CE ARG and Huddle:
 So only when many people work together, a structure appears, like with the game.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1455706629918953554/image.png?ex=6abafa72&is=6ab9a8f2&hm=a76fc07fc1899608b374ac6476796201a6db4f806110d6ebcd744c46dcef7636&
-https://cdn.discordapp.com/attachments/463106924708233216/1455706630250299544/8FD1D47B-30D6-4B6B-B2CE-AA12380BB1EE.png?ex=6abafa72&is=6ab9a8f2&hm=6d868f81f5311606c6e36f91722029abebba55b1de23bc426b799b291f13657a&
+assets\image-d162d69fa4aeae81.png
+assets\8FD1D47B-30D6-4B6B-B2CE-AA12380BB1EE-31741d1ee74a37cf.png
 
 
 [12/30/2025 9:36 PM] aperson1
@@ -10654,7 +10654,7 @@ I came across this the other day, it's called the "messier catalogue", thought t
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1455882742314303665/2560px-All_messier_objects_28numbered29.png?ex=6abaf5b6&is=6ab9a436&hm=8b20b38052b0738d30140df1a2996f75fffbe898cb582e973b98e31af50d077d&
+assets\2560px-All_messier_objects_28numbered29-5debb0eac7c36b23.png
 
 
 [12/31/2025 8:19 AM] lime8159
@@ -10681,7 +10681,7 @@ I think I saw a puzzle like that in blue prince actually
 this one
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1455945361175613513/Yy10YWJsZS5qcGc.png?ex=6abb3008&is=6ab9de88&hm=e299cffb5d52cabd53caade5660abf92d4cc59216803c71b8f1b2d6fd4c84640&
+assets\Yy10YWJsZS5qcGc-e76265d10969d65a.png
 
 
 [12/31/2025 12:28 PM] lime8159
@@ -10736,7 +10736,7 @@ Well it came from Iam8bit. I would be very surprised if he had a lot of info oth
 Hmm, interesting idea. If we split the stickers in groups of 4, then it's about the same length as the Ford string (with spaces, ignoring the B02), and the dots roughly correspond to the Ujhdfr part.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1457288995162554368/image.png?ex=6abacd63&is=6ab97be3&hm=38682edd026f377945a0d052edb7ec12c80ace5c061b9ec0541a006339d8f140&
+assets\image-0afe634ede16178e.png
 
 
 [1/4/2026 5:29 AM] darkmatter_11
@@ -10747,7 +10747,7 @@ B02 could mean base 2, and we could do 4-digit binary numbers from the rows and 
 We could also line them up like this.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1457290229957525547/image.png?ex=6abace89&is=6ab97d09&hm=bae0dbca15442c42356a93116fa2a5d6cdca9cc7669328177165f14b06d4336c&
+assets\image-fa5df24928188715.png
 
 
 [1/4/2026 6:34 AM] darkmatter_11
@@ -10758,7 +10758,7 @@ But, since most rows have only 1 or 2 symbols missing, we can look at the usuall
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1457306812985512018/image.png?ex=6abaddfb&is=6ab98c7b&hm=de70498dd8f020458e349a274c83daed145f68b23712c8244e55f69a3d37f13e&
+assets\image-d1b6f5f05872ffd0.png
 
 
 [1/9/2026 7:01 PM] bigdusty.
@@ -10767,7 +10767,7 @@ https://cdn.discordapp.com/attachments/463106924708233216/1457306812985512018/im
 {Forwarded Message}
 Originally sent: 4/5/2020 11:34 PM
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1459306119410352189/Sign_Screen_A_Columns-sharedassets6.assets-53.png?ex=6abae3bb&is=6ab9923b&hm=1c209356aab356d556687bc9ad55ea3788c2ba4f1c329d81a63ad07aca015669&
+assets\Sign_Screen_A_Columns-sharedassets6.assets-5c748e32d1be1eb3.png
 
 
 
@@ -10787,15 +10787,15 @@ That’s the best quality
 here it is without discord trying to interpolate the pixels
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1459822708169773239/image.png?ex=6abaca97&is=6ab97917&hm=04ef036ff80b0720f9a3ed65715530ea75843080d5c7ff795ea0f309b6a22dbd&
+assets\image-8266fcb1fbcf561f.png
 
 
 [1/11/2026 9:01 AM] blocksshaded
 before and after (it only rotates the three line in the end 90 degrees back and forth)
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1459879980157763675/Screenshot_441.png?ex=6abaffee&is=6ab9ae6e&hm=462ec27ae041bd93670cd8acde94b68bc9e814537d7eaaccb18f72aa20bc6a41&
-https://cdn.discordapp.com/attachments/463106924708233216/1459879980556226732/Screenshot_455.png?ex=6abaffee&is=6ab9ae6e&hm=aa1e62938799b1751a827c0f0f1b11860a76a0f27957e64864f8696baf4d03fb&
+assets\Screenshot_441-b889e2a518cab4e6.png
+assets\Screenshot_455-61182573558d165b.png
 
 
 [1/11/2026 9:01 AM] blocksshaded
@@ -10806,7 +10806,7 @@ made sure they werent touching so no interference happened
 looks somewhat like this in the middle so you get the idea
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1459880168519630879/Screenshot_443.png?ex=6abb001b&is=6ab9ae9b&hm=333ce36554e8b0581d1a07e56519e76aebc7a659f972edc6b01d9571c48829bd&
+assets\Screenshot_443-662ac2409e00eab0.png
 
 
 [1/11/2026 9:03 AM] blocksshaded
@@ -10845,7 +10845,7 @@ one of the files is under a folder called "supersecret"
 ***KINDA LOUD***
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487063710177693767/image_Game26585_681347534.wav?ex=6abb0440&is=6ab9b2c0&hm=5d2a2ec83b9071bf112d5e82fbce8681cdf360b596c89362d4c247904b94eaa0&
+assets\image_Game26585_681347534-0ccc807a7c7b0a55.wav
 
 
 [3/27/2026 9:20 AM] ghaith2025
@@ -10868,7 +10868,7 @@ The reason I think this cause of how files named and the sound of it.
 well it looks like this
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487065555549683792/image.png?ex=6abb05f8&is=6ab9b478&hm=61088ba8b8836a5acc44ab6a130e20deb261183ee1040981602c5f40a318c9a1&
+assets\image-6412b37bf8a99c67.png
 
 
 [3/27/2026 9:28 AM] aperson1
@@ -10887,7 +10887,7 @@ definitely looks interesting
 I mean it has to be something, a weird audio file named "image" inside a folder named "superSecret" 😅
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487071510991474780/image.png?ex=6abb0b84&is=6ab9ba04&hm=2e03b953af613be85d172f9ee3ec78aaf737c5b53e5be32c43cf60b301bc3faa&
+assets\image-b9b9eef654c5e288.png
 
 
 [3/27/2026 9:53 AM] lime8159
@@ -10926,7 +10926,7 @@ some of names are actually interesting, it helps understanding the lore a lot
 took a look at the binary for the wav, there's a section that looks like this among all the nonsense symbols
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487084445419831356/image.png?ex=6abb1790&is=6ab9c610&hm=8b10e105b974886405817e19f78d3d5fbc94ff03ca0bdbcac8a4c1ee71c38ad9&
+assets\image-2bed01c001afff8d.png
 
 
 [3/27/2026 10:42 AM] lime8159
@@ -10941,7 +10941,7 @@ yh, think it's just coincidence, but will keep looking
 Oooh, I think the waveform definitely looks like an image data. These triplets could correspond to the R G B values of the rows in a 710x376 size image (if I didn't miscount)
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487124806934724688/image.png?ex=6abb3d27&is=6ab9eba7&hm=6ae30a50a3ea1cc1750ce4fc258cb529c8aa134ce26df2316d73fe108c8de309&
+assets\image-4ba79417d49b3b72.png
 
 {Reactions}
 ❤️ (5)
@@ -10954,7 +10954,7 @@ It worked! It's indeed an image of size 610x376 (I did miscount)
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487129872798318592/image_wav.png?ex=6abb41df&is=6ab9f05f&hm=d5cebb093fd5cbede1bda914ce21b1b7b74ac8d5626a49b87af02cbce9b2720d&
+assets\image_wav-4eb8725b7ff41261.png
 
 {Reactions}
 👀 (23) 🎉 (17) boy_dab (13)
@@ -10971,7 +10971,7 @@ they rly love hiding bitmaps in random things lol
 Here's how I got this: just took the data from the waveform (as a long list of numbers between -1 and 1), and made an RGB image out of it with a quick script in Mathematica
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487133040957198396/image.png?ex=6abb44d2&is=6ab9f352&hm=d711333360c4bd252bd9346836c86ace65f29b20d63bc05d451c20a667efb9fa&
+assets\image-f279f38d014e4674.png
 
 {Reactions}
 boy_dab (8)
@@ -11052,7 +11052,7 @@ how do you even find these folders? is it somewhere beyond steam game folder?
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487143939751280670/Capture_decran_2026-03-27_183851.png?ex=6abb4ef9&is=6ab9fd79&hm=f0288dcae9897e69d0f54e8e4500c1f0ad6d1110981ddeb8d60b6d145c4e5871&
+assets\Capture_decran_2026-03-27_183851-958f58a0d4a56bf5.png
 
 
 [3/27/2026 2:39 PM] raezores
@@ -11149,7 +11149,7 @@ Instagram: https://instagram.com/AppleTV
 TikTok: https://tiktok.com/@AppleTV
 Facebook: https://facebook.com/AppleTV
 X: https://X.com/App...
-https://images-ext-1.discordapp.net/external/Gnc6jwor7Y6zEGTita8W4MSW-fIAja1JMEsYgzVrpWE/https/i.ytimg.com/vi/_RZ3FqObaaM/maxresdefault.jpg
+assets\maxresdefault-c684942416d3d8c1.jpg
 
 {Reactions}
 ❤️ (3)
@@ -11158,7 +11158,7 @@ https://images-ext-1.discordapp.net/external/Gnc6jwor7Y6zEGTita8W4MSW-fIAja1JMEs
 this is the other file , I think they are the same just different name. doesn't hurt to check.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487149943482351767/Game2_3202.mp3?ex=6abb5490&is=6aba0310&hm=f9887ad8ebe03effc57d19736b2548e51c895028f5752096e55969036b6fbde8&
+assets\Game2_3202-0feb2e7d1bc83f6b.mp3
 
 
 [3/27/2026 3:11 PM] raezores
@@ -11196,7 +11196,7 @@ this is amazing work truly but i can’t help but feel a lil sad that we’re st
 @/garden6 mentioned the image.wav file a while back but never posted it
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487160720989884668/image.png?ex=6abb5e99&is=6aba0d19&hm=b2da1f1fc7f7f384e0a54adba6932fb1dfa90c7469a25fe34c7b7cf1042f80a7&
+assets\image-cbd2314e71add6a3.png
 
 {Reactions}
 😮 (2) 🤔
@@ -11261,7 +11261,7 @@ Like the audio wasn’t in game
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487164072905408682/SoundbanksInfo.xml?ex=6abb61b9&is=6aba1039&hm=a3cf22552ede07801ab2edefd67b2b524b1cd9e8d80f3619478934de532d0fcf&
+assets\SoundbanksInfo-92ab41c6b5a14432.xml
 
 
 [3/27/2026 3:59 PM] ghaith2025
@@ -11296,7 +11296,7 @@ im gonna try downgrading to an older version of inside to see if it's still ther
 Yeah, it's basically the same audio file, it generated the same picture. (There's a short quiet section at the beginning and end of this file, but I'm quite sure that's just because the .wav was converted to an .mp3)
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487171374169456770/image.png?ex=6abb6885&is=6aba1705&hm=91895febd5556d9c425324b0e470abda82da081703b88e86785f58bb4082f4f0&
+assets\image-72f98dcd15c21cf5.png
 
 
 [3/27/2026 4:28 PM] aperson1
@@ -11332,11 +11332,11 @@ based on their names I would expect them to not be anything, but doesn't hurt to
 ***VERY LOUD WARNING***
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487180626019881001/small_room_1_double_decay_dc_Game26177_606956032.wav?ex=6abb7123&is=6aba1fa3&hm=e745254af4336f007929a64e9816ae4ef99a2a237cbd826f9503d1bb3d01ca85&
-https://cdn.discordapp.com/attachments/463106924708233216/1487180626581786694/middle_hall_1_preset_decay_dc_Game22230_137020827.wav?ex=6abb7123&is=6aba1fa3&hm=127e9de15b1f3347591f0caa53792b9d2cca564f6a1eff3c67cdb7806ec56307&
-https://cdn.discordapp.com/attachments/463106924708233216/1487180626921652266/middle_hall_1_half_decay_dc_Game23667_266152100.wav?ex=6abb7123&is=6aba1fa3&hm=64ef3ca47b8876472ba4d791e73092fcc011176d2ad19609bc3791be6195f929&
-https://cdn.discordapp.com/attachments/463106924708233216/1487180627584483358/concert_hall_preset_decay_dc_Game26493_664791960.wav?ex=6abb7124&is=6aba1fa4&hm=dba220d7808108f6c1feae292c976301add46429ecea2f7fd824d0cea4715e44&
-https://cdn.discordapp.com/attachments/463106924708233216/1487180628171424035/concert_hall_double_decay_dc_Game28255_1071983592.wav?ex=6abb7124&is=6aba1fa4&hm=cdb6668a7ddfff04f7acb1f9f42eb19cc9ae83b46163bd775a1c792b0ffe4bd8&
+assets\small_room_1_double_decay_dc_Game26177_606-34ee8aa6cf63214d.wav
+assets\middle_hall_1_preset_decay_dc_Game22230_13-25954ec612982155.wav
+assets\middle_hall_1_half_decay_dc_Game23667_2661-81e2b01c88ea4a28.wav
+assets\concert_hall_preset_decay_dc_Game26493_664-45826f0da0541719.wav
+assets\concert_hall_double_decay_dc_Game28255_107-eebc649b021cc1ae.wav
 
 
 [3/27/2026 5:05 PM] ghaith2025
@@ -11355,7 +11355,7 @@ I think they are almost certainly Impulse Responses (IRs) or lookup tables for t
 yh, i think ur right, tried slowing one of them down, it starts with a sine wave then gets more and more noisy
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1487208031505875027/middle_hall_1_half_decay_dc_Game23667_266152100slowed_5.wav?ex=6abae1e9&is=6ab99069&hm=f5a52f5285699fc8ed05db73525ba94ac3c0e8a4013fff07096575d378c4ad54&
+assets\middle_hall_1_half_decay_dc_Game23667_2661-a230a168ec4ea0bf.wav
 
 
 [3/27/2026 6:53 PM] lime8159
@@ -11422,7 +11422,7 @@ I can confirm that the audio image is launched with the game day 1, this is PS4 
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1488532080832020552/audio.png?ex=6abb15c7&is=6ab9c447&hm=f7685e853281c8a8a8c3c7a59b243f54045ffe96eb0ad03acffd39c175d2aa43&
+assets\audio-630d80e9fc426fed.png
 
 {Reactions}
 ❤️ (5)
@@ -11448,7 +11448,7 @@ the secret room under the corn field, in the audio files it's called "alienRoom"
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1488533758528196768/alien_room.png?ex=6abb1757&is=6ab9c5d7&hm=6e04088a6d951ff679c7541a2553e16adb0ce2e2c9def1169a3b14fbb38063bf&
+assets\alien_room-fa942888256abd35.png
 
 
 [3/31/2026 11:30 AM] bigdusty.
@@ -11512,7 +11512,7 @@ https://cdn.discordapp.com/attachments/461275582970462209/700782524535799848/INS
 
 {Embed}
 https://cdn.discordapp.com/attachments/461275582970462209/700782524535799848/INSIDE_A.JPG
-https://media.discordapp.net/attachments/461275582970462209/700782524535799848/INSIDE_A.JPG?ex=6abb61d5&is=6aba1055&hm=11993c0e41096092da204df7d2408a747a49ab9b6dc2ed22654dbbbd5edffdfb&
+assets\INSIDE_A-75c1e61d8bc695be.JPG
 
 {Reactions}
 acorn
@@ -11522,7 +11522,7 @@ https://cdn.discordapp.com/attachments/461275582970462209/700782556471230514/INS
 
 {Embed}
 https://cdn.discordapp.com/attachments/461275582970462209/700782556471230514/INSIDE_B.JPG
-https://media.discordapp.net/attachments/461275582970462209/700782556471230514/INSIDE_B.JPG?ex=6abb61dd&is=6aba105d&hm=0659184f453cf6a949f011fd9486d5fcc222b461fee01df4447209651bdb8670&
+assets\INSIDE_B-f038cdd5970802f8.JPG
 
 
 [4/6/2026 3:19 PM] eropkol
@@ -11567,7 +11567,7 @@ thats so cool dude
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1491733390955778118/2026-04-09_11-35-10.mp4?ex=6abaddbb&is=6ab98c3b&hm=11f785b164304ec4c5098ed7d0afc8600588ea759708eea9fc2d895b8d58efc7&
+assets\2026-04-09_11-35-10-d0cfd93cf4b6d306.mp4
 
 
 [4/9/2026 6:36 AM] ghaith2025
@@ -11608,7 +11608,7 @@ pe^!02un ........ .. .
 came across fractionated morse, a type of morse encoding where 3 symbols are used to encode the plaintext, it doesn't exactly fit the stickers puzzle because we have most of the dots at the end, but it could be possible if the puzzle needs to be rearranged first
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1504513543284850769/image.png?ex=6abb37ad&is=6ab9e62d&hm=37aa0d2574bda925a6621b886b305190c6312d1e405292729e3adc58116fe96b&
+assets\image-688371ed9760f241.png
 
 
 [5/19/2026 2:11 PM] raezores
@@ -11618,9 +11618,9 @@ https://cdn.discordapp.com/attachments/463106924708233216/1504513543284850769/im
 Just to add to this, idk if it was checked before or if helpful. Honestly I can’t remember to be honest. But had ChatGPT to make a table of the symbols with A-I from left to right (1) and top to bottom (2). And one version where its in order in each respective letter (3)
 Originally sent: 5/19/2026 11:38 AM
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1506343530719613019/D5188D9B-9491-44CE-894C-9B3B17F27FB1.png?ex=6abb487c&is=6ab9f6fc&hm=81f8c62380ba23902944f3b1148af4eb0b844ad15b77964c2b82ed76c82c1231&
-https://cdn.discordapp.com/attachments/463106924708233216/1506343531050959059/7C483C81-1084-4125-9EFA-F4DE38081DCD.png?ex=6abb487c&is=6ab9f6fc&hm=7c88a24b315e7a8b208310a224fbb0504ed04277da466a89237bd65ff4ebae91&
-https://cdn.discordapp.com/attachments/463106924708233216/1506343531319660737/3784F191-535E-4E08-A32E-13C82339FD9E.png?ex=6abb487c&is=6ab9f6fc&hm=bacb06eaf1a509832ca301c817b6bf5bbf3f97220c483c9e7ab4a353219a49ac&
+assets\D5188D9B-9491-44CE-894C-9B3B17F27FB1-a45aa9766c5e7cab.png
+assets\7C483C81-1084-4125-9EFA-F4DE38081DCD-f2a2350e4471ba8b.png
+assets\3784F191-535E-4E08-A32E-13C82339FD9E-fc677cbded910815.png
 
 
 
@@ -11657,7 +11657,7 @@ Btw did someone also mention something about testing button presses on an old bu
 I like the button presses idea, the older phones used dtmf signalling, and the encoding for it is very similar to a polybius square, which playdead have already used
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1507460328693301368/250px-DTMF_keypad.png?ex=6abb6415&is=6aba1295&hm=b8c475ac65237970da91ea316c5251730fbbbda06a06893afb1c5272d82db5eb&
+assets\250px-DTMF_keypad-6d73a28fe58e8b76.png
 
 
 [5/22/2026 4:16 PM] raezores
@@ -11686,7 +11686,7 @@ That’s just an example of course, and that Playdead could do something differe
 that setup kinda fits with the stickers puzzle aswell, since we have 2 sets of symbol pairs, in the 9x12 orientation for example, it's possible that the first 9 bits encode 1 number, which represents the larger domain and the last 3 bits encode the second number, a smaller subset to pick from
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1507466214438469672/image.png?ex=6abb6990&is=6aba1810&hm=ac21137c0168609bc908eb45235fba336fb0dc3f15f68fa51578635da2661e09&
+assets\image-aa05050909364b51.png
 
 
 [5/22/2026 4:34 PM] lime8159
@@ -11861,7 +11861,7 @@ Ye at this point they’re unicorn rare
 This is from 1st of august, so hopefully any day now
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1537020460049371207/IMG_9805.png?ex=6abad31a&is=6ab9819a&hm=b9d4252de24d9a85c7a52d9c7862e5765acd1995eefe6101d909dbab6c3c16b9&
+assets\IMG_9805-38d2ef85a5090336.png
 
 {Reactions}
 🙏 (3)
@@ -11955,7 +11955,7 @@ Hey, came here from Oddheader as a hobbyist codebreaker.
 He mentioned the sticker pattern repeating and I was surprised to see there are only 3 valid cycle lengths left
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1551818839686381628/image.png?ex=6abb446a&is=6ab9f2ea&hm=37cfde45092cd038fb2eeb68b9a7a00fd4385e92d4932aa9b1fd294951628cd7&
+assets\image-23cd8b5a3c992746.png
 
 
 [9/22/2026 1:55 AM] megarooni980
@@ -12017,7 +12017,7 @@ Programmers aren't package designers haha, probably just an oversight
 @Twinysam could be totally nothing but the imagery was cool.
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1551821362828541982/IMG_4620.jpg?ex=6abb46c4&is=6ab9f544&hm=0ff32095b5f799feed83e826653c14f172cbd0d1e14eae553b0eb52978cf648c&
+assets\IMG_4620-635bb33253c32deb.jpg
 
 
 [9/22/2026 2:04 AM] nathanielgrigsby
@@ -12084,7 +12084,7 @@ If the length is actually 108, and I'm calculating correctly based on the above 
 It's almost kind of interesting that they had those cycles on 9 backgrounds, over 12 sets
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1551827345932030033/image.png?ex=6abb4c56&is=6ab9fad6&hm=68f75f518f4bb835b8a6d9ed766a8707026419f3d94377e7ebb50cc2e428ffe9&
+assets\image-93cde7a5f9cd79da.png
 
 
 [9/22/2026 2:30 AM] banzu
@@ -12099,7 +12099,7 @@ IF we go by the 9 background thing and lets say 9x9 is the main grid, the remain
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1551828538729046017/image.png?ex=6abb4d73&is=6ab9fbf3&hm=6ff93058a2f6f249e2f3c0803549761afd8601460c68079e0e49656189b1e698&
+assets\image-aa01cf48605ad1b1.png
 
 
 [9/22/2026 2:32 AM] banzu
@@ -12335,7 +12335,7 @@ Ye its resolved :p. If you use this link, then click `stickers.md` you’ll get 
 https://github.com/twinysam/INSIDE-ARG
 GitHub - twinysam/INSIDE-ARG: Documentation for Playdead's INSIDE ARG
 Documentation for Playdead's INSIDE ARG. Contribute to twinysam/INSIDE-ARG development by creating an account on GitHub.
-https://images-ext-1.discordapp.net/external/SubEcJw_pD7wUK7m0DaGJJHMoofG88nz2fOTYwxBmmc/https/opengraph.githubassets.com/77ddd55508b378267cbf2ff66879166707e38b12760c535ea8601d17a370c165/twinysam/INSIDE-ARG
+assets\INSIDE-ARG-d33039d91b6e9289
 
 
 [9/22/2026 12:27 PM] raezores
@@ -12354,7 +12354,7 @@ May 2017: https://web.archive.org/web/20170514074655/http://gaming.gladblad.dk/b
 That’s enough fanfare
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1551981003558486126/IMG_3076.png?ex=6abb32b1&is=6ab9e131&hm=a01759bc996eef624c9e20e4cc831866f94bccc1d500198e430e13b77a179069&
+assets\IMG_3076-c54ad23ab278cd5c.png
 
 
 [9/22/2026 12:39 PM] chameleon_cat
@@ -12509,7 +12509,7 @@ It took 9 of those background images to get the terminal link. Not sure if there
 Not what i mean. What i'm talking about is if all of these have the same background image
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1551989098497974272/Screenshot_20260922_180817_M365_Copilot.jpg?ex=6abb3a3b&is=6ab9e8bb&hm=b20fbc5ddf440c0502bb2046b68a308d40e64a4db23441b1580cda7049bb174d&
+assets\Screenshot_20260922_180817_M365_Copilot-63516f0e9e103bb1.jpg
 
 
 [9/22/2026 1:11 PM] chameleon_cat
@@ -12520,8 +12520,8 @@ Huh, interesting
 
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1551989361355264101/IMG_8250.png?ex=6abb3a7a&is=6ab9e8fa&hm=7f5aeff81868a8cecf3a2a3435bdef6762dc55fae5abfd36d0e4bcb133983fda&
-https://cdn.discordapp.com/attachments/463106924708233216/1551989361933819904/IMG_8251.png?ex=6abb3a7a&is=6ab9e8fa&hm=ea721500c19d90c27ad04f7682353bfef1e4f76a359d841e2935514866c38406&
+assets\IMG_8250-1f05ca58ec5c1e62.png
+assets\IMG_8251-4e0ac5573673a65a.png
 
 
 [9/22/2026 1:12 PM] raezores
@@ -12663,7 +12663,7 @@ I’m afraid Playdead underestimated how many people would throw out the sticker
 Here's the output csv for the currently found stickers
 Originally sent: 9/22/2026 10:33 AM
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1551996705011138632/stickers_csv.csv?ex=6abb4151&is=6ab9efd1&hm=6575963ff52858f8533a2d3f4e22a659c94c45efa3952db8750acda8c30c9f18&
+assets\stickers_csv-c3400f31325053ee.csv
 
 
 
@@ -12705,7 +12705,7 @@ And there are some pretty short entries here. Just a single symbol. Could really
 This may help with visualisation, it's the stickers converted to colours with different transpositions
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1551997705700778155/variations.zip?ex=6abb423f&is=6ab9f0bf&hm=02e8e9a312a1b2e749bcb31e8d63c12ec921323369e114d44447611c0240fe15&
+assets\variations-5a8ce76bbf47c53a.zip
 
 
 [9/22/2026 1:44 PM] thisisks
@@ -12860,7 +12860,7 @@ Yeah, none of them are registered under the same person either, so I bet it was 
 Anyone got a full quality image or scan of the slip cover? I just took a screenshot of the graph, but can't find the source (GitHub link died)
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1552095978549674074/53c1e790-aed5-4926-b2fd-b91240bfb902.png?ex=6abaf505&is=6ab9a385&hm=5e9a9e8f02fdd7d829a7d3fca667884fe8075901adcb5a86d8a0192f7abd3dcb&
+assets\53c1e790-aed5-4926-b2fd-b91240bfb902-1e3ce03b57090916.png
 
 
 [9/22/2026 8:18 PM] santiface
@@ -12879,8 +12879,8 @@ helloooo! love the game, played it thru in one sitting on release day. so long a
 its the rorschach thing im especially stuck on, especially seeing the mirrored logo on the game case. mirror everythingg
 
 {Attachments}
-https://cdn.discordapp.com/attachments/463106924708233216/1552471546042523668/HF5LInPW8AESXCR.png?ex=6abb014c&is=6ab9afcc&hm=8308561720df57d6ab291aa51b5cf4cd5de2e4677c5e3ae37994887d8854deb2&
-https://cdn.discordapp.com/attachments/463106924708233216/1552471547665711125/image.png?ex=6abb014c&is=6ab9afcc&hm=2469c7708534877cb59643623c247e29ddbf5109e1669fb8f053f5c7e488c257&
+assets\HF5LInPW8AESXCR-eab1b753718acbf9.png
+assets\image-d87214cff3937fdb.png
 
 
 [9/23/2026 10:01 PM] polariz1
@@ -12937,7 +12937,7 @@ blinkers, beehives, loaves, gliders, ships, boats, long boats,
 beacons and block on tables.
 
 See also ark.
-https://images-ext-1.discordapp.net/external/xO62o6RGxkTP1jWXe1FT6l0jo_7hHDtXgqycW0SYR9s/https/playgameoflife.com/lexicon/pix/Noahs_ark.png
+assets\Noahs_ark-39cc9b3e859827a3.png
 
 
 [9/24/2026 9:25 PM] vrevangelist

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		<h4>X offset and Y offset</h4>
+		<input id="x" type="number" value=0>
+		<input id="y" type="number" value=0>
+		<input id="sub" type="submit" onclick="run()"><br>
+		<canvas id="canv_placeholder" hidden></canvas>
+		<canvas id="display"></canvas>
+		<script type="text/javascript">
+			var offset_x = 0;
+			var offset_y = 0;
+			var spacing = 16;
+
+
+			var image_original = new Image();
+
+			var data;
+			image_original.src = "image.png";
+			function run(){
+				offset_x = parseInt(document.getElementById("x").value);
+				offset_y = parseInt(document.getElementById("y").value);
+				var canv_placeholder = document.getElementById("canv_placeholder");
+				var canv_display = document.getElementById("display");
+				canv_placeholder.width = image_original.width;
+				canv_placeholder.height = image_original.height;
+				var placeholder_ctx = canv_placeholder.getContext("2d");
+				canv_display.width = image_original.width / spacing;
+				canv_display.height = image_original.height / spacing;
+				var display_ctx = canv_display.getContext("2d");
+				placeholder_ctx.drawImage(image_original, 0, 0);
+				display_ctx.clearRect(0, 0, image_original.width / spacing, image_original.height / spacing);
+				for(var x = 0; x < canv_placeholder.width / spacing; x += 1){
+					for(var y = 0; y < canv_placeholder.height / spacing; y += 1){
+						data = placeholder_ctx.getImageData(x * spacing + offset_x, y * spacing + offset_y, 1, 1).data;
+						display_ctx.fillStyle = "rgb(" + data[0] + ", " + data[1] + ", " + data[2] + ")";
+						display_ctx.fillRect(x, y, 1, 1);
+					}
+				}
+
+			}
+		</script>
+	</body>
+</html>

@@ -1,0 +1,107 @@
+var guid = function () {
+  function s4() {
+    return Math.floor((1 + Math.random()) * 0x10000)
+      .toString(16)
+      .substring(1);
+  }
+  return s4() + s4() + '-' + s4() + '-' + s4() + '-' +
+    s4() + '-' + s4() + s4() + s4();
+}
+
+var changeForInput = function () {
+  $("#style-for-print").text(
+      "@media print {" +
+          // ".main-page-wrapper{" +
+          //     "display: none;" +
+          // "}" +
+          "#sign-up-header{" +
+              "display: none;" +
+          "}" +
+          "#sign-up-header-print{" +
+              "display: block;" +
+          "}" +
+          ".print-wrapper {" +
+            "display: block;" +
+          "}" +
+      "}"
+  );
+  $('#sign-up-header-print').html('/-comms gateway established............/<br>/-..................encryption approved/<br>/-...........incorrect message received/');
+}
+var changeForInputSuccess = function () {
+  $("#style-for-print").text(
+      "@media print {" +
+          ".main-page-wrapper{" +
+              "display: none;" +
+          "}" +
+          ".print-wrapper {" +
+            "display: block;" +
+          "}" +
+      "}"
+  );
+}
+
+var changeForNoInput = function () {
+  $("#style-for-print").text(
+      "@media print {" +
+          // ".main-page-wrapper{" +
+          //     "display: none;" +
+          // "}" +
+          "#sign-up-header{" +
+              "display: none;" +
+          "}" +
+          "#sign-up-header-print{" +
+              "display: block;" +
+          "}" +
+          ".print-wrapper {" +
+            "display: block;" +
+          "}" +
+      "}"
+  );
+  $('#sign-up-header-print').html('/-comms gateway established............/<br>/-..................encryption approved/<br>/-..................no message received/');
+}
+
+
+var printCheck = function() {
+    // show loader
+    $('.print-button-bg').hide();
+    $('#print-loader').css('display', 'inline-block');
+
+    // id
+    if (!('id' in localStorage)) {
+      localStorage.setItem('id', guid());
+    }
+
+    // check
+    var s_input = $('#mce-EMAIL').val();
+    if (!/^$|\s+/.test(s_input)) {
+
+      // $('.print-button-bg').hide();
+      var data = { in: s_input, id: localStorage.getItem('id'), check: 'true' };
+      $.post('/print/index.php', data).done(function( data ) {
+        if (data == 'false') {
+          changeForInput();
+          setTimeout(function () {
+            $('.print-button-bg').show();
+            $('#print-loader').css('display', 'none');
+            window.print();
+          }, 1000);
+        } else {
+          var _data = { in: s_input, id: localStorage.getItem('id')};
+          $.post('/print/index.php', _data).done(function( data ) {
+            $('#print-content').html(data);
+            changeForInputSuccess();
+            setTimeout(function () {
+              $('.print-button-bg').show();
+              $('#print-loader').css('display', 'none');
+              window.print();
+            }, 1000);
+          });
+        }
+      });
+    } else {
+      changeForNoInput();
+      $('.print-button-bg').show();
+      $('#print-loader').css('display', 'none');
+      window.print();
+    }
+}
