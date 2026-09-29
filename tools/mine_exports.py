@@ -18,6 +18,9 @@ CHANNEL_FILES = [
     if p.name.startswith("Playdead Unofficial - ")
 ]
 
+TEXT_ASSET_SUFFIXES = {".txt", ".html", ".htm", ".js", ".py", ".json", ".csv", ".md"}
+TEXT_ASSET_MAX_BYTES = 12 * 1024 * 1024
+
 KEYWORD_GROUPS = {
     "sticker_core": [
         r"sticker", r"collector'?s edition", r"collector edition", r"iam8bit",
@@ -83,6 +86,7 @@ channel_stats = {}
 domain_counts = Counter()
 group_counts = Counter()
 asset_names = []
+asset_content_hits = []
 
 for path in sorted(CHANNEL_FILES):
     line_count = 0
@@ -148,6 +152,36 @@ for p in sorted(Path("assets").rglob("*")):
             "sha256": sha256(p),
         })
 
+    if p.suffix.lower() in TEXT_ASSET_SUFFIXES and p.stat().st_size <= TEXT_ASSET_MAX_BYTES:
+        prev = []
+        for n, line in read_lines(p):
+            groups = []
+            for group, patterns in COMPILED.items():
+                if any(pt.search(line) for pt in patterns):
+                    groups.append(group)
+            if groups:
+                context = " | ".join((prev[-2:] + [line])[-3:])
+                asset_content_hits.append({
+                    "path": str(p),
+                    "line": n,
+                    "groups": ",".join(groups),
+                    "text": line[:1000],
+                    "context": context[:2400],
+                })
+            for url in URL_RE.findall(line):
+                url = url.rstrip(".,;:!?")
+                host = urlparse(url).netloc.lower()
+                domain_counts[host] += 1
+                url_rows.append({
+                    "file": str(p),
+                    "line": n,
+                    "domain": host,
+                    "url": url[:2000],
+                })
+            prev.append(line[:1200])
+            if len(prev) > 2:
+                prev.pop(0)
+
 url_counter = Counter(r["url"] for r in url_rows)
 first_url = {}
 for r in url_rows:
@@ -170,6 +204,11 @@ with (OUT / "asset-inventory.tsv").open("w", encoding="utf-8", newline="") as fh
     w.writeheader()
     w.writerows(asset_names)
 
+with (OUT / "asset-content-hits.tsv").open("w", encoding="utf-8", newline="") as fh:
+    w = csv.DictWriter(fh, fieldnames=["path","line","groups","text","context"], delimiter="\t")
+    w.writeheader()
+    w.writerows(asset_content_hits)
+
 summary = {
     "schema_version": 1,
     "channel_stats": channel_stats,
@@ -179,6 +218,7 @@ summary = {
     "keyword_hit_rows": len(hit_rows),
     "unique_urls": len(url_counter),
     "interesting_assets": len(asset_names),
+    "asset_content_hit_rows": len(asset_content_hits),
 }
 (OUT / "summary.json").write_text(json.dumps(summary, indent=2), encoding="utf-8")
 
@@ -211,6 +251,7 @@ md += [
     "- keyword-hits.tsv preserves matched line text plus up to two preceding lines as compact context.",
     "- url-inventory.tsv deduplicates URLs while preserving the first source location and occurrence count.",
     "- asset-inventory.tsv inventories clue-relevant asset filenames with SHA-256 hashes.",
+    "- asset-content-hits.tsv searches the contents of text-like archived assets (HTML/TXT/JS/PY/JSON/CSV/MD) up to 12 MiB each.",
     "- summary.json contains machine-readable counts.",
     "",
     "These files are discovery indexes, not evidence conclusions. Re-check any promoted claim against its source export/asset.",
