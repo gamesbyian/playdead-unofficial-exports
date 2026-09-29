@@ -6,6 +6,7 @@ on:
       - analysis/rank-arg-leads-2026-09-29
     paths:
       - tools/rank_leads.py
+      - tools/extract_targeted_leads.py
       - .github/workflows/rank-leads.yml
 
 permissions:
@@ -27,12 +28,15 @@ jobs:
       - name: Rank mined leads
         run: python tools/rank_leads.py
 
+      - name: Extract targeted research ledgers
+        run: python tools/extract_targeted_leads.py
+
       - name: Commit ranked report
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add analysis/ranked-leads.md
+          git add analysis/ranked-leads.md analysis/sticker-serial-leads.tsv analysis/registration-leads.tsv analysis/external-resource-leads.tsv analysis/targeted-leads.md
           if git diff --cached --quiet; then
             echo "No derived changes."
             exit 0
