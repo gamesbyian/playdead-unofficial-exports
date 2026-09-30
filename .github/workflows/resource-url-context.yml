@@ -6,6 +6,7 @@ on:
       - analysis/resource-url-context-2026-09-29
     paths:
       - tools/extract_resource_context.py
+      - tools/extract_clue_context.py
       - .github/workflows/resource-url-context.yml
 
 permissions:
@@ -22,14 +23,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Extract context
+      - name: Extract resource URL context
         run: python tools/extract_resource_context.py
+
+      - name: Extract targeted clue context
+        run: python tools/extract_clue_context.py
       - name: Commit report
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add analysis/resource-context.tsv
+          git add analysis/resource-context.tsv analysis/clue-context.tsv
           if git diff --cached --quiet; then
             exit 0
           fi
