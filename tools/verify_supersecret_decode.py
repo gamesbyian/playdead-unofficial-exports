@@ -18,8 +18,8 @@ ref_arr=np.asarray(Image.open(ref).convert("RGB"),dtype=np.int16)
 assert ref_arr.shape == (376,610,3)
 
 cands={}
-def add(name,a):
-    a=np.clip(a,0,255).astype(np.uint8).reshape(376,610,3)
+def score_arr(name,a):
+    a=np.clip(a,0,255).astype(np.uint8)
     diff=np.abs(a.astype(np.int16)-ref_arr)
     cands[name]={
         "mean_abs_error":float(diff.mean()),
@@ -28,12 +28,23 @@ def add(name,a):
         "exact_pixel_fraction":float(np.all(diff==0,axis=2).mean()),
     }
 
-add("shift_round",np.rint((samples+1)*127.5))
-add("shift_floor",np.floor((samples+1)*127.5))
-add("clip_round",np.rint(samples*255))
-add("clip_floor",np.floor(samples*255))
-add("signed_offset_32768",np.floor((samples*32768+32768)/257))
-add("signed_offset_32767",np.rint((samples*32768+32768)*255/65535))
+def interleaved(v):
+    return v.reshape(376,610,3)
+
+def row_planar(v):
+    return v.reshape(376,3,610).transpose(0,2,1)
+
+mappings={
+    "shift_round":np.rint((samples+1)*127.5),
+    "shift_floor":np.floor((samples+1)*127.5),
+    "clip_round":np.rint(samples*255),
+    "clip_floor":np.floor(samples*255),
+    "signed_offset_32768":np.floor((samples*32768+32768)/257),
+    "signed_offset_32767":np.rint((samples*32768+32768)*255/65535),
+}
+for norm,v in mappings.items():
+    score_arr("interleaved_"+norm,interleaved(v))
+    score_arr("row_planar_"+norm,row_planar(v))
 
 # Pixel-channel correlations help detect reference postprocessing even if no candidate is byte-exact.
 for name in list(cands):
