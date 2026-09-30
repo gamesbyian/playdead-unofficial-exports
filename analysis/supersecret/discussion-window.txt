@@ -1,0 +1,661 @@
+10820: [1/12/2026 8:58 AM] nuggets4321
+10821: this is what 10 years on the same ARG does to the fan base
+10822: 
+10823: 
+10824: [1/12/2026 11:26 AM] ashenpoet
+10825: May the real arg was the friends we made along the way-
+10826: 
+10827: {Reactions}
+10828: ❤️
+10829: 
+10830: [1/13/2026 3:07 PM] bigdusty.
+10831: all 5 of us haha
+10832: 
+10833: {Reactions}
+10834: 🔥 (2)
+10835: 
+10836: [3/27/2026 9:19 AM] ghaith2025
+10837: I think this might be something, thx to @/probablynotbread now we have INSIDE's audio files with their context name.
+10838: 
+10839: 
+10840: [3/27/2026 9:19 AM] ghaith2025
+10841: one of the files is under a folder called "supersecret"
+10842: 
+10843: 
+10844: [3/27/2026 9:20 AM] ghaith2025
+10845: ***KINDA LOUD***
+10846: 
+10847: {Attachments}
+10848: assets\image_Game26585_681347534-0ccc807a7c7b0a55.wav
+10849: 
+10850: 
+10851: [3/27/2026 9:20 AM] ghaith2025
+10852: as you can see it's named "image"
+10853: 
+10854: 
+10855: [3/27/2026 9:21 AM] ghaith2025
+10856: maybe I'm wrong but I think if this audio file put in some kinda viewer can reveal some sort of image?
+10857: 
+10858: 
+10859: [3/27/2026 9:22 AM] aperson1
+10860: that does not sound like it would reveal an image, probably.
+10861: 
+10862: 
+10863: [3/27/2026 9:22 AM] ghaith2025
+10864: The reason I think this cause of how files named and the sound of it.
+10865: 
+10866: 
+10867: [3/27/2026 9:27 AM] aperson1
+10868: well it looks like this
+10869: 
+10870: {Attachments}
+10871: assets\image-6412b37bf8a99c67.png
+10872: 
+10873: 
+10874: [3/27/2026 9:28 AM] aperson1
+10875: honestly it might be incorrectly encoded
+10876: 
+10877: 
+10878: [3/27/2026 9:30 AM] ghaith2025
+10879: I mean all the other audio files are normal, no way this specific one got messed up
+10880: 
+10881: 
+10882: [3/27/2026 9:48 AM] lime8159
+10883: definitely looks interesting
+10884: 
+10885: 
+10886: [3/27/2026 9:51 AM] ghaith2025
+10887: I mean it has to be something, a weird audio file named "image" inside a folder named "superSecret" 😅
+10888: 
+10889: {Attachments}
+10890: assets\image-b9b9eef654c5e288.png
+10891: 
+10892: 
+10893: [3/27/2026 9:53 AM] lime8159
+10894: only one file in that folder?
+10895: 
+10896: 
+10897: [3/27/2026 9:54 AM] ghaith2025
+10898: yep
+10899: 
+10900: 
+10901: [3/27/2026 9:54 AM] ghaith2025
+10902: you can get it for yourself here
+10903: 
+10904: 
+10905: [3/27/2026 9:54 AM] ghaith2025
+10906: https://discord.com/channels/460626942190813184/461275526716194818/1486981271904190554
+10907: 
+10908: 
+10909: [3/27/2026 9:54 AM] lime8159
+10910: 👀
+10911: 
+10912: 
+10913: [3/27/2026 9:54 AM] lime8159
+10914: thx
+10915: 
+10916: 
+10917: [3/27/2026 9:54 AM] ghaith2025
+10918: all the audio files of INSIDE actually named, not with random numbers
+10919: 
+10920: 
+10921: [3/27/2026 9:56 AM] ghaith2025
+10922: some of names are actually interesting, it helps understanding the lore a lot
+10923: 
+10924: 
+10925: [3/27/2026 10:42 AM] lime8159
+10926: took a look at the binary for the wav, there's a section that looks like this among all the nonsense symbols
+10927: 
+10928: {Attachments}
+10929: assets\image-2bed01c001afff8d.png
+10930: 
+10931: 
+10932: [3/27/2026 10:42 AM] lime8159
+10933: looks kinda like an encoding but maybe looking too much into it
+10934: 
+10935: 
+10936: [3/27/2026 10:51 AM] lime8159
+10937: yh, think it's just coincidence, but will keep looking
+10938: 
+10939: 
+10940: [3/27/2026 1:23 PM] darkmatter_11
+10941: Oooh, I think the waveform definitely looks like an image data. These triplets could correspond to the R G B values of the rows in a 710x376 size image (if I didn't miscount)
+10942: 
+10943: {Attachments}
+10944: assets\image-4ba79417d49b3b72.png
+10945: 
+10946: {Reactions}
+10947: ❤️ (5)
+10948: 
+10949: [3/27/2026 1:42 PM] darkmatter_11
+10950: It worked! It's indeed an image of size 610x376 (I did miscount)
+10951: 
+10952: 
+10953: [3/27/2026 1:43 PM] darkmatter_11 (pinned)
+10954: 
+10955: 
+10956: {Attachments}
+10957: assets\image_wav-4eb8725b7ff41261.png
+10958: 
+10959: {Reactions}
+10960: 👀 (23) 🎉 (17) boy_dab (13)
+10961: 
+10962: [3/27/2026 1:53 PM] lime8159
+10963: wow, nice!
+10964: 
+10965: 
+10966: [3/27/2026 1:54 PM] lime8159
+10967: they rly love hiding bitmaps in random things lol
+10968: 
+10969: 
+10970: [3/27/2026 1:55 PM] darkmatter_11
+10971: Here's how I got this: just took the data from the waveform (as a long list of numbers between -1 and 1), and made an RGB image out of it with a quick script in Mathematica
+10972: 
+10973: {Attachments}
+10974: assets\image-f279f38d014e4674.png
+10975: 
+10976: {Reactions}
+10977: boy_dab (8)
+10978: 
+10979: [3/27/2026 1:57 PM] lime8159
+10980: very smart
+10981: 
+10982: 
+10983: [3/27/2026 1:59 PM] grky_
+10984: Awesome stuff. Great to see some new finds. Stellar work from everyone involved.
+10985: 
+10986: 
+10987: [3/27/2026 2:09 PM] aabho
+10988: oh holy crap
+10989: 
+10990: 
+10991: [3/27/2026 2:24 PM] ghaith2025
+10992: holy shit
+10993: 
+10994: 
+10995: [3/27/2026 2:25 PM] ghaith2025
+10996: I FUCKING KNEW IT
+10997: 
+10998: 
+10999: [3/27/2026 2:26 PM] ha5.x
+11000: im celebrating tonight
+11001: 
+11002: 
+11003: [3/27/2026 2:27 PM] ghaith2025
+11004: thank you so much ❤️
+11005: 
+11006: {Reactions}
+11007: limbro_drink
+11008: 
+11009: [3/27/2026 2:31 PM] raezores
+11010: Omg we actually found something Playdead intentionally hid for us
+11011: 
+11012: 
+11013: [3/27/2026 2:32 PM] raezores
+11014: Creds to all of you who found this out, I would never be able to ever think of that haha, awesome
+11015: 
+11016: 
+11017: [3/27/2026 2:33 PM] raezores
+11018: Playdead spies, where you at
+11019: 
+11020: 
+11021: [3/27/2026 2:33 PM] raezores
+11022: Heres the next big Playdead office talk on monday
+11023: 
+11024: 
+11025: [3/27/2026 2:33 PM] raezores
+11026: Start of week meeting: they found some of our concept art
+11027: 
+11028: 
+11029: [3/27/2026 2:35 PM] mikefjord
+11030: WOAH
+11031: 
+11032: 
+11033: [3/27/2026 2:35 PM] mikefjord
+11034: IS THIS NEW?
+11035: 
+11036: 
+11037: [3/27/2026 2:36 PM] raezores
+11038: Yo @Pitch Bright @Twinysam check this out
+11039: 
+11040: {Reactions}
+11041: 👍 😮
+11042: 
+11043: [3/27/2026 2:37 PM] ghaith2025
+11044: I think there is another file similar to this let me find it. maybe another image?? 👀 let me go through the 6000+ audio files again and find it 😅
+11045: 
+11046: 
+11047: [3/27/2026 2:38 PM] ha5.x
+11048: how do you even find these folders? is it somewhere beyond steam game folder?
+11049: 
+11050: 
+11051: [3/27/2026 2:39 PM] ghaith2025
+11052: 
+11053: 
+11054: {Attachments}
+11055: assets\Capture_decran_2026-03-27_183851-958f58a0d4a56bf5.png
+11056: 
+11057: 
+11058: [3/27/2026 2:39 PM] raezores
+11059: I believe in you❤️
+11060: 
+11061: 
+11062: [3/27/2026 2:39 PM] ghaith2025
+11063: they are in .bnk format you have to use a tool to extract them
+11064: 
+11065: 
+11066: [3/27/2026 2:39 PM] ha5.x
+11067: ohh
+11068: 
+11069: 
+11070: [3/27/2026 2:39 PM] ha5.x
+11071: i see, thanks
+11072: 
+11073: 
+11074: [3/27/2026 2:40 PM] raezores
+11075: This is the exact kinda dopamine rush I get when finding stickers, its hard then and there, but worth it
+11076: 
+11077: 
+11078: [3/27/2026 2:40 PM] raezores
+11079: I guess it would feel like being on drugs
+11080: 
+11081: 
+11082: [3/27/2026 2:41 PM] probablynotbeard
+11083: games that use wwiseaudio usually have a file named SoundBanksInfo.xml/.json in the files that have all the proper names for the unlabeled audio files
+11084: 
+11085: {Reactions}
+11086: 👍
+11087: 
+11088: [3/27/2026 2:42 PM] ghaith2025
+11089: I noticed not all the audio files are in the google drive you posted, some of them are missing.
+11090: 
+11091: 
+11092: [3/27/2026 2:42 PM] probablynotbeard
+11093: I think that’s because they aren’t in the soundbanksinfo file
+11094: 
+11095: 
+11096: [3/27/2026 2:43 PM] ghaith2025
+11097: yea probably thats why
+11098: 
+11099: 
+11100: [3/27/2026 2:45 PM] lime8159
+11101: is there any way to tell if that file has been in there since release or if it was added later?
+11102: 
+11103: 
+11104: [3/27/2026 2:46 PM] lime8159
+11105: doesn't make much difference, just curious
+11106: 
+11107: 
+11108: [3/27/2026 2:46 PM] ghaith2025
+11109: I have a GOG version from 2018 and its there I can confirm
+11110: 
+11111: {Reactions}
+11112: 😮
+11113: 
+11114: [3/27/2026 2:46 PM] lime8159
+11115: nice, thx
+11116: 
+11117: 
+11118: [3/27/2026 2:47 PM] lime8159
+11119: was wondering if it might have been related to the collecters edition puzzle but probably unlikely
+11120: 
+11121: 
+11122: [3/27/2026 2:48 PM] santiface
+11123: Nicely done @ghaith and @DarkMatter ! Crazy that this has been there all that time.
+11124: 
+11125: {Reactions}
+11126: ❤️ (5)
+11127: 
+11128: [3/27/2026 2:52 PM] santiface
+11129: Pinned a message.
+11130: 
+11131: 
+11132: [3/27/2026 2:52 PM] santiface
+11133: This probably merits an inclusion in #tldr
+11134: 
+11135: 
+11136: [3/27/2026 3:00 PM] santiface
+11137: This realization reminds me of the beginning of Pluribus: https://www.youtube.com/watch?v=_RZ3FqObaaM
+11138: 
+11139: {Embed}
+11140: Apple TV
+11141: https://www.youtube.com/watch?v=_RZ3FqObaaM
+11142: Pluribus — The Signal | Scene | Apple TV
+11143: Here are the first five minutes of Pluribus, Carol. Pluribus is now streaming on Apple TV https://apple.co/_Pluribus
+11144: 
+11145: Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube
+11146: 
+11147: Follow Apple TV:
+11148: Instagram: https://instagram.com/AppleTV
+11149: TikTok: https://tiktok.com/@AppleTV
+11150: Facebook: https://facebook.com/AppleTV
+11151: X: https://X.com/App...
+11152: assets\maxresdefault-c684942416d3d8c1.jpg
+11153: 
+11154: {Reactions}
+11155: ❤️ (3)
+11156: 
+11157: [3/27/2026 3:02 PM] ghaith2025
+11158: this is the other file , I think they are the same just different name. doesn't hurt to check.
+11159: 
+11160: {Attachments}
+11161: assets\Game2_3202-0feb2e7d1bc83f6b.mp3
+11162: 
+11163: 
+11164: [3/27/2026 3:11 PM] raezores
+11165: Ye actually when you mention it, I would say its a big step for us 😛 even tho its «only» art, but I think everyone agree its a huge W
+11166: 
+11167: 
+11168: [3/27/2026 3:15 PM] ha5.x
+11169: is there a google drive with all the extracted files perchance?
+11170: 
+11171: 
+11172: [3/27/2026 3:15 PM] santiface
+11173: https://drive.google.com/drive/folders/1mitP9wjW0HS1vSUWig5vO2fZlMyd1ie9
+11174: 
+11175: {Embed}
+11176: https://drive.google.com/drive/folders/1mitP9wjW0HS1vSUWig5vO2fZlMyd1ie9
+11177: 
+11178: 
+11179: [3/27/2026 3:16 PM] ha5.x
+11180: thanks
+11181: 
+11182: 
+11183: [3/27/2026 3:19 PM] ghaith2025
+11184: now the real question... this was discovered by data mining the game. was there a way to find this in game naturally?
+11185: 
+11186: 
+11187: [3/27/2026 3:22 PM] lime8159
+11188: hearing this in game and being able to tell it's an encoded image would be mental
+11189: 
+11190: 
+11191: [3/27/2026 3:33 PM] hidefiance
+11192: this is amazing work truly but i can’t help but feel a lil sad that we’re still seeing game 3 only in concept art a whole 10 years after inside
+11193: 
+11194: 
+11195: [3/27/2026 3:45 PM] probablynotbeard
+11196: @/garden6 mentioned the image.wav file a while back but never posted it
+11197: 
+11198: {Attachments}
+11199: assets\image-cbd2314e71add6a3.png
+11200: 
+11201: {Reactions}
+11202: 😮 (2) 🤔
+11203: 
+11204: [3/27/2026 3:53 PM] roger_peterson
+11205: This was
+11206: 
+11207: 
+11208: [3/27/2026 3:53 PM] roger_peterson
+11209: 6 years
+11210: 
+11211: 
+11212: [3/27/2026 3:53 PM] roger_peterson
+11213: Ago
+11214: 
+11215: 
+11216: [3/27/2026 3:54 PM] roger_peterson
+11217: We would have found this
+11218: 
+11219: 
+11220: [3/27/2026 3:54 PM] roger_peterson
+11221: Ages ago
+11222: 
+11223: 
+11224: [3/27/2026 3:54 PM] ha5.x
+11225: maybe they tried to hint us
+11226: 
+11227: 
+11228: [3/27/2026 3:54 PM] roger_peterson
+11229: There might be more
+11230: 
+11231: 
+11232: [3/27/2026 3:54 PM] roger_peterson
+11233: Than this
+11234: 
+11235: 
+11236: [3/27/2026 3:55 PM] santiface
+11237: That's the only file in the superSecret folder tho
+11238: 
+11239: 
+11240: [3/27/2026 3:58 PM] roger_peterson
+11241: In other folders
+11242: 
+11243: 
+11244: [3/27/2026 3:58 PM] roger_peterson
+11245: When I was seeing the files
+11246: 
+11247: 
+11248: [3/27/2026 3:58 PM] roger_peterson
+11249: There were
+11250: 
+11251: 
+11252: [3/27/2026 3:58 PM] roger_peterson
+11253: Very odd ones
+11254: 
+11255: 
+11256: [3/27/2026 3:58 PM] roger_peterson
+11257: Like the audio wasn’t in game
+11258: 
+11259: 
+11260: [3/27/2026 3:59 PM] ghaith2025
+11261: 
+11262: 
+11263: {Attachments}
+11264: assets\SoundbanksInfo-92ab41c6b5a14432.xml
+11265: 
+11266: 
+11267: [3/27/2026 3:59 PM] ghaith2025
+11268: here are the names of all the audio files,
+11269: 
+11270: 
+11271: [3/27/2026 3:59 PM] roger_peterson
+11272: Oh
+11273: 
+11274: 
+11275: [3/27/2026 4:11 PM] aperson1
+11276: aha i told you it was encoded as something else
+11277: 
+11278: 
+11279: [3/27/2026 4:12 PM] aperson1
+11280: well i mean i didnt do anything productive beyond that but very nice work to the clever folks who did
+11281: 
+11282: 
+11283: [3/27/2026 4:13 PM] aperson1
+11284: sorry i guess i shoulda said that it sounded like a different file type than what it presented as, did not mean to imply theyd messed this one up
+11285: 
+11286: {Reactions}
+11287: ❤️
+11288: 
+11289: [3/27/2026 4:26 PM] probablynotbeard
+11290: im gonna try downgrading to an older version of inside to see if it's still there
+11291: 
+11292: {Reactions}
+11293: ❤️
+11294: 
+11295: [3/27/2026 4:28 PM] darkmatter_11
+11296: Yeah, it's basically the same audio file, it generated the same picture. (There's a short quiet section at the beginning and end of this file, but I'm quite sure that's just because the .wav was converted to an .mp3)
+11297: 
+11298: {Attachments}
+11299: assets\image-72f98dcd15c21cf5.png
+11300: 
+11301: 
+11302: [3/27/2026 4:28 PM] aperson1
+11303: game 3 confirmed for 3202 AD release (real)
+11304: 
+11305: {Reactions}
+11306: ☠️
+11307: 
+11308: [3/27/2026 4:52 PM] santiface
+11309: Made a quick app to try to check if other files had images
+11310: 
+11311: 
+11312: [3/27/2026 4:52 PM] santiface
+11313: python audio-detective.py                                                                                                                    54ms  71% 16:34:57
+11314: Files exhibiting potential image-data characteristics:
+11315: File: C:\Garbage\Inside Audio Files\concert hall double decay_dc (Game2#8255 (1071983592)).wav | Mean: 0.0009 | Avg Abs Amp: 0.3376 | Samples: 171912
+11316: File: C:\Garbage\Inside Audio Files\concert hall preset decay_dc (Game2#6493 (664791960)).wav | Mean: 0.0028 | Avg Abs Amp: 0.4780 | Samples: 92664
+11317: File: C:\Garbage\Inside Audio Files\middle hall 1 half decay_dc (Game2#3667 (266152100)).wav | Mean: 0.0019 | Avg Abs Amp: 0.4470 | Samples: 52068
+11318: File: C:\Garbage\Inside Audio Files\middle hall 1 preset decay_dc (Game2#2230 (137020827)).wav | Mean: 0.0006 | Avg Abs Amp: 0.4390 | Samples: 65904
+11319: File: C:\Garbage\Inside Audio Files\small room 1 double decay_dc (Game2#6177 (606956032)).wav | Mean: 0.0010 | Avg Abs Amp: 0.4587 | Samples: 49728
+11320: File: C:\Garbage\Inside Audio Files\andreas\superSecret\image (Game2#6585 (681347534)).wav | Mean: 0.0962 | Avg Abs Amp: 0.3694 | Samples: 688080 (this is the one we already know)
+11321: 
+11322: 
+11323: [3/27/2026 4:52 PM] santiface
+11324: Can anyone check these?
+11325: 
+11326: 
+11327: [3/27/2026 4:52 PM] santiface
+11328: based on their names I would expect them to not be anything, but doesn't hurt to try
+11329: 
+11330: 
+11331: [3/27/2026 5:04 PM] ghaith2025
+11332: ***VERY LOUD WARNING***
+11333: 
+11334: {Attachments}
+11335: assets\small_room_1_double_decay_dc_Game26177_606-34ee8aa6cf63214d.wav
+11336: assets\middle_hall_1_preset_decay_dc_Game22230_13-25954ec612982155.wav
+11337: assets\middle_hall_1_half_decay_dc_Game23667_2661-81e2b01c88ea4a28.wav
+11338: assets\concert_hall_preset_decay_dc_Game26493_664-45826f0da0541719.wav
+11339: assets\concert_hall_double_decay_dc_Game28255_107-eebc649b021cc1ae.wav
+11340: 
+11341: 
+11342: [3/27/2026 5:05 PM] ghaith2025
+11343: ***VERY LOUD WARNING***
+11344: 
+11345: 
+11346: [3/27/2026 5:33 PM] darkmatter_11
+11347: I think they don't look like images, their waveforms have different textures. But they also don't look like audio files, could be something else.
+11348: 
+11349: 
+11350: [3/27/2026 5:33 PM] santiface
+11351: I think they are almost certainly Impulse Responses (IRs) or lookup tables for the game's convolution reverb engine.
+11352: 
+11353: 
+11354: [3/27/2026 6:53 PM] lime8159
+11355: yh, i think ur right, tried slowing one of them down, it starts with a sine wave then gets more and more noisy
+11356: 
+11357: {Attachments}
+11358: assets\middle_hall_1_half_decay_dc_Game23667_2661-a230a168ec4ea0bf.wav
+11359: 
+11360: 
+11361: [3/27/2026 6:53 PM] lime8159
+11362: sounds like an eas alert lol
+11363: 
+11364: 
+11365: [3/27/2026 7:49 PM] raezores
+11366: I just want to mention and ask even though I don’t know how this stuff works, but could it be possible the CE stickers is like a puzzle related to sound like this? Something that creates some sound stuff like we saw above, that again can be translated into an image or something? Because in that image it looks like some kinda pattern repeated with the same code. Just wanted to suggest it:limbro_drink: :1eu812jh2:
+11367: 
+11368: 
+11369: [3/27/2026 7:57 PM] aperson1
+11370: unfortunately not, there is not nearly enough data
+11371: 
+11372: 
+11373: [3/27/2026 7:58 PM] aperson1
+11374: this is several hundred kilobytes of data. the stickers are perhaps 200 bits at absolute maximum, and that image we have displaying all 108 is the most that you can really get out of that data visually in any format, more information can't really be teased out without some advanced context and lore
+11375: 
+11376: 
+11377: [3/27/2026 8:01 PM] raezores
+11378: Oh okay ye then it makes sense, thanks :p
+11379: 
+11380: 
+11381: [3/28/2026 12:06 PM] bigdusty.
+11382: You guys are awesome! Great work @DarkMatter and @ghaith
+11383: 
+11384: {Reactions}
+11385: ❤️ (4)
+11386: 
+11387: [3/28/2026 12:09 PM] bigdusty.
+11388: Honestly I don’t know you solved that so damn quick Dark. You’re a stud!
+11389: 
+11390: 
+11391: [3/28/2026 2:03 PM] peafowlseeker
+11392: i think these are impulse response sounds for Wwise convolution
+11393: 
+11394: 
+11395: [3/28/2026 2:04 PM] peafowlseeker
+11396: but its actually strange that they are synthesized rather than recorded in a real room
+11397: 
+11398: 
+11399: [3/28/2026 2:07 PM] peafowlseeker
+11400: i think it has some connection to logarithmic frequency/phase/amplitude modulation as we can see that every grade of sound blasts gets new overtones
+11401: 
+11402: 
+11403: [3/28/2026 2:07 PM] peafowlseeker
+11404: my english may be bad
+11405: 
+11406: 
+11407: [3/28/2026 2:07 PM] peafowlseeker
+11408: but i cant think further that that
+11409: 
+11410: 
+11411: [3/30/2026 12:28 AM] bigdusty.
+11412: I’m still excited from that solve @DarkMatter  🕺🏻 
+11413: 
+11414: So this was just hidden in the game files? Was there supposed to be a way to find it or is it more likely they knew we would snoop through the files. I suppose a name like SuperSecret leans more towards the ladder.
+11415: 
+11416: 
+11417: [3/31/2026 10:34 AM] ghaith2025
+11418: I can confirm that the audio image is launched with the game day 1, this is PS4 files it was complied even before the release day:
+11419: 
+11420: 
+11421: [3/31/2026 10:35 AM] ghaith2025
+11422: 
+11423: 
+11424: {Attachments}
+11425: assets\audio-630d80e9fc426fed.png
+11426: 
+11427: {Reactions}
+11428: ❤️ (5)
+11429: 
+11430: [3/31/2026 10:35 AM] mikefjord
+11431: wow, thats crazy
+11432: 
+11433: 
+11434: [3/31/2026 10:36 AM] mikefjord
+11435: the concept art is like 10 years old
+11436: 
+11437: 
+11438: [3/31/2026 10:36 AM] ghaith2025
+11439: yep so it is really the first concept art (for the audience at least)
+11440: 
+11441: 
+11442: [3/31/2026 10:41 AM] ghaith2025
+11443: now another thing.... this a theory;
+11444: the secret room under the corn field, in the audio files it's called "alienRoom", could this be connected to Game3? you know... since it's a " science fiction adventure set in a remote corner of the universe"
+11445: 
+11446: 
+11447: [3/31/2026 10:41 AM] ghaith2025
+11448: 
+11449: 
+11450: {Attachments}
+11451: assets\alien_room-fa942888256abd35.png
+11452: 
+11453: 
+11454: [3/31/2026 11:30 AM] bigdusty.
+11455: Interesting!
+11456: 
+11457: 
+11458: [3/31/2026 12:30 PM] roger_peterson
+11459: 🤔
+11460: 
+11461: 
+11462: [3/31/2026 2:45 PM] heartnimations
+11463: anything on the secret elevator right under the map
+11464: 
+11465: 
+11466: [3/31/2026 2:59 PM] santiface
+11467: Well, a fair number of aspects from the ARG, which is first and foremost about INSIDE, has been connected to Project 3, right? Like planets, game of life, etc. So it's not far-fetched at all to conceive they could be somehow connected. That said, "alien" doesn't necessarily mean extra-terrestrial, it could just be foreign. And there is nothing in the room itself, or the rest of the game for that matter, to suggest anything space-sci-fi related. It's interesting though.
+11468: 
+11469: 
+11470: [3/31/2026 3:40 PM] raezores
+11471: We did the bunker code project and nothing. But maybe its like the rebirth ending, you gotta activate something in the files, and there is a hidden lever code? But when we did it the game was in its «normal» mode?
+11472: 
+11473: 
+11474: [3/31/2026 3:41 PM] ghaith2025
+11475: Could be yeah
+11476: 
+11477: 
+11478: [3/31/2026 3:42 PM] raezores
+11479: BRUH
+11480: 

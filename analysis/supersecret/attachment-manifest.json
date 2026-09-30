@@ -1,0 +1,203 @@
+[
+  {
+    "referenced_name": "Capture_decran_2026-03-27_183851-958f58a0d4a56bf5.png",
+    "path": "assets/Capture_decran_2026-03-27_183851-958f58a0d4a56bf5.png",
+    "bytes": 2038,
+    "sha256": "43edf3edcce989e0d340ba94c672339dc860188bf79d141e4b8d8dd0d7809ced",
+    "format": "png",
+    "width": 331,
+    "height": 53
+  },
+  {
+    "referenced_name": "Game2_3202-0feb2e7d1bc83f6b.mp3",
+    "path": "assets/Game2_3202-0feb2e7d1bc83f6b.mp3",
+    "bytes": 421149,
+    "sha256": "f366fe45098f9719950ef20f5e5a57471ae462a32d35dcfc263f33418c230025"
+  },
+  {
+    "referenced_name": "SoundbanksInfo-92ab41c6b5a14432.xml",
+    "path": "assets/SoundbanksInfo-92ab41c6b5a14432.xml",
+    "bytes": 5678538,
+    "sha256": "21892b1977b8420693b72dd87ae302683a2349c2328a3d91138f01b0c4b46a5e"
+  },
+  {
+    "referenced_name": "alien_room-fa942888256abd35.png",
+    "path": "assets/alien_room-fa942888256abd35.png",
+    "bytes": 8512,
+    "sha256": "286340983378e571f79dca34ab6004f1e8a15c948e005ee9f62311d12d43ee0f",
+    "format": "png",
+    "width": 568,
+    "height": 95
+  },
+  {
+    "referenced_name": "audio-630d80e9fc426fed.png",
+    "path": "assets/audio-630d80e9fc426fed.png",
+    "bytes": 3072,
+    "sha256": "26d3fa8b60a74bbe499dabbf94cbc17b1a6196a68b86b78b46f4d2887ea31789",
+    "format": "png",
+    "width": 408,
+    "height": 118
+  },
+  {
+    "referenced_name": "concert_hall_double_decay_dc_Game28255_107-eebc649b021cc1ae.wav",
+    "path": "assets/concert_hall_double_decay_dc_Game28255_107-eebc649b021cc1ae.wav",
+    "bytes": 687692,
+    "sha256": "1f5a89441002208a6ef0b1ce06cf450a28c827d45fde93378b999506e6f2c318",
+    "format": "wav",
+    "channels": 2,
+    "sample_width": 2,
+    "sample_rate": 48000,
+    "frames": 171912,
+    "duration_s": 3.5815
+  },
+  {
+    "referenced_name": "concert_hall_preset_decay_dc_Game26493_664-45826f0da0541719.wav",
+    "path": "assets/concert_hall_preset_decay_dc_Game26493_664-45826f0da0541719.wav",
+    "bytes": 370700,
+    "sha256": "25e42a428b5ede6d2d439a6931f6e3b91e05b7490c3e2e6508646edb126ab848",
+    "format": "wav",
+    "channels": 2,
+    "sample_width": 2,
+    "sample_rate": 48000,
+    "frames": 92664,
+    "duration_s": 1.9305
+  },
+  {
+    "referenced_name": "image-2bed01c001afff8d.png",
+    "path": "assets/image-2bed01c001afff8d.png",
+    "bytes": 27828,
+    "sha256": "2b284c30c56febc3b41c631a85508c61ad8c335be9e7b1765014402761a0656c",
+    "format": "png",
+    "width": 209,
+    "height": 210
+  },
+  {
+    "referenced_name": "image-4ba79417d49b3b72.png",
+    "path": "assets/image-4ba79417d49b3b72.png",
+    "bytes": 83006,
+    "sha256": "e5d329f1566224e4282d7159f405ad72bb0064a2f9d3b6c4633150049d329c7a",
+    "format": "png",
+    "width": 1530,
+    "height": 529
+  },
+  {
+    "referenced_name": "image-6412b37bf8a99c67.png",
+    "path": "assets/image-6412b37bf8a99c67.png",
+    "bytes": 2481259,
+    "sha256": "6d65300fce6a98b382751f3096b7300d2f6193a158d5adf3305e482b45054c95",
+    "format": "png",
+    "width": 1842,
+    "height": 743
+  },
+  {
+    "referenced_name": "image-72f98dcd15c21cf5.png",
+    "path": "assets/image-72f98dcd15c21cf5.png",
+    "bytes": 19909,
+    "sha256": "ce49121724310fdab91bc164b232ab2a98e1210b5b66bb97d117adab1ad1f04b",
+    "format": "png",
+    "width": 834,
+    "height": 365
+  },
+  {
+    "referenced_name": "image-b9b9eef654c5e288.png",
+    "path": "assets/image-b9b9eef654c5e288.png",
+    "bytes": 52598,
+    "sha256": "9041ad99667a87cb3ff4eaf8c511df2451618bc5319156a4173b2b861b67fa43",
+    "format": "png",
+    "width": 586,
+    "height": 432
+  },
+  {
+    "referenced_name": "image-cbd2314e71add6a3.png",
+    "path": "assets/image-cbd2314e71add6a3.png",
+    "bytes": 18609,
+    "sha256": "9046d0c5928cc72044080eb4e23f411cf273867a135c5df1f3ad388180afd533",
+    "format": "png",
+    "width": 477,
+    "height": 165
+  },
+  {
+    "referenced_name": "image-f279f38d014e4674.png",
+    "path": "assets/image-f279f38d014e4674.png",
+    "bytes": 400448,
+    "sha256": "ab5cf8a60309cb6703c709c0a2f8e2b01e1c7b54995a9df39217eb2fb8c46ecb",
+    "format": "png",
+    "width": 1554,
+    "height": 906
+  },
+  {
+    "referenced_name": "image_Game26585_681347534-0ccc807a7c7b0a55.wav",
+    "path": "assets/image_Game26585_681347534-0ccc807a7c7b0a55.wav",
+    "bytes": 1376204,
+    "sha256": "2392baa9dd6261e6a9711e42379c0d412f623ee9269cb8b4094045ed2d0ef335",
+    "format": "wav",
+    "channels": 1,
+    "sample_width": 2,
+    "sample_rate": 48000,
+    "frames": 688080,
+    "duration_s": 14.335
+  },
+  {
+    "referenced_name": "image_wav-4eb8725b7ff41261.png",
+    "path": "assets/image_wav-4eb8725b7ff41261.png",
+    "bytes": 1097064,
+    "sha256": "35682ae1fd57a91546ec6f8b35ec08bae85db5d4dc1bd9c033d713f72e19c410",
+    "format": "png",
+    "width": 610,
+    "height": 376
+  },
+  {
+    "referenced_name": "maxresdefault-c684942416d3d8c1.jpg",
+    "path": "assets/maxresdefault-c684942416d3d8c1.jpg",
+    "bytes": 221057,
+    "sha256": "9c3ab937e97771f71624f27d4cbf939579f2683c89bcb0004d1b3c2e954e61f8"
+  },
+  {
+    "referenced_name": "middle_hall_1_half_decay_dc_Game23667_2661-81e2b01c88ea4a28.wav",
+    "path": "assets/middle_hall_1_half_decay_dc_Game23667_2661-81e2b01c88ea4a28.wav",
+    "bytes": 208316,
+    "sha256": "97c16eb3abd014c025c9b46ba033dc52fa598ddb0a9f774f2f5ac5862a037c3d",
+    "format": "wav",
+    "channels": 2,
+    "sample_width": 2,
+    "sample_rate": 48000,
+    "frames": 52068,
+    "duration_s": 1.08475
+  },
+  {
+    "referenced_name": "middle_hall_1_half_decay_dc_Game23667_2661-a230a168ec4ea0bf.wav",
+    "path": "assets/middle_hall_1_half_decay_dc_Game23667_2661-a230a168ec4ea0bf.wav",
+    "bytes": 5272364,
+    "sha256": "c52ca7bef4fcc71e8c9737d134fea7fece6bfbadb90a332cf7852d03ae49a4a6",
+    "format": "wav",
+    "channels": 2,
+    "sample_width": 2,
+    "sample_rate": 48000,
+    "frames": 1318080,
+    "duration_s": 27.46
+  },
+  {
+    "referenced_name": "middle_hall_1_preset_decay_dc_Game22230_13-25954ec612982155.wav",
+    "path": "assets/middle_hall_1_preset_decay_dc_Game22230_13-25954ec612982155.wav",
+    "bytes": 263660,
+    "sha256": "6aa02e459317dbc1130df0f3011cbb1e43bc85ede7636a71b63a7e359cf7e1c1",
+    "format": "wav",
+    "channels": 2,
+    "sample_width": 2,
+    "sample_rate": 48000,
+    "frames": 65904,
+    "duration_s": 1.373
+  },
+  {
+    "referenced_name": "small_room_1_double_decay_dc_Game26177_606-34ee8aa6cf63214d.wav",
+    "path": "assets/small_room_1_double_decay_dc_Game26177_606-34ee8aa6cf63214d.wav",
+    "bytes": 198956,
+    "sha256": "8f6d1607c62163bb1af3d1ff87359734b2b080e82b42d21b8e97ed612ee3d11b",
+    "format": "wav",
+    "channels": 2,
+    "sample_width": 2,
+    "sample_rate": 48000,
+    "frames": 49728,
+    "duration_s": 1.036
+  }
+]
